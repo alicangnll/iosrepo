@@ -3915,11 +3915,11 @@ Name: LetMeBlock
 Package: com.nobody.untrustedhostsblockermega
 Version: 2.1.1
 Architecture: iphoneos-arm
-Maintainer: Thireus <repo@thireus.com>
+Maintainer: nobody <repo@nobody.com>
 Installed-Size: 3625
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.thireus.untrustedhostsblocker9
-Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblockerexperimental, com.thireus.hostscleaner, com.thireus.untrustedhostsblockeripv4, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.nobody.untrustedhostsblocker9
+Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblockerexperimental, com.nobody.hostscleaner, com.nobody.untrustedhostsblockeripv4, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
 Filename: ./TR/UntrustedHostsBlockerMega_2.1.1-1_iphoneos-arm.deb
 Size: 1089094
 MD5sum: 12b9548b70a147b92c456b8a089d8fd5
@@ -3927,19 +3927,19 @@ SHA1: 6d29eba3077a2b48e79285f9e33683917ced04ba
 SHA256: 20251e403e89b55cdc3d863d626dea4dc37b62139dbc2164e52bebe5af94742b
 Section: Security
 Priority: standard
-Homepage: https://repo.thireus.com
+Homepage: https://repo.nobody.com
 Description: UHB Mega | AMD64
-Author: Thireus <repo@thireus.com>
+Author: nobody <repo@nobody.com>
 Name: UHB - iOS 3/4/5/6/7/8  (Untrusted Hosts Blocker)
 
-Package: com.thireus.untrustedhostsblocker9
+Package: com.nobody.untrustedhostsblocker9
 Version: 1.7.1
 Architecture: iphoneos-arm
-Maintainer: Thireus <repo@thireus.com>
+Maintainer: nobody <repo@nobody.com>
 Installed-Size: 69
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
-Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.hostscleaner, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.hostscleaner, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
 Filename: ./TR/UntrustedHostsBlocker9_1.7.1-1_iphoneos-arm.deb
 Size: 54350
 MD5sum: f5471d1f4abce2545e38acb66e253a28
@@ -3947,21 +3947,21 @@ SHA1: 1ec7d94a1d3298bd442bbb6e8f5f4c5f481139e7
 SHA256: 5d97113441b4316596a86e4ee84387013bfeb81083335a9ce2ee3a596fcf8199
 Section: Security
 Priority: standard
-Homepage: https://repo.thireus.com
-Description: UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)
-Author: Thireus <repo@thireus.com>
+Homepage: https://repo.nobody.com
+Description: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
+Author: nobody <repo@nobody.com>
 Name: UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)
-Author: Thireus <repo@thireus.com>
+Author: nobody <repo@nobody.com>
 Name: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
 
-Package: com.thireus.untrustedhostsblockermegaipv4
+Package: com.nobody.untrustedhostsblockermegaipv4
 Version: 1.1.1
 Architecture: iphoneos-arm
-Maintainer: Thireus <repo@thireus.com>
+Maintainer: nobody <repo@nobody.com>
 Installed-Size: 1830
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.thireus.untrustedhostsblocker9
-Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.untrustedhostsblockerexperimental, com.thireus.hostscleaner, com.thireus.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.nobody.untrustedhostsblocker9
+Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblockerexperimental, com.nobody.hostscleaner, com.nobody.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
 Filename: ./Packages_robinbird/UntrustedHostsBlockerMegaIPv4_1.1.1-1_iphoneos-arm.deb
 Size: 900888
 MD5sum: 2a474353b24e8998c24bacad36ea846e
@@ -3969,7 +3969,7 @@ SHA1: 646798e621320df10d1eca3c9298ee64226e41ff
 SHA256: a9897e4e4ddba66971f9c18f43f8e9601e3ab7fe9c52fbbf39f02b45f09e7d73
 Section: Security
 Priority: standard
-Homepage: https://repo.thireus.com
+Homepage: https://repo.nobody.com
 Description: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
-Author: Thireus <repo@thireus.com>
+Author: nobody <repo@nobody.com>
 Name: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
