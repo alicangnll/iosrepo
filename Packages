@@ -3990,3 +3990,23 @@ Author: Yusuf Ã–zgÃ¼l  <yozgul@icloud.com>
 Depiction: http://jailbreaktr.com/repo/depictions/?p=jbtrYama
 Name: JailbreakTR Yama UygulayÄ±cÄ±
 Icon: https://apt.jailbreaktr.me/sileoicon/JTR-TR.png
+
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Version: 70.0
+Architecture: iphoneos-arm
+Description: Crackli uygulamaları yükleme özelliğini etkinleştirir.
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, sileoturkiye.appsyncunified
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: Linus Yang
+Section: TR - Sistem
+Depiction: http://lifpa.com/repo/depiction/appsyncunified/index.html
+Icon: http://lifpa.com/repo/depiction/appsyncunified/icon.png
+Sileodepiction: http://lifpa.com/repo/depiction/appsyncunified/index.php
+sha256: c423d0a01c7058ee8bb1224660ff41b5dbc0ffbd8ca948e497d27eef24313f61
+MD5sum: 78ba545ca1abe96be3d35034c8333e2e
+Size: 64030
+Filename: debs/appsyncunified.deb
