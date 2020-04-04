@@ -4009,4 +4009,22 @@ Sileodepiction: http://lifpa.com/repo/depiction/appsyncunified/index.php
 sha256: c423d0a01c7058ee8bb1224660ff41b5dbc0ffbd8ca948e497d27eef24313f61
 MD5sum: 78ba545ca1abe96be3d35034c8333e2e
 Size: 64030
-Filename: debs/appsyncunified.deb
+Filename: ./TR/appsyncunified.deb
+
+Package: sileoturkiye.dlcrack
+Name: DLEasy Crack
+Version: 1.1
+Architecture: iphoneos-arm
+Description: DLEasy tweaki için crack işlemi yapar.
+Depends: firmware (>= 10.0), mobilesubstrate, curl
+Conflicts: me.pulandresk.dleasy, sileoturkiyee.dleasy
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: Önder Azazi <onderazazi@hotmail.com>
+Section: TR - Tweak
+Depiction: http://lifpa.com/repo/depiction/dlcrack/index.html
+Icon: http://lifpa.com/repo/depiction/dlcrack/icon.png
+Sileodepiction: http://lifpa.com/repo/depiction/dlcrack/index.php
+sha256: 2d96e012739edc63318724d92517eb3cf76fda820adc700001e4f530539f64a9
+MD5sum: f4d1d8b5003a25996ce81ac73427120d
+Size: 51704
+Filename: ./TR/dlcrack.deb
