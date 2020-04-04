@@ -3901,7 +3901,7 @@ Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/com.nobody.letmeblock_0.0.7.1_iphoneos-arm.deb
+Filename: ./TR/com.nobody.letmeblock_0.0.7.1_iphoneos-arm.deb
 Size: 6108
 MD5sum: 2c117370cb07e6a04dedbf84439de558
 SHA1: f69b8571546438c73731533bc6f17ca87dd31245
