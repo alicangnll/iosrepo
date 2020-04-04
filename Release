@@ -1,0 +1,9 @@
+Origin: RepoiOS
+Label: RepoiOS/Homebrew
+Suite: stable
+Version: 2.2-Final
+Architectures: iphoneos-arm
+Components: main
+Codename: RepoiOS Project
+Description: RepoiOS
+
