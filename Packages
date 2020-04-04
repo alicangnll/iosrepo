@@ -1,4 +1,4 @@
-Package: io.nobody.a2ps
+Package: io.mc.a2ps
 Version: 4.14-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -13,7 +13,7 @@ Section: Utilities
 Description: Any-to-PostScript filter
 Name: a2ps
 
-Package: io.nobody.a52dec
+Package: io.mc.a52dec
 Version: 0.7.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -28,7 +28,7 @@ Section: Utilities
 Description: Library for decoding ATSC A/52 streams (AKA 'AC-3')
 Name: a52dec
 
-Package: io.nobody.aacgain
+Package: io.mc.aacgain
 Version: 1.8-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -43,13 +43,13 @@ Section: Utilities
 Description: AAC-supporting version of mp3gain
 Name: aacgain
 
-Package: io.nobody.aalib
+Package: io.mc.aalib
 Version: 1.4rc5-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 372
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/aalib_1.4rc5-2_iphoneos-arm.deb
 Size: 43154
 MD5sum: 87fd179ed98caff0501f09a7532314d3
@@ -59,13 +59,13 @@ Section: Development
 Description: Portable ASCII art graphics library
 Name: aalib
 
-Package: io.nobody.aalib
+Package: io.mc.aalib
 Version: 1.4rc5-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 372
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/aalib_1.4rc5-3_iphoneos-arm.deb
 Size: 43226
 MD5sum: e4e1aca0efd6f144f6f5b263203a7d08
@@ -75,13 +75,13 @@ Section: Development
 Description: Portable ASCII art graphics library
 Name: aalib
 
-Package: io.nobody.aamath
+Package: io.mc.aamath
 Version: 0.3-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 196
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.readline
+Depends: io.mc.ncurses, io.mc.readline
 Filename: ./TR/aamath_0.3-4_iphoneos-arm.deb
 Size: 39526
 MD5sum: f94fd959e8ab752ace52ef3f8e254e18
@@ -91,13 +91,13 @@ Section: Utilities
 Description: Renders mathematical expressions as ASCII art
 Name: aamath
 
-Package: io.nobody.aamath
+Package: io.mc.aamath
 Version: 0.3-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 200
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.readline
+Depends: io.mc.ncurses, io.mc.readline
 Filename: ./TR/aamath_0.3-5_iphoneos-arm.deb
 Size: 39966
 MD5sum: 690b0c2d430dbf5b05a291dee8404ab8
@@ -107,13 +107,13 @@ Section: Utilities
 Description: Renders mathematical expressions as ASCII art
 Name: aamath
 
-Package: io.nobody.aamath
+Package: io.mc.aamath
 Version: 0.3-6
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 200
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.readline
+Depends: io.mc.ncurses, io.mc.readline
 Filename: ./TR/aamath_0.3-6_iphoneos-arm.deb
 Size: 40094
 MD5sum: fb1659f83ea4cf4f95cb6470fc565665
@@ -123,13 +123,13 @@ Section: Utilities
 Description: Renders mathematical expressions as ASCII art
 Name: aamath
 
-Package: io.nobody.adb
+Package: io.mc.adb
 Version: 10-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1120
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libusb, io.nobody.openssl
+Depends: io.mc.libusb, io.mc.openssl
 Filename: ./TR/adb_10-1_iphoneos-arm.deb
 Size: 220134
 MD5sum: c24ae6fc8e4f6052e34154905f7f9b90
@@ -139,13 +139,13 @@ Section: Utilities
 Description: A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
 Name: Android Debug Bridge
 
-Package: io.nobody.adb
+Package: io.mc.adb
 Version: 10-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 876
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libusb, io.nobody.openssl
+Depends: io.mc.libusb, io.mc.openssl
 Filename: ./TR/adb_10-2_iphoneos-arm.deb
 Size: 202176
 MD5sum: ed3daa619bb790451044b1f19300f3b4
@@ -155,13 +155,13 @@ Section: Utilities
 Description: A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
 Name: Android Debug Bridge
 
-Package: io.nobody.adb
+Package: io.mc.adb
 Version: 10-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 876
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libusb, io.nobody.openssl
+Depends: io.mc.libusb, io.mc.openssl
 Filename: ./TR/adb_10-3_iphoneos-arm.deb
 Size: 202028
 MD5sum: c4bda286a39536dd885887c30afe3004
@@ -171,13 +171,13 @@ Section: Utilities
 Description: A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
 Name: Android Debug Bridge
 
-Package: io.nobody.adb
+Package: io.mc.adb
 Version: 10-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 876
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libusb, io.nobody.openssl
+Depends: io.mc.libusb, io.mc.openssl
 Filename: ./TR/adb_10-4_iphoneos-arm.deb
 Size: 202222
 MD5sum: f447e9f8f54b1800c217c8c4ad61e180
@@ -187,13 +187,13 @@ Section: Utilities
 Description: A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
 Name: Android Debug Bridge
 
-Package: io.nobody.adb
+Package: io.mc.adb
 Version: 10-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 876
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libusb, io.nobody.openssl
+Depends: io.mc.libusb, io.mc.openssl
 Filename: ./TR/adb_10-5_iphoneos-arm.deb
 Size: 202358
 MD5sum: 705f5febcc0bc492eda3e9e7dcc7e5cf
@@ -203,13 +203,13 @@ Section: Utilities
 Description: A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
 Name: Android Debug Bridge
 
-Package: io.nobody.aircrack-ng
+Package: io.mc.aircrack-ng
 Version: 1.5.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1652
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl, io.nobody.pcre, io.nobody.sqlite
+Depends: io.mc.openssl, io.mc.pcre, io.mc.sqlite
 Filename: ./TR/aircrack-ng_1.5.2-1_iphoneos-arm.deb
 Size: 242718
 MD5sum: 52d270783d11421d34e66a7f9e8fea31
@@ -219,7 +219,7 @@ Section: Utilities
 Description: Next-generation aircrack with lots of new features
 Name: aircrack-ng
 
-Package: io.nobody.aom
+Package: io.mc.aom
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -234,13 +234,13 @@ Section: Development
 Description: Codec library for encoding and decoding AV1 video streams
 Name: aom
 
-Package: io.nobody.aria2
+Package: io.mc.aria2
 Version: 1.34.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3248
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libssh2, io.nobody.libxml2, io.nobody.openssl
+Depends: io.mc.libssh2, io.mc.libxml2, io.mc.openssl
 Filename: ./TR/aria2_1.34.0-2_iphoneos-arm.deb
 Size: 787844
 MD5sum: bfcf0da25fc3d00b132d4506f8f7dbb4
@@ -250,13 +250,13 @@ Section: Utilities
 Description: Download with resuming and segmented downloading
 Name: aria2
 
-Package: io.nobody.aria2
+Package: io.mc.aria2
 Version: 1.34.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3340
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libssh2, io.nobody.libxml2, io.nobody.openssl
+Depends: io.mc.libssh2, io.mc.libxml2, io.mc.openssl
 Filename: ./TR/aria2_1.34.0-3_iphoneos-arm.deb
 Size: 800210
 MD5sum: d0d4f3f25378f5725e1ecc3c552c61e8
@@ -266,13 +266,13 @@ Section: Utilities
 Description: Download with resuming and segmented downloading
 Name: aria2
 
-Package: io.nobody.aria2
+Package: io.mc.aria2
 Version: 1.34.0-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3340
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libssh2, io.nobody.libxml2, io.nobody.openssl
+Depends: io.mc.libssh2, io.mc.libxml2, io.mc.openssl
 Filename: ./TR/aria2_1.34.0-4_iphoneos-arm.deb
 Size: 799906
 MD5sum: 0aefdafdecd730c82159ae86c6bbf473
@@ -282,13 +282,13 @@ Section: Utilities
 Description: Download with resuming and segmented downloading
 Name: aria2
 
-Package: io.nobody.aria2
+Package: io.mc.aria2
 Version: 1.34.0-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3340
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libssh2, io.nobody.libxml2, io.nobody.openssl
+Depends: io.mc.libssh2, io.mc.libxml2, io.mc.openssl
 Filename: ./TR/aria2_1.34.0-5_iphoneos-arm.deb
 Size: 800404
 MD5sum: 337d7edca7cc72853bc034705c619775
@@ -298,13 +298,13 @@ Section: Utilities
 Description: Download with resuming and segmented downloading
 Name: aria2
 
-Package: io.nobody.arp-scan
+Package: io.mc.arp-scan
 Version: 1.9.5-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 908
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap
+Depends: io.mc.libpcap
 Filename: ./TR/arp-scan_1.9.5-2_iphoneos-arm.deb
 Size: 277466
 MD5sum: 3e544d7f0a05457533a6618f282b2367
@@ -314,13 +314,13 @@ Section: Utilities
 Description: ARP scanning and fingerprinting tool
 Name: arp-scan
 
-Package: io.nobody.arpoison
+Package: io.mc.arpoison
 Version: 0.7-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 56
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libnet
+Depends: io.mc.libnet
 Filename: ./TR/arpoison_0.7-1_iphoneos-arm.deb
 Size: 3494
 MD5sum: 16dda214f2ab9257bf61420e895cf3f1
@@ -330,7 +330,7 @@ Section: Utilities
 Description: UNIX arp cache update utility
 Name: arpoison
 
-Package: io.nobody.aspell
+Package: io.mc.aspell
 Version: 0.60.7-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -345,13 +345,13 @@ Section: Utilities
 Description: Spell checker with better logic than ispell
 Name: aspell
 
-Package: io.nobody.axel
+Package: io.mc.axel
 Version: 2.17.3-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 112
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.openssl
+Depends: io.mc.gettext, io.mc.openssl
 Filename: ./TR/axel_2.17.3-2_iphoneos-arm.deb
 Size: 26332
 MD5sum: 699e34e8c74e73de2a7ffd3544d87a55
@@ -361,13 +361,13 @@ Section: Utilities
 Description: Light UNIX download accelerator
 Name: axel
 
-Package: io.nobody.axel
+Package: io.mc.axel
 Version: 2.17.3-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 112
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.openssl
+Depends: io.mc.gettext, io.mc.openssl
 Filename: ./TR/axel_2.17.3-3_iphoneos-arm.deb
 Size: 26296
 MD5sum: 8d09ce829da066921b6df4a1158738a9
@@ -377,13 +377,13 @@ Section: Utilities
 Description: Light UNIX download accelerator
 Name: axel
 
-Package: io.nobody.bc
+Package: io.mc.bc
 Version: 1.07.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 224
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/bc_1.07.1-2_iphoneos-arm.deb
 Size: 50950
 MD5sum: 42aee7f6fe08c1498fa6a7df1c2fe224
@@ -393,13 +393,13 @@ Section: Utilities
 Description: Arbitrary precision numeric processing language
 Name: bc
 
-Package: io.nobody.bc
+Package: io.mc.bc
 Version: 1.07.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 224
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/bc_1.07.1-3_iphoneos-arm.deb
 Size: 50516
 MD5sum: 437489d872626d48c5ae4dd02aca0026
@@ -409,13 +409,13 @@ Section: Utilities
 Description: Arbitrary precision numeric processing language
 Name: bc
 
-Package: io.nobody.bcal
+Package: io.mc.bcal
 Version: 2.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 76
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/bcal_2.1-2_iphoneos-arm.deb
 Size: 14636
 MD5sum: 0c1c9b96d1023f82431d9e8adc123cba
@@ -425,13 +425,13 @@ Section: Utilities
 Description: Storage conversion and expression calculator
 Name: bcal
 
-Package: io.nobody.bcal
+Package: io.mc.bcal
 Version: 2.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 76
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/bcal_2.1-3_iphoneos-arm.deb
 Size: 14518
 MD5sum: 8b08b3721cf2937683257a57a3e9f026
@@ -441,13 +441,13 @@ Section: Utilities
 Description: Storage conversion and expression calculator
 Name: bcal
 
-Package: io.nobody.bdw-gc
+Package: io.mc.bdw-gc
 Version: 8.0.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 628
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libatomic_ops
+Depends: io.mc.libatomic_ops
 Filename: ./TR/bdw-gc_8.0.4-1_iphoneos-arm.deb
 Size: 130086
 MD5sum: 020a95fb5555a35b4694346314212f87
@@ -457,13 +457,13 @@ Section: Utilities
 Description: Garbage collector for C and C++
 Name: bdw-gc
 
-Package: io.nobody.bison
+Package: io.mc.bison
 Version: 3.4.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1120
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.m4
+Depends: io.mc.m4
 Filename: ./TR/bison_3.4.2-1_iphoneos-arm.deb
 Size: 265516
 MD5sum: 71c4afb738804ca87783e3cf95171782
@@ -473,13 +473,13 @@ Section: Utilities
 Description: Parser generator
 Name: bison
 
-Package: io.nobody.bison
+Package: io.mc.bison
 Version: 3.4.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1120
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.m4
+Depends: io.mc.m4
 Filename: ./TR/bison_3.4.2-2_iphoneos-arm.deb
 Size: 265274
 MD5sum: 2519ac6fd269d1cf85b428a8d245da8e
@@ -489,7 +489,7 @@ Section: Utilities
 Description: Parser generator
 Name: bison
 
-Package: io.nobody.boost
+Package: io.mc.boost
 Version: 1.70.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -504,7 +504,7 @@ Section: Utilities
 Description: Collection of portable C++ source libraries
 Name: boost
 
-Package: io.nobody.bsdiff
+Package: io.mc.bsdiff
 Version: 4.3-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -519,7 +519,7 @@ Section: Utilities
 Description: Generate and apply patches to binary files
 Name: bsdiff
 
-Package: io.nobody.byacc
+Package: io.mc.byacc
 Version: 20190617-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -534,7 +534,7 @@ Section: Utilities
 Description: (Arguably) the best yacc variant
 Name: byacc
 
-Package: io.nobody.c-ares
+Package: io.mc.c-ares
 Version: 1.15.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -549,13 +549,13 @@ Section: Development
 Description: Asynchronous DNS library
 Name: c-ares
 
-Package: io.nobody.cairo
+Package: io.mc.cairo
 Version: 1.16.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2196
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.fontconfig, io.nobody.freetype, io.nobody.glib, io.nobody.libpng, io.nobody.lzo, io.nobody.pixman
+Depends: io.mc.fontconfig, io.mc.freetype, io.mc.glib, io.mc.libpng, io.mc.lzo, io.mc.pixman
 Filename: ./TR/cairo_1.16.0-2_iphoneos-arm.deb
 Size: 468718
 MD5sum: 34e4707d0f2eb6e0a02ded2b487d1d1d
@@ -565,13 +565,13 @@ Section: Development
 Description: Vector graphics library with cross-device output support
 Name: cairo
 
-Package: io.nobody.cairo
+Package: io.mc.cairo
 Version: 1.16.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2196
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.fontconfig, io.nobody.freetype, io.nobody.glib, io.nobody.libpng, io.nobody.lzo, io.nobody.pixman
+Depends: io.mc.fontconfig, io.mc.freetype, io.mc.glib, io.mc.libpng, io.mc.lzo, io.mc.pixman
 Filename: ./TR/cairo_1.16.0-3_iphoneos-arm.deb
 Size: 468432
 MD5sum: 12bd2c726b0c12d4f4ac2743db82a455
@@ -581,7 +581,7 @@ Section: Development
 Description: Vector graphics library with cross-device output support
 Name: cairo
 
-Package: io.nobody.cmake
+Package: io.mc.cmake
 Version: 3.15.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -596,13 +596,13 @@ Section: Utilities
 Description: Cross-platform make
 Name: cmake
 
-Package: io.nobody.curl
+Package: io.mc.curl
 Version: 7.65.3-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 972
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/curl_7.65.3-3_iphoneos-arm.deb
 Size: 320234
 MD5sum: 878cffc6619a4d85c2815d70d7834987
@@ -612,13 +612,13 @@ Section: Utilities
 Description: Get a file from an HTTP, HTTPS or FTP server
 Name: curl
 
-Package: io.nobody.curl
+Package: io.mc.curl
 Version: 7.65.3-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 956
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/curl_7.65.3-4_iphoneos-arm.deb
 Size: 318776
 MD5sum: e0470ed3ec3766586ff87015ff987ec4
@@ -628,13 +628,13 @@ Section: Utilities
 Description: Get a file from an HTTP, HTTPS or FTP server
 Name: curl
 
-Package: io.nobody.cyrus-sasl
+Package: io.mc.cyrus-sasl
 Version: 2.1.27-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1048
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/cyrus-sasl_2.1.27-2_iphoneos-arm.deb
 Size: 139260
 MD5sum: 2019ad4612aeb209b09776ff1dff516d
@@ -644,13 +644,13 @@ Section: Developer
 Description: Authentication abstraction library.
 Name: Cryus-sasl
 
-Package: io.nobody.cyrus-sasl
+Package: io.mc.cyrus-sasl
 Version: 2.1.27-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1048
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/cyrus-sasl_2.1.27-3_iphoneos-arm.deb
 Size: 139020
 MD5sum: faa6ada3bbfc9426a1862f1037c8a03b
@@ -660,13 +660,13 @@ Section: Developer
 Description: Authentication abstraction library.
 Name: Cryus-sasl
 
-Package: io.nobody.daq
+Package: io.mc.daq
 Version: 2.0.6-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 564
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap
+Depends: io.mc.libpcap
 Filename: ./TR/daq_2.0.6-2_iphoneos-arm.deb
 Size: 90882
 MD5sum: 295f23e415fb4b8214f4a9d03f282d87
@@ -676,13 +676,13 @@ Section: Utilities
 Description: Network intrusion prevention and detection system
 Name: daq
 
-Package: io.nobody.dash
+Package: io.mc.dash
 Version: 0.5.10.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 156
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/dash_0.5.10.2-1_iphoneos-arm.deb
 Size: 50090
 MD5sum: 2ede642869a2d1cb26a940dbe6c5c9b7
@@ -692,13 +692,13 @@ Section: Utilities
 Description: POSIX-compliant descendant of NetBSD's ash (the Almquist SHell)
 Name: dash
 
-Package: io.nobody.dialog
+Package: io.mc.dialog
 Version: 1.3-20190728-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 848
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/dialog_1.3-20190728-4_iphoneos-arm.deb
 Size: 226108
 MD5sum: f54f7d5178ccd411f11c84c8d9a993eb
@@ -708,13 +708,13 @@ Section: Utilities
 Description: Display user-friendly message boxes from shell scripts
 Name: dialog
 
-Package: io.nobody.dialog
+Package: io.mc.dialog
 Version: 1.3-20190728-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 848
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/dialog_1.3-20190728-5_iphoneos-arm.deb
 Size: 224998
 MD5sum: dae1d40420b0b249eae1ad76fc5033f4
@@ -724,13 +724,13 @@ Section: Utilities
 Description: Display user-friendly message boxes from shell scripts
 Name: dialog
 
-Package: io.nobody.dialog
+Package: io.mc.dialog
 Version: 1.3-20190728-6
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 848
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/dialog_1.3-20190728-6_iphoneos-arm.deb
 Size: 224996
 MD5sum: 7fb01078459aaf8e648238556ca7ff9d
@@ -740,7 +740,7 @@ Section: Utilities
 Description: Display user-friendly message boxes from shell scripts
 Name: dialog
 
-Package: io.nobody.diffutils
+Package: io.mc.diffutils
 Version: 3.7-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -755,7 +755,7 @@ Section: Utilities
 Description: File comparison utilities
 Name: diffutils
 
-Package: io.nobody.dropbear
+Package: io.mc.dropbear
 Version: 2019.78-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -770,13 +770,13 @@ Section: Utilities
 Description: Small SSH server/client for POSIX-based system
 Name: dropbear
 
-Package: io.nobody.ettercap
+Package: io.mc.ettercap
 Version: 0.8.3-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3848
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.curl, io.nobody.geoip, io.nobody.libnet, io.nobody.libpcap, io.nobody.ncurses, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.curl, io.mc.geoip, io.mc.libnet, io.mc.libpcap, io.mc.ncurses, io.mc.openssl, io.mc.pcre
 Filename: ./TR/ettercap_0.8.3-4_iphoneos-arm.deb
 Size: 691384
 MD5sum: 579fd44b90690fe7f52dc15f7248b1ca
@@ -786,13 +786,13 @@ Section: Utilities
 Description: Multipurpose sniffer/interceptor/logger for switched LAN
 Name: ettercap
 
-Package: io.nobody.ettercap
+Package: io.mc.ettercap
 Version: 0.8.3-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3848
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.curl, io.nobody.geoip, io.nobody.libnet, io.nobody.libpcap, io.nobody.ncurses, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.curl, io.mc.geoip, io.mc.libnet, io.mc.libpcap, io.mc.ncurses, io.mc.openssl, io.mc.pcre
 Filename: ./TR/ettercap_0.8.3-5_iphoneos-arm.deb
 Size: 689878
 MD5sum: f1bb8e08b29b419c9b86d5d41bcf08da
@@ -802,13 +802,13 @@ Section: Utilities
 Description: Multipurpose sniffer/interceptor/logger for switched LAN
 Name: ettercap
 
-Package: io.nobody.ettercap
+Package: io.mc.ettercap
 Version: 0.8.3-6
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3848
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.curl, io.nobody.geoip, io.nobody.libnet, io.nobody.libpcap, io.nobody.ncurses, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.curl, io.mc.geoip, io.mc.libnet, io.mc.libpcap, io.mc.ncurses, io.mc.openssl, io.mc.pcre
 Filename: ./TR/ettercap_0.8.3-6_iphoneos-arm.deb
 Size: 689922
 MD5sum: 47ead7f98a6ad1cc51ea531d67ffed62
@@ -818,7 +818,7 @@ Section: Utilities
 Description: Multipurpose sniffer/interceptor/logger for switched LAN
 Name: ettercap
 
-Package: io.nobody.expat
+Package: io.mc.expat
 Version: 2.2.7-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -833,13 +833,13 @@ Section: Utilities
 Description: XML 1.0 parser
 Name: expat
 
-Package: io.nobody.ffmpeg
+Package: io.mc.ffmpeg
 Version: 4.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 24880
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.aom, io.nobody.fontconfig, io.nobody.freetype, io.nobody.frei0r, io.nobody.gnutls, io.nobody.lame, io.nobody.libass, io.nobody.libbluray, io.nobody.libsoxr, io.nobody.libvidstab, io.nobody.libvorbis, io.nobody.libvpx, io.nobody.opencore-amr, io.nobody.openjpeg, io.nobody.opus, io.nobody.rtmpdump, io.nobody.rubberband, io.nobody.sdl2, io.nobody.snappy, io.nobody.speex, io.nobody.tesseract, io.nobody.theora, io.nobody.x264, io.nobody.x265, io.nobody.xvid, io.nobody.xz
+Depends: io.mc.aom, io.mc.fontconfig, io.mc.freetype, io.mc.frei0r, io.mc.gnutls, io.mc.lame, io.mc.libass, io.mc.libbluray, io.mc.libsoxr, io.mc.libvidstab, io.mc.libvorbis, io.mc.libvpx, io.mc.opencore-amr, io.mc.openjpeg, io.mc.opus, io.mc.rtmpdump, io.mc.rubberband, io.mc.sdl2, io.mc.snappy, io.mc.speex, io.mc.tesseract, io.mc.theora, io.mc.x264, io.mc.x265, io.mc.xvid, io.mc.xz
 Filename: ./TR/ffmpeg_4.2.1-1_iphoneos-arm.deb
 Size: 7257938
 MD5sum: 013bc94073190e7f4fa99c5300c6bbcf
@@ -849,13 +849,13 @@ Section: Utilities
 Description: Play, record, convert, and stream audio and video
   Play, record, convert, and stream audio and video
 
-Package: io.nobody.fish
+Package: io.mc.fish
 Version: 3.0.2-7
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 11556
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.pcre2
+Depends: io.mc.ncurses, io.mc.pcre2
 Filename: ./TR/fish_3.0.2-7_iphoneos-arm.deb
 Size: 1325130
 MD5sum: 2934c3ab83693360993428acd34a90c6
@@ -865,13 +865,13 @@ Section: Utilities
 Description: User-friendly command-line shell for UNIX-like operating systems
 Name: fish
 
-Package: io.nobody.fish
+Package: io.mc.fish
 Version: 3.0.2-8
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 11556
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.pcre2
+Depends: io.mc.ncurses, io.mc.pcre2
 Filename: ./TR/fish_3.0.2-8_iphoneos-arm.deb
 Size: 1325234
 MD5sum: 3e9ca440d4e9075ed3321165be573b64
@@ -881,13 +881,13 @@ Section: Utilities
 Description: User-friendly command-line shell for UNIX-like operating systems
 Name: fish
 
-Package: io.nobody.flac
+Package: io.mc.flac
 Version: 1.3.3-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1200
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libogg
+Depends: io.mc.libogg
 Filename: ./TR/flac_1.3.3-1_iphoneos-arm.deb
 Size: 235608
 MD5sum: 638db481a6d6e295ff4051e37b7c5052
@@ -897,13 +897,13 @@ Section: Utilities
 Description: Free lossless audio codec
 Name: flac
 
-Package: io.nobody.fltk
+Package: io.mc.fltk
 Version: 1.3.5-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4644
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.Xorg, io.nobody.jpeg, io.nobody.libpng
+Depends: io.mc.Xorg, io.mc.jpeg, io.mc.libpng
 Filename: ./TR/fltk_1.3.5-1_iphoneos-arm.deb
 Size: 935398
 MD5sum: a1a6de7692e337c82c8cb77940bc2a82
@@ -913,13 +913,13 @@ Section: Utilities
 Description: Cross-platform C++ GUI toolkit
 Name: fltk
 
-Package: io.nobody.fontconfig
+Package: io.mc.fontconfig
 Version: 2.13.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1068
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.expat, io.nobody.freetype
+Depends: io.mc.expat, io.mc.freetype
 Filename: ./TR/fontconfig_2.13.1-2_iphoneos-arm.deb
 Size: 131966
 MD5sum: 216fc7d7a8f1e6c32d45c3f2308fb4bd
@@ -929,13 +929,13 @@ Section: Utilities
 Description: XML-based font configuration API for X Windows
 Name: fontconfig
 
-Package: io.nobody.fontconfig
+Package: io.mc.fontconfig
 Version: 2.13.1-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1064
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.expat, io.nobody.freetype
+Depends: io.mc.expat, io.mc.freetype
 Filename: ./TR/fontconfig_2.13.1-4_iphoneos-arm.deb
 Size: 131550
 MD5sum: 057df35a88427c94e54b3664e9c3f912
@@ -945,13 +945,13 @@ Section: Utilities
 Description: XML-based font configuration API for X Windows
 Name: fontconfig
 
-Package: io.nobody.freetype
+Package: io.mc.freetype
 Version: 2.10.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1604
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpng
+Depends: io.mc.libpng
 Filename: ./TR/freetype_2.10.1-2_iphoneos-arm.deb
 Size: 407776
 MD5sum: a4618e44137fca22110d11f2fdbe7971
@@ -961,7 +961,7 @@ Section: Development
 Description: Software library to render fonts
 Name: freetype
 
-Package: io.nobody.frei0r
+Package: io.mc.frei0r
 Version: 1.6.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -976,7 +976,7 @@ Section: Utilities
 Description: Minimalistic plugin API for video effects
 Name: frei0r
 
-Package: io.nobody.fribidi
+Package: io.mc.fribidi
 Version: 1.0.7-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -991,7 +991,7 @@ Section: Utilities
 Description: Implementation of the Unicode BiDi algorithm
 Name: fribidi
 
-Package: io.nobody.gdbm
+Package: io.mc.gdbm
 Version: 1.18.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1006,13 +1006,13 @@ Section: Utilities
 Description: GNU database manager
 Name: gdbm
 
-Package: io.nobody.gdk-pixbuf
+Package: io.mc.gdk-pixbuf
 Version: 2.40.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1384
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.Xorg, io.nobody.glib, io.nobody.jpeg-turbo, io.nobody.libpng, io.nobody.libtiff
+Depends: io.mc.Xorg, io.mc.glib, io.mc.jpeg-turbo, io.mc.libpng, io.mc.libtiff
 Filename: ./TR/gdk-pixbuf_2.40.0-1_iphoneos-arm.deb
 Size: 168288
 MD5sum: 811454ae2408987bd833ff8faf2c94cd
@@ -1022,7 +1022,7 @@ Section: Utilities
 Description: Toolkit for image loading and pixel buffer manipulation
 Name: gdk-pixbuf
 
-Package: io.nobody.geoip
+Package: io.mc.geoip
 Version: 1.6.12-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1037,7 +1037,7 @@ Section: Development
 Description: This library is for the GeoIP Legacy format (dat)
 Name: geoip
 
-Package: io.nobody.gettext
+Package: io.mc.gettext
 Version: 0.20.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1052,7 +1052,7 @@ Section: Development
 Description: GNU internationalization (i18n) and localization (l10n) library
 Name: gettext
 
-Package: io.nobody.giflib
+Package: io.mc.giflib
 Version: 5.1.4-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1067,13 +1067,13 @@ Section: Utilities
 Description: Library and utilities for processing GIFs
 Name: giflib
 
-Package: io.nobody.glib
+Package: io.mc.glib
 Version: 2.60.6-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 8152
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.libffi, io.nobody.pcre
+Depends: io.mc.gettext, io.mc.libffi, io.mc.pcre
 Filename: ./TR/glib_2.60.6-3_iphoneos-arm.deb
 Size: 1372558
 MD5sum: 4d4c98fdf15680b60a1eae38c2fcbee9
@@ -1083,13 +1083,13 @@ Section: Development
 Description: Core application library for C
 Name: glib
 
-Package: io.nobody.glib
+Package: io.mc.glib
 Version: 2.60.6-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 8120
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.libffi, io.nobody.pcre
+Depends: io.mc.gettext, io.mc.libffi, io.mc.pcre
 Filename: ./TR/glib_2.60.6-4_iphoneos-arm.deb
 Size: 1367096
 MD5sum: 2eee4ea0af672b259a6a435b28892781
@@ -1099,13 +1099,13 @@ Section: Development
 Description: Core application library for C
 Name: glib
 
-Package: io.nobody.glib
+Package: io.mc.glib
 Version: 2.62.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 8268
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.libffi, io.nobody.pcre
+Depends: io.mc.gettext, io.mc.libffi, io.mc.pcre
 Filename: ./TR/glib_2.62.2-1_iphoneos-arm.deb
 Size: 1390054
 MD5sum: bd270ab33f81b6d27683ff66c5b07ac2
@@ -1115,13 +1115,13 @@ Section: Development
 Description: Core application library for C
 Name: glib
 
-Package: io.nobody.glib
+Package: io.mc.glib
 Version: 2.62.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 8268
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.libffi, io.nobody.pcre
+Depends: io.mc.gettext, io.mc.libffi, io.mc.pcre
 Filename: ./TR/glib_2.62.2-2_iphoneos-arm.deb
 Size: 1388682
 MD5sum: 66fcec68470c290e582a916f302593d3
@@ -1131,7 +1131,7 @@ Section: Development
 Description: Core application library for C
 Name: glib
 
-Package: io.nobody.gmp
+Package: io.mc.gmp
 Version: 6.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1146,13 +1146,13 @@ Section: Development
 Description: GNU multiple precision arithmetic library
 Name: gmp
 
-Package: io.nobody.gnutls
+Package: io.mc.gnutls
 Version: 3.6.9-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4092
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gmp, io.nobody.libidn2, io.nobody.libtasn1, io.nobody.libunistring, io.nobody.nettle, io.nobody.p11-kit, io.nobody.unbound
+Depends: io.mc.gmp, io.mc.libidn2, io.mc.libtasn1, io.mc.libunistring, io.mc.nettle, io.mc.p11-kit, io.mc.unbound
 Filename: ./TR/gnutls_3.6.9-1_iphoneos-arm.deb
 Size: 904074
 MD5sum: 24f7b67c1ba45c6bf0b22bc308c6c0ec
@@ -1162,7 +1162,7 @@ Section: Utilities
 Description: GNU Transport Layer Security (TLS) Library
 Name: gnutls
 
-Package: io.nobody.go
+Package: io.mc.go
 Version: 1.13-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1177,7 +1177,7 @@ Section: Utilities
 Description: Open source programming language to build simple/reliable/efficient software
 Name: go
 
-Package: io.nobody.graphite2
+Package: io.mc.graphite2
 Version: 1.3.13-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1192,13 +1192,13 @@ Section: Utilities
 Description: Smart font renderer for non-Roman scripts
 Name: graphite2
 
-Package: io.nobody.harfbuzz
+Package: io.mc.harfbuzz
 Version: 2.5.3-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 5608
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.cairo, io.nobody.freetype, io.nobody.glib, io.nobody.graphite2, io.nobody.icu4c
+Depends: io.mc.cairo, io.mc.freetype, io.mc.glib, io.mc.graphite2, io.mc.icu4c
 Filename: ./TR/harfbuzz_2.5.3-2_iphoneos-arm.deb
 Size: 681388
 MD5sum: d11ec660647ce5f93b2d82b876fdee3f
@@ -1208,13 +1208,13 @@ Section: Utilities
 Description: OpenType text shaping engine
 Name: harfbuzz
 
-Package: io.nobody.harfbuzz
+Package: io.mc.harfbuzz
 Version: 2.5.3-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 5608
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.cairo, io.nobody.freetype, io.nobody.glib, io.nobody.graphite2, io.nobody.icu4c
+Depends: io.mc.cairo, io.mc.freetype, io.mc.glib, io.mc.graphite2, io.mc.icu4c
 Filename: ./TR/harfbuzz_2.5.3-3_iphoneos-arm.deb
 Size: 680518
 MD5sum: a12e9cc3e0ca77248b521b1e069d87dc
@@ -1224,13 +1224,13 @@ Section: Utilities
 Description: OpenType text shaping engine
 Name: harfbuzz
 
-Package: io.nobody.hping
+Package: io.mc.hping
 Version: 3.20051105-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 200
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap
+Depends: io.mc.libpcap
 Filename: ./TR/hping_3.20051105-2_iphoneos-arm.deb
 Size: 56654
 MD5sum: 551fe1e00a4c41cfb0a1a7b2f0f58ad5
@@ -1240,13 +1240,13 @@ Section: Utilities
 Description: Command-line oriented TCP/IP packet assembler/analyzer
 Name: hping
 
-Package: io.nobody.httpry
+Package: io.mc.httpry
 Version: 0.1.8-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 80
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap
+Depends: io.mc.libpcap
 Filename: ./TR/httpry_0.1.8-2_iphoneos-arm.deb
 Size: 13968
 MD5sum: 2e25e4aba3692f84fdf7eadac4b7940b
@@ -1256,7 +1256,7 @@ Section: Utilities
 Description: Packet sniffer for displaying and logging HTTP traffic
 Name: httpry
 
-Package: io.nobody.icu4c
+Package: io.mc.icu4c
 Version: 64.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1271,13 +1271,13 @@ Section: Utilities
 Description: C/C++ and Java libraries for Unicode and globalization
 Name: icu4c
 
-Package: io.nobody.ike-scan
+Package: io.mc.ike-scan
 Version: 1.9.4-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4220
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl-1.1
+Depends: io.mc.openssl-1.1
 Filename: ./TR/ike-scan_1.9.4-3_iphoneos-arm.deb
 Size: 975156
 MD5sum: dfecacdf81ea59742982309ca2d24a79
@@ -1287,7 +1287,7 @@ Section: Utilities
 Description: Discover and fingerprint IKE hosts
 Name: ike-scan
 
-Package: io.nobody.jansson
+Package: io.mc.jansson
 Version: 2.12-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1302,7 +1302,7 @@ Section: Development
 Description: C library for encoding, decoding, and manipulating JSON
 Name: jansson
 
-Package: io.nobody.jemalloc
+Package: io.mc.jemalloc
 Version: 5.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1317,13 +1317,13 @@ Section: Utilities
 Description: malloc implementation emphasizing fragmentation avoidance
 Name: jemalloc
 
-Package: io.nobody.john-jumbo
+Package: io.mc.john-jumbo
 Version: 1.9.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 74312
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gmp, io.nobody.openssl
+Depends: io.mc.gmp, io.mc.openssl
 Filename: ./TR/john-jumbo_1.9.0-1_iphoneos-arm.deb
 Size: 29234394
 MD5sum: 0887b492ce092e6abf8b4856cfd8195c
@@ -1333,7 +1333,7 @@ Section: Utilities
 Description: Enhanced version of john, a UNIX password cracker
 Name: john-jumbo
 
-Package: io.nobody.jpeg
+Package: io.mc.jpeg
 Version: 9c-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1348,7 +1348,7 @@ Section: Development
 Description: Image manipulation library
 Name: jpeg
 
-Package: io.nobody.jpeg-turbo
+Package: io.mc.jpeg-turbo
 Version: 2.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1363,7 +1363,7 @@ Section: Utilities
 Description: JPEG image codec that aids compression and decompression
 Name: jpeg-turbo
 
-Package: io.nobody.jpeg-turbo
+Package: io.mc.jpeg-turbo
 Version: 2.0.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1381,15 +1381,15 @@ Section: Utilities
 Description: JPEG image codec that aids compression and decompression
 Name: jpeg-turbo
 
-Package: io.nobody.jpeg-turbo
+Package: io.mc.jpeg-turbo
 Version: 2.0.2-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2528
 Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: io.nobody.jpeg
-Replaces: io.nobody.jpeg
-Provides: io.nobody.jpeg
+Conflicts: io.mc.jpeg
+Replaces: io.mc.jpeg
+Provides: io.mc.jpeg
 Filename: ./TR/jpeg-turbo_2.0.2-3_iphoneos-arm.deb
 Size: 324864
 MD5sum: d00fe9d44f3ce5656a16fb27efac9909
@@ -1399,15 +1399,15 @@ Section: Utilities
 Description: JPEG image codec that aids compression and decompression
 Name: jpeg-turbo
 
-Package: io.nobody.jpeg-turbo
+Package: io.mc.jpeg-turbo
 Version: 2.0.2-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2528
 Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: io.nobody.jpeg
-Replaces: io.nobody.jpeg
-Provides: io.nobody.jpeg
+Conflicts: io.mc.jpeg
+Replaces: io.mc.jpeg
+Provides: io.mc.jpeg
 Filename: ./TR/jpeg-turbo_2.0.2-4_iphoneos-arm.deb
 Size: 324810
 MD5sum: c6db5086ba7e24bb430c749d09f83f9c
@@ -1417,15 +1417,15 @@ Section: Utilities
 Description: JPEG image codec that aids compression and decompression
 Name: jpeg-turbo
 
-Package: io.nobody.jpeg-turbo
+Package: io.mc.jpeg-turbo
 Version: 2.0.2-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2528
 Pre-Depends: dpkg (>= 1.14.25-8)
-Conflicts: io.nobody.jpeg
-Replaces: io.nobody.jpeg
-Provides: io.nobody.jpeg
+Conflicts: io.mc.jpeg
+Replaces: io.mc.jpeg
+Provides: io.mc.jpeg
 Filename: ./TR/jpeg-turbo_2.0.2-5_iphoneos-arm.deb
 Size: 324838
 MD5sum: 0c86e7f6846d5b10330cec2cccf01c31
@@ -1435,13 +1435,13 @@ Section: Utilities
 Description: JPEG image codec that aids compression and decompression
 Name: jpeg-turbo
 
-Package: io.nobody.jq
+Package: io.mc.jq
 Version: 1.6-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 400
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.oniguruma
+Depends: io.mc.oniguruma
 Filename: ./TR/jq_1.6-2_iphoneos-arm.deb
 Size: 108380
 MD5sum: 7857895b3b01e7ded740f41953cb2d9b
@@ -1451,7 +1451,7 @@ Section: Utilities
 Description: Lightweight and flexible command-line JSON processor
 Name: jq
 
-Package: io.nobody.libdnet
+Package: io.mc.libdnet
 Version: 1.12-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1466,7 +1466,7 @@ Section: Development
 Description: Portable low-level networking library
 Name: libdnet
 
-Package: io.nobody.libepoxy
+Package: io.mc.libepoxy
 Version: 1.5.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1481,7 +1481,7 @@ Section: Utilities
 Description: Library for handling OpenGL function pointer management
 Name: libepoxy
 
-Package: io.nobody.libev
+Package: io.mc.libev
 Version: 4.27-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1496,13 +1496,13 @@ Section: Development
 Description: Asynchronous event library
 Name: libev
 
-Package: io.nobody.libevent
+Package: io.mc.libevent
 Version: 2.1.11-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1304
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/libevent_2.1.11-3_iphoneos-arm.deb
 Size: 211796
 MD5sum: 15b1e46895c2261a1bc9d5f5fd1e2170
@@ -1512,13 +1512,13 @@ Section: Development
 Description: Asynchronous event library
 Name: libevent
 
-Package: io.nobody.libevent
+Package: io.mc.libevent
 Version: 2.1.11-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1304
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/libevent_2.1.11-4_iphoneos-arm.deb
 Size: 210948
 MD5sum: b71d595c46b5ba61429ed416fce1934d
@@ -1528,7 +1528,7 @@ Section: Development
 Description: Asynchronous event library
 Name: libevent
 
-Package: io.nobody.libffi
+Package: io.mc.libffi
 Version: 3.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1543,7 +1543,7 @@ Section: Development
 Description: Portable Foreign Function Interface library
 Name: libffi
 
-Package: io.nobody.libidn
+Package: io.mc.libidn
 Version: 1.35-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1558,13 +1558,13 @@ Section: Development
 Description: International domain name library
 Name: libidn
 
-Package: io.nobody.libidn2
+Package: io.mc.libidn2
 Version: 2.2.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 272
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gettext, io.nobody.libunistring
+Depends: io.mc.gettext, io.mc.libunistring
 Filename: ./TR/libidn2_2.2.0-2_iphoneos-arm.deb
 Size: 60862
 MD5sum: 62b5100957f4ef2f11e1650da6cbccab
@@ -1574,13 +1574,13 @@ Section: Development
 Description: International domain name library (IDNA2008, Punycode and TR46)
 Name: libidn2
 
-Package: io.nobody.libimobiledevice
+Package: io.mc.libimobiledevice
 Version: 1.2.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1392
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libplist, io.nobody.libtasn1, io.nobody.libusbmuxd, io.nobody.openssl
+Depends: io.mc.libplist, io.mc.libtasn1, io.mc.libusbmuxd, io.mc.openssl
 Filename: ./TR/libimobiledevice_1.2.0-2_iphoneos-arm.deb
 Size: 135208
 MD5sum: a150ce67f1457d43c7552f61952f701e
@@ -1590,13 +1590,13 @@ Section: Utilities
 Description: Library to communicate with iOS devices natively
 Name: libimobiledevice
 
-Package: io.nobody.libimobiledevice
+Package: io.mc.libimobiledevice
 Version: 1.2.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1392
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libplist, io.nobody.libtasn1, io.nobody.libusbmuxd, io.nobody.openssl
+Depends: io.mc.libplist, io.mc.libtasn1, io.mc.libusbmuxd, io.mc.openssl
 Filename: ./TR/libimobiledevice_1.2.0-3_iphoneos-arm.deb
 Size: 135572
 MD5sum: e5c5527186d6155988d9d5c805aa7197
@@ -1606,7 +1606,7 @@ Section: Utilities
 Description: Library to communicate with iOS devices natively
 Name: libimobiledevice
 
-Package: io.nobody.libmagic
+Package: io.mc.libmagic
 Version: 5.37-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1621,7 +1621,7 @@ Section: Utilities
 Description: Implementation of the file(1) command
 Name: file
 
-Package: io.nobody.libnet
+Package: io.mc.libnet
 Version: 1.1.6-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1636,7 +1636,7 @@ Section: Development
 Description: C library for creating IP packets
 Name: libnet
 
-Package: io.nobody.libpcap
+Package: io.mc.libpcap
 Version: 1.9.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1651,7 +1651,7 @@ Section: Development
 Description: Portable library for network traffic capture
 Name: libpcap
 
-Package: io.nobody.libplist
+Package: io.mc.libplist
 Version: 2.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1666,7 +1666,7 @@ Section: Utilities
 Description: Library for Apple Binary- and XML-Property Lists
 Name: libplist
 
-Package: io.nobody.libpng
+Package: io.mc.libpng
 Version: 1.6.37-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1681,7 +1681,7 @@ Section: Utilities
 Description: Library for manipulating PNG images
 Name: libpng
 
-Package: io.nobody.libscrypt
+Package: io.mc.libscrypt
 Version: 1.21-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1696,13 +1696,13 @@ Section: Utilities
 Description: Library for scrypt
 Name: libscrypt
 
-Package: io.nobody.libssh
+Package: io.mc.libssh
 Version: 0.9.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1836
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/libssh_0.9.0-1_iphoneos-arm.deb
 Size: 307722
 MD5sum: 7e7a44f8a99586c4cb7eacecfe8ba727
@@ -1712,13 +1712,13 @@ Section: Development
 Description: C library SSHv1/SSHv2 client and server protocols
 Name: libssh
 
-Package: io.nobody.libssh2
+Package: io.mc.libssh2
 Version: 1.9.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 332
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/libssh2_1.9.0-2_iphoneos-arm.deb
 Size: 89026
 MD5sum: 5f698383796c79911be37573ea900032
@@ -1728,13 +1728,13 @@ Section: Development
 Description: C library implementing the SSH2 protocol
 Name: libssh2
 
-Package: io.nobody.libssh2
+Package: io.mc.libssh2
 Version: 1.9.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 332
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openssl
+Depends: io.mc.openssl
 Filename: ./TR/libssh2_1.9.0-3_iphoneos-arm.deb
 Size: 88412
 MD5sum: f3497fddf701cb9700ee40ca9cd6f2b6
@@ -1744,7 +1744,7 @@ Section: Development
 Description: C library implementing the SSH2 protocol
 Name: libssh2
 
-Package: io.nobody.libtasn1
+Package: io.mc.libtasn1
 Version: 4.14-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1759,13 +1759,13 @@ Section: Development
 Description: ASN.1 structure parser library
 Name: libtasn1
 
-Package: io.nobody.libtiff
+Package: io.mc.libtiff
 Version: 4.0.10-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1712
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.jpeg
+Depends: io.mc.jpeg
 Filename: ./TR/libtiff_4.0.10-2_iphoneos-arm.deb
 Size: 273272
 MD5sum: c7191ddac89ccaa70bbeeea98561021d
@@ -1775,7 +1775,7 @@ Section: Development
 Description: TIFF library and utilities
 Name: libtiff
 
-Package: io.nobody.libtool
+Package: io.mc.libtool
 Version: 2.4.6-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1790,7 +1790,7 @@ Section: Development
 Description: Generic library support script
 Name: libtool
 
-Package: io.nobody.libunistring
+Package: io.mc.libunistring
 Version: 0.9.10-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1805,7 +1805,7 @@ Section: Development
 Description: C string library for manipulating Unicode strings
 Name: libunistring
 
-Package: io.nobody.libusb
+Package: io.mc.libusb
 Version: 1.0.23-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1820,7 +1820,7 @@ Section: Utilities
 Description: Library for USB device access
 Name: libusb
 
-Package: io.nobody.libusb
+Package: io.mc.libusb
 Version: 1.0.23-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1835,7 +1835,7 @@ Section: Utilities
 Description: Library for USB device access
 Name: libusb
 
-Package: io.nobody.libusb
+Package: io.mc.libusb
 Version: 1.0.23-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1850,13 +1850,13 @@ Section: Utilities
 Description: Library for USB device access
 Name: libusb
 
-Package: io.nobody.libusbmuxd
+Package: io.mc.libusbmuxd
 Version: 1.0.10-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 148
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libplist, io.nobody.libusb
+Depends: io.mc.libplist, io.mc.libusb
 Filename: ./TR/libusbmuxd_1.0.10-2_iphoneos-arm.deb
 Size: 17188
 MD5sum: 023cdfa92c01d371d8a0e43f2c81b29f
@@ -1866,13 +1866,13 @@ Section: Utilities
 Description: USB multiplexor daemon for iPhone and iPod Touch devices
 Name: usbmuxd
 
-Package: io.nobody.libusbmuxd
+Package: io.mc.libusbmuxd
 Version: 1.0.10-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 148
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libplist, io.nobody.libusb
+Depends: io.mc.libplist, io.mc.libusb
 Filename: ./TR/libusbmuxd_1.0.10-3_iphoneos-arm.deb
 Size: 17214
 MD5sum: 985b90f39b5a9f0f5d8038f1af19c367
@@ -1882,7 +1882,7 @@ Section: Development
 Description: Library of the USB multiplexor daemon
 Name: libusbmuxd
 
-Package: io.nobody.libuv
+Package: io.mc.libuv
 Version: 1.31.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1897,13 +1897,13 @@ Section: Development
 Description: Multi-platform support library with a focus on asynchronous I/O
 Name: libuv
 
-Package: io.nobody.libxau
+Package: io.mc.libxau
 Version: 1.0.9-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 68
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xorgproto
+Depends: io.mc.xorgproto
 Filename: ./TR/libXau_1.0.9-1_iphoneos-arm.deb
 Size: 5884
 MD5sum: 8aef1806e7b7db427140991e42d519f5
@@ -1913,13 +1913,13 @@ Section: Utilities
 Description: Implements the X11 Authorization Protocol
 Name: libXau
 
-Package: io.nobody.libxcb
+Package: io.mc.libxcb
 Version: 1.13.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4024
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libXau, io.nobody.libXdnobodyp, io.nobody.xcb-proto
+Depends: io.mc.libXau, io.mc.libXdmcp, io.mc.xcb-proto
 Filename: ./TR/libxcb_1.13.1-1_iphoneos-arm.deb
 Size: 284860
 MD5sum: d5e7234ced41e2c54d53fe768ec52ad1
@@ -1929,23 +1929,23 @@ Section: Utilities
 Description: Provides a interface to the X Window System protocol
 Name: libxcb
 
-Package: io.nobody.libxdnobodyp
+Package: io.mc.libxdmcp
 Version: 1.1.3-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 72
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xorgproto
-Filename: ./TR/libXdnobodyp_1.1.3-1_iphoneos-arm.deb
+Depends: io.mc.xorgproto
+Filename: ./TR/libXdmcp_1.1.3-1_iphoneos-arm.deb
 Size: 9594
 MD5sum: 3a101efca69c860f38c7f3ff9d69d740
 SHA1: c025ff305bb35ad7f8cef46536482d4fccb74a37
 SHA256: bf6d55d83a26fde511827567627357c027d02782564cae074f5b5052a4c8ed05
 Section: Utilities
 Description: Implements the X Display Manager Control Protocol
-Name: libXdnobodyp
+Name: libXdmcp
 
-Package: io.nobody.libxml2
+Package: io.mc.libxml2
 Version: 2.9.9-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -1960,13 +1960,13 @@ Section: Development
 Description: GNOME XML library
 Name: libxml2
 
-Package: io.nobody.lighttpd
+Package: io.mc.lighttpd
 Version: 1.4.54-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2452
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openldap, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.openldap, io.mc.openssl, io.mc.pcre
 Filename: ./TR/lighttpd_1.4.54-2_iphoneos-arm.deb
 Size: 244214
 MD5sum: 7faceb3bb59bd2da2e1a38c1a2f56fa8
@@ -1976,13 +1976,13 @@ Section: Utilities
 Description: Small memory footprint, flexible web-server
 Name: lighttpd
 
-Package: io.nobody.lighttpd
+Package: io.mc.lighttpd
 Version: 1.4.54-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2500
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.openldap, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.openldap, io.mc.openssl, io.mc.pcre
 Filename: ./TR/lighttpd_1.4.54-3_iphoneos-arm.deb
 Size: 256382
 MD5sum: b0abd0847b8fdbf614b1c1abb47853a7
@@ -1992,13 +1992,13 @@ Section: Utilities
 Description: Small memory footprint, flexible web-server
 Name: lighttpd
 
-Package: io.nobody.lua
+Package: io.mc.lua
 Version: 5.3.5-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 456
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/lua_5.3.5-3_iphoneos-arm.deb
 Size: 99556
 MD5sum: 8797b64a49110033dd7c5aaec6eac79d
@@ -2008,13 +2008,13 @@ Section: Utilities
 Description: Powerful, lightweight programming language
 Name: lua
 
-Package: io.nobody.lua
+Package: io.mc.lua
 Version: 5.3.5-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 456
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/lua_5.3.5-4_iphoneos-arm.deb
 Size: 98872
 MD5sum: 3a11c1a64476539342503fbba4906d31
@@ -2024,7 +2024,7 @@ Section: Utilities
 Description: Powerful, lightweight programming language
 Name: lua
 
-Package: io.nobody.lzo
+Package: io.mc.lzo
 Version: 2.10-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2039,7 +2039,7 @@ Section: Development
 Description: Real-time data compression library
 Name: lzo
 
-Package: io.nobody.m4
+Package: io.mc.m4
 Version: 1.4.18-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2054,7 +2054,7 @@ Section: Utilities
 Description: Macro processing language
 Name: m4
 
-Package: io.nobody.make
+Package: io.mc.make
 Version: 4.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2069,7 +2069,7 @@ Section: Utilities
 Description: Utility for directing compilation
 Name: make
 
-Package: io.nobody.masscan
+Package: io.mc.masscan
 Version: 1.0.5-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2084,13 +2084,13 @@ Section: Utilities
 Description: TCP port scanner, scans entire Internet in under 5 minutes
 Name: masscan
 
-Package: io.nobody.megatools
+Package: io.mc.megatools
 Version: 1.10.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1436
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.curl, io.nobody.glib, io.nobody.openssl
+Depends: io.mc.curl, io.mc.glib, io.mc.openssl
 Filename: ./TR/megatools_1.10.2-2_iphoneos-arm.deb
 Size: 128866
 MD5sum: d12a09d70ccf421d281330cf8210b54e
@@ -2100,13 +2100,13 @@ Section: Utilities
 Description: Command-line client for Mega.co.nz
 Name: megatools
 
-Package: io.nobody.megatools
+Package: io.mc.megatools
 Version: 1.10.2-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1420
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.curl, io.nobody.glib, io.nobody.openssl
+Depends: io.mc.curl, io.mc.glib, io.mc.openssl
 Filename: ./TR/megatools_1.10.2-3_iphoneos-arm.deb
 Size: 128714
 MD5sum: 69e3a63eb5fc8a1faaef0a157241fd69
@@ -2116,13 +2116,13 @@ Section: Utilities
 Description: Command-line client for Mega.co.nz
 Name: megatools
 
-Package: io.nobody.mesa
+Package: io.mc.mesa
 Version: 19.1.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 19092
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.Xorg, io.nobody.expat, io.nobody.gettext
+Depends: io.mc.Xorg, io.mc.expat, io.mc.gettext
 Filename: ./TR/mesa_19.1.4-1_iphoneos-arm.deb
 Size: 2587140
 MD5sum: 7bcf698355eecf81a49568025a522f6e
@@ -2132,13 +2132,13 @@ Section: Utilities
 Description: Graphics Library
 Name: Mesa
 
-Package: io.nobody.midnight-commander
+Package: io.mc.midnight-commander
 Version: 4.8.22-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4184
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.libssh2, io.nobody.openssl, io.nobody.s-lang
+Depends: io.mc.glib, io.mc.libssh2, io.mc.openssl, io.mc.s-lang
 Filename: ./TR/midnight-commander_4.8.22-1_iphoneos-arm.deb
 Size: 792722
 MD5sum: a263af40acf66a36a85c5ff037ac351c
@@ -2148,13 +2148,13 @@ Section: Utilities
 Description: Terminal-based visual file manager
 Name: midnight-commander
 
-Package: io.nobody.mosh
+Package: io.mc.mosh
 Version: 1.3.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1004
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.protobuf
+Depends: io.mc.ncurses, io.mc.protobuf
 Filename: ./TR/mosh_1.3.2-1_iphoneos-arm.deb
 Size: 206650
 MD5sum: 54d96734c3b7d4835424dd5a69e41636
@@ -2164,13 +2164,13 @@ Section: Utilities
 Description: Remote terminal application
 Name: mosh
 
-Package: io.nobody.ncdu
+Package: io.mc.ncdu
 Version: 1.14.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 284
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/ncdu_1.14.1-3_iphoneos-arm.deb
 Size: 100850
 MD5sum: 98d0b45f7c5444dfe9d57ec33d6df4ba
@@ -2180,13 +2180,13 @@ Section: Utilities
 Description: NCurses Disk Usage
 Name: ncdu
 
-Package: io.nobody.ncdu
+Package: io.mc.ncdu
 Version: 1.14.1-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 284
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/ncdu_1.14.1-4_iphoneos-arm.deb
 Size: 100028
 MD5sum: 752177f9cd962b925e02b0330658a744
@@ -2196,7 +2196,7 @@ Section: Utilities
 Description: NCurses Disk Usage
 Name: ncdu
 
-Package: io.nobody.ncurses
+Package: io.mc.ncurses
 Version: 6.1-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2211,7 +2211,7 @@ Section: Development
 Description: Text-based UI library
 Name: ncurses
 
-Package: io.nobody.ncurses
+Package: io.mc.ncurses
 Version: 6.1-6
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2226,13 +2226,13 @@ Section: Development
 Description: Text-based UI library
 Name: ncurses
 
-Package: io.nobody.nettle
+Package: io.mc.nettle
 Version: 3.4.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1244
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gmp
+Depends: io.mc.gmp
 Filename: ./TR/nettle_3.4.1-3_iphoneos-arm.deb
 Size: 282010
 MD5sum: 9cc5e7850c1d92ff44290d16887aaed4
@@ -2242,13 +2242,13 @@ Section: Development
 Description: Low-level cryptographic library
 Name: nettle
 
-Package: io.nobody.nghttp2
+Package: io.mc.nghttp2
 Version: 1.39.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2500
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.c-ares, io.nobody.jansson, io.nobody.jemalloc, io.nobody.libev, io.nobody.libevent, io.nobody.libxml2, io.nobody.openssl
+Depends: io.mc.c-ares, io.mc.jansson, io.mc.jemalloc, io.mc.libev, io.mc.libevent, io.mc.libxml2, io.mc.openssl
 Filename: ./TR/nghttp2_1.39.2-2_iphoneos-arm.deb
 Size: 527474
 MD5sum: 0f4874982a316c852afb20e4c9bbc939
@@ -2258,13 +2258,13 @@ Section: Utilities
 Description: HTTP/2 C Library
 Name: nghttp2
 
-Package: io.nobody.nghttp2
+Package: io.mc.nghttp2
 Version: 1.39.2-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2528
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.c-ares, io.nobody.jansson, io.nobody.jemalloc, io.nobody.libev, io.nobody.libevent, io.nobody.libxml2, io.nobody.openssl
+Depends: io.mc.c-ares, io.mc.jansson, io.mc.jemalloc, io.mc.libev, io.mc.libevent, io.mc.libxml2, io.mc.openssl
 Filename: ./TR/nghttp2_1.39.2-3_iphoneos-arm.deb
 Size: 534038
 MD5sum: cb88834906dacdf2857d948d221c849d
@@ -2274,13 +2274,13 @@ Section: Utilities
 Description: HTTP/2 C Library
 Name: nghttp2
 
-Package: io.nobody.nmap
+Package: io.mc.nmap
 Version: 7.80-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 25876
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libdnet, io.nobody.libssh2, io.nobody.lua, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.libdnet, io.mc.libssh2, io.mc.lua, io.mc.openssl, io.mc.pcre
 Filename: ./TR/nmap_7.80-3_iphoneos-arm.deb
 Size: 4531148
 MD5sum: cf566c52b2c13e91b4f2f2ba28b7e496
@@ -2290,13 +2290,13 @@ Section: Networking
 Description: Port scanning utility for large networks
 Name: nmap
 
-Package: io.nobody.nmap
+Package: io.mc.nmap
 Version: 7.80-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 25892
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libdnet, io.nobody.libssh2, io.nobody.lua, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.libdnet, io.mc.libssh2, io.mc.lua, io.mc.openssl, io.mc.pcre
 Filename: ./TR/nmap_7.80-4_iphoneos-arm.deb
 Size: 4535506
 MD5sum: f29a05c64c617c4f8aafe609b3cc2ebc
@@ -2305,15 +2305,14 @@ SHA256: 3a80b7f614939a50e529421a7aa887bbdedf069c088aebecd9f9327b6a5d144f
 Section: Networking
 Description: Port scanning utility for large networks
 Name: nmap
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.nnn
+Package: io.mc.nnn
 Version: 2.7-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 332
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.readline
+Depends: io.mc.ncurses, io.mc.readline
 Filename: ./TR/nnn_2.7-1_iphoneos-arm.deb
 Size: 117220
 MD5sum: 0971c6c75ab08e7f2ebe74abf00a17a5
@@ -2322,16 +2321,14 @@ SHA256: ad95406005256edea2d9fa80781d5c4c47925f06f99b8ba4feea05d73a223fb7
 Section: Utilities
 Description: Tiny, lightning fast, feature-packed file manager
 Name: nnn
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-
-Package: io.nobody.node
+Package: io.mc.node
 Version: 12.9.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 53168
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.c-ares, io.nobody.nghttp2, io.nobody.openssl-1.1
+Depends: io.mc.c-ares, io.mc.nghttp2, io.mc.openssl-1.1
 Filename: ./TR/node_12.9.0-1_iphoneos-arm.deb
 Size: 8173342
 MD5sum: 62dcdd47d862ce47ca714b3e844f3ab0
@@ -2340,15 +2337,14 @@ SHA256: 568597ba1e2b02394688000758a03b3aae208ed5c74f944076ef1a228538038b
 Section: Networking
 Description: Platform built on V8 to build network applications
 Name: node
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.node
+Package: io.mc.node
 Version: 12.9.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 53180
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.c-ares, io.nobody.nghttp2, io.nobody.openssl-1.1
+Depends: io.mc.c-ares, io.mc.nghttp2, io.mc.openssl-1.1
 Filename: ./TR/node_12.9.0-3_iphoneos-arm.deb
 Size: 8158170
 MD5sum: 551b99d7114372e4ef903448a9a120a0
@@ -2357,9 +2353,8 @@ SHA256: 8187fa6f700118bc63ac153e58c733f44ed589c6a1e03369b2f06c6502918ade
 Section: Networking
 Description: Platform built on V8 to build network applications
 Name: node
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.oniguruma
+Package: io.mc.oniguruma
 Version: 6.9.3-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2373,15 +2368,14 @@ SHA256: 3dc3870f17878df8e57b0d98a059fae0d887ef3a41a8a0bc5d8583a2fe851029
 Section: Development
 Description: Regular expressions library
 Name: oniguruma
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openjdk
+Package: io.mc.openjdk
 Version: 11+28-11
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 213664
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libffi
+Depends: io.mc.libffi
 Filename: ./TR/openjdk_11+28-11_iphoneos-arm.deb
 Size: 93830246
 MD5sum: 71391e563c6de4bc2c3bfdc4a8f8a05b
@@ -2390,15 +2384,14 @@ SHA256: a2359d2ca39d0ae07c173bf6f409ad3b1136b14eb7b47c8edb0bf5e914b7d505
 Section: Java
 Description: Free and open-source implementation of the Java Platform.
 Name: OpenJDK
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openjdk
+Package: io.mc.openjdk
 Version: 11+28-12
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 213664
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libffi
+Depends: io.mc.libffi
 Filename: ./TR/openjdk_11+28-12_iphoneos-arm.deb
 Size: 93832446
 MD5sum: 090b8c36465713f2b4512f6f0b0053b5
@@ -2407,15 +2400,14 @@ SHA256: d0034812f5b67fff2fdd1ad02598db9ae5d415e22564b3b65627dc8b93839e85
 Section: Java
 Description: Free and open-source implementation of the Java Platform.
 Name: OpenJDK
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openldap
+Package: io.mc.openldap
 Version: 2.4.48-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3608
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.cyrus-sasl, io.nobody.openssl
+Depends: io.mc.cyrus-sasl, io.mc.openssl
 Filename: ./TR/openldap_2.4.48-2_iphoneos-arm.deb
 Size: 789692
 MD5sum: 011eaeeff3de7879a8ed8732416630ca
@@ -2424,15 +2416,14 @@ SHA256: e99f918601e0102859cd69a8b7e10b794d08c5540b5464a6640894b3f5fc3b3c
 Section: Utilities
 Description: Open source suite of directory software
 Name: openldap
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openldap
+Package: io.mc.openldap
 Version: 2.4.48-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3652
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.cyrus-sasl, io.nobody.openssl
+Depends: io.mc.cyrus-sasl, io.mc.openssl
 Filename: ./TR/openldap_2.4.48-3_iphoneos-arm.deb
 Size: 808060
 MD5sum: 653bc85c9030dde1c72ddb741cbcdc70
@@ -2441,9 +2432,8 @@ SHA256: e39aa3e9b3a35bad9b047a155dc7680790dd1835ed959e6e5e7311d0d0e67cae
 Section: Utilities
 Description: Open source suite of directory software
 Name: openldap
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openssl
+Package: io.mc.openssl
 Version: 1.0.2s-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2457,9 +2447,8 @@ SHA256: 950d65e39472dd3353f1496fb1ed7f1ef8fd9cd0d8473ce2032640c560c8ed6a
 Section: Development
 Description: SSL/TLS cryptography library
 Name: openssl
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openssl
+Package: io.mc.openssl
 Version: 1.0.2s-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2473,9 +2462,8 @@ SHA256: 707b26b64a3c3adde63381dfba0a0a7bcb5e1f4c914296e3b1bb6080499d9126
 Section: Development
 Description: SSL/TLS cryptography library
 Name: openssl
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openssl-1.1
+Package: io.mc.openssl-1.1
 Version: 1.1.1c-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2489,9 +2477,8 @@ SHA256: 6f193edbd4afaf2c99af4c13bf258a2d54cd13fe8953e4fab0b48ec0f815d489
 Section: Utilities
 Description: Cryptography and SSL/TLS Toolkit
 Name: openssl@1.1
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.openssl-1.1
+Package: io.mc.openssl-1.1
 Version: 1.1.1c-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2505,9 +2492,8 @@ SHA256: 94610f24fb2a8987544fa066c16b96017ca25cfe5c73c7396ee5a97ebd9de012
 Section: Utilities
 Description: Cryptography and SSL/TLS Toolkit
 Name: openssl@1.1
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.opus
+Package: io.mc.opus
 Version: 1.3.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2521,15 +2507,14 @@ SHA256: 971ba253970798b96cd8a2548684da9f40bb23b22aebac6c643b7fff9c74539b
 Section: Utilities
 Description: Audio codec
 Name: opus
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.p11-kit
+Package: io.mc.p11-kit
 Version: 0.23.16.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3356
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libffi
+Depends: io.mc.libffi
 Filename: ./TR/p11-kit_0.23.16.1-3_iphoneos-arm.deb
 Size: 366054
 MD5sum: 70e1a9cff503bf0d6b8b8e1b58588271
@@ -2538,9 +2523,8 @@ SHA256: 821c9e7640f9ed92837dad96506b193f0030794fb549e406a545773b8d561a9e
 Section: Utilities
 Description: Library to load and enumerate PKCS#11 modules
 Name: p11-kit
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.pcre
+Package: io.mc.pcre
 Version: 8.43-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2554,9 +2538,8 @@ SHA256: 972d4ed90450cb697835329e3b9f76af6290270ed5e7ef6ae61c7215df6f7003
 Section: Development
 Description: Perl compatible regular expressions library
 Name: pcre
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.pcre2
+Package: io.mc.pcre2
 Version: 10.33-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2570,9 +2553,8 @@ SHA256: 894552045ee6e9e3c0c307e8d402c847120b09dc493548c9f7d2f4d38e0567fe
 Section: Development
 Description: Perl compatible regular expressions library with a new API
 Name: pcre2
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.pixman
+Package: io.mc.pixman
 Version: 0.38.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2586,9 +2568,8 @@ SHA256: 8a5412bc313651f4522fb972b3277aadf794360ab36c37675eba1233137d102d
 Section: Development
 Description: Low-level library for pixel manipulation
 Name: pixman
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.protobuf
+Package: io.mc.protobuf
 Version: 3.10.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2602,15 +2583,14 @@ SHA256: 43a1110e0e7cdbc78ed29c17c6a618d8844481d1538df7d5f33d1c96a0950f60
 Section: Utilities
 Description: Protocol buffers (Google's data interchange format)
 Name: protobuf
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.ptunnel
+Package: io.mc.ptunnel
 Version: 0.72-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 104
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap
+Depends: io.mc.libpcap
 Filename: ./TR/ptunnel_0.72-1_iphoneos-arm.deb
 Size: 22092
 MD5sum: e647ccdfb999c011544c0618ac07a065
@@ -2619,15 +2599,14 @@ SHA256: af9d8cfe7ae288f8c701fe3bb4ab560a70660a0ee47078b925f066bf96cb0094
 Section: Utilities
 Description: Tunnel over ICMP
 Name: ptunnel
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.pyobjc
+Package: io.mc.pyobjc
 Version: 5.2-6
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1184
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libffi, io.nobody.libxml2, io.nobody.python
+Depends: io.mc.libffi, io.mc.libxml2, io.mc.python
 Filename: ./TR/pyobjc_5.2-6_iphoneos-arm.deb
 Size: 219274
 MD5sum: d607ecfae5f3a3e5cb4e0792d3a9b0e5
@@ -2637,15 +2616,14 @@ Section: Scripting
 Priority: optional
 Description: Python/Objective-C connection library
 Name: PyObjC
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.python
+Package: io.mc.python
 Version: 3.7.4-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 55104
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.expat, io.nobody.gdbm, io.nobody.libffi, io.nobody.ncurses, io.nobody.openssl, io.nobody.openssl-1.1, io.nobody.readline, io.nobody.sqlite, io.nobody.xz
+Depends: io.mc.expat, io.mc.gdbm, io.mc.libffi, io.mc.ncurses, io.mc.openssl, io.mc.openssl-1.1, io.mc.readline, io.mc.sqlite, io.mc.xz
 Filename: ./TR/python_3.7.4-3_iphoneos-arm.deb
 Size: 10137382
 MD5sum: 85985b5bf5f5e10f47f2d8ec77da0c0c
@@ -2654,15 +2632,14 @@ SHA256: b4548550c51c3837b8c7e94e0171254ce0b368728232c1e35c9096dc9a30b059
 Section: Utilities
 Description: Interpreted, interactive, object-oriented programming language
 Name: python
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.python
+Package: io.mc.python
 Version: 3.7.4-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 55104
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.expat, io.nobody.gdbm, io.nobody.libffi, io.nobody.ncurses, io.nobody.openssl, io.nobody.openssl-1.1, io.nobody.readline, io.nobody.sqlite, io.nobody.xz
+Depends: io.mc.expat, io.mc.gdbm, io.mc.libffi, io.mc.ncurses, io.mc.openssl, io.mc.openssl-1.1, io.mc.readline, io.mc.sqlite, io.mc.xz
 Filename: ./TR/python_3.7.4-4_iphoneos-arm.deb
 Size: 10135482
 MD5sum: 0410e78f75c87bfb802a09a591975f10
@@ -2671,15 +2648,14 @@ SHA256: 21318e61b01e47c8543365438c3d2d0c697978416cf473dad3eb30f0abb8efa2
 Section: Utilities
 Description: Interpreted, interactive, object-oriented programming language
 Name: python
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0+debug-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 250344
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0+debug-1_iphoneos-arm.deb
 Size: 17199574
 MD5sum: 79e297c8730ae8d407875d0730ff151f
@@ -2688,15 +2664,14 @@ SHA256: 40f5d269b81f1e776c50d755797e83329f696d5e3c1219df489684d857416550
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0+debug-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 250400
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0+debug-3_iphoneos-arm.deb
 Size: 17210306
 MD5sum: 301862c0ba8137b49c3f3b31e046d4ea
@@ -2705,15 +2680,14 @@ SHA256: 70033c06f51691b8fe19a722423cd3136c8a448beae03f51be7ccda2c614f01c
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0+debug-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 639532
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0+debug-4_iphoneos-arm.deb
 Size: 86119804
 MD5sum: 3845554830954ffff42a23c5a81d4f5e
@@ -2722,15 +2696,14 @@ SHA256: cc208ca4c6a50d8ee159aa2dda39b4d3f282acf769ab9316f2b87ca6113bc310
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0+debug-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 639880
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0+debug-5_iphoneos-arm.deb
 Size: 86289866
 MD5sum: 5ff96b68393ab9b8c933d1c77a0cbd85
@@ -2739,15 +2712,14 @@ SHA256: 4f6b6b36872d25980ac2d1ac1fa692ad99ceaecf228d3b6175dfffb50904b48a
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0+debug-6
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 715584
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0+debug-6_iphoneos-arm.deb
 Size: 97242778
 MD5sum: ae2a9a479ba031433c18718ecae8a2d8
@@ -2756,15 +2728,14 @@ SHA256: ea4507d701f44cb4e76e81a96530589778dd8cb4ca01cf960aee9c5057e7124e
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0+debug-7
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 252860
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0+debug-7_iphoneos-arm.deb
 Size: 17570984
 MD5sum: f5a46b87aa1f4ea67322ca8237d81969
@@ -2773,15 +2744,14 @@ SHA256: cc91aa5168463d4cb4637578e9424bc079c0a6bab150869ea10d9b0c405e7184
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 501816
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.1.0-1_iphoneos-arm.deb
 Size: 62823524
 MD5sum: 0a1760e03d720ddec2c0d8490772b6f4
@@ -2789,16 +2759,15 @@ SHA1: a1c355d5b9783bc423557dcd83436ab6a6bc47e9
 SHA256: 14aa7a7781e81217f0cbcfa18c8888096f46c56a0304b60594f123199432c287
 Section: Utilities
 Description: x86 and PowerPC Emulator
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: qemu
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.2.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 352272
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg-turbo, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.2.0-2_iphoneos-arm.deb
 Size: 36908818
 MD5sum: c0eeb325572d4eb8b1c147d166f8d925
@@ -2808,13 +2777,13 @@ Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.2.0-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 352276
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg-turbo, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
 Filename: ./TR/qemu_4.2.0-4_iphoneos-arm.deb
 Size: 36910906
 MD5sum: 649a14cd96c4b02ad8e3d51784183c73
@@ -2822,16 +2791,15 @@ SHA1: 60869e9c2fc29cd844ef7bacd281036f8ba1794c
 SHA256: 53c7d77816da0ada689930a866b87fa138391c2bd204241fdac89e16f6a3c6a7
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: qemu
 
-Package: io.nobody.qemu
+Package: io.mc.qemu
 Version: 4.2.0-5
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 353656
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.glib, io.nobody.gnutls, io.nobody.jpeg-turbo, io.nobody.libpng, io.nobody.libssh, io.nobody.libusb, io.nobody.lzo, io.nobody.ncurses, io.nobody.pixman, io.nobody.spice-protocol, io.nobody.spice, io.nobody.vde
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.spice-protocol, io.mc.spice, io.mc.vde
 Filename: ./TR/qemu_4.2.0-5_iphoneos-arm.deb
 Size: 37167850
 MD5sum: bc14f26e921a168c8353381687624019
@@ -2839,16 +2807,15 @@ SHA1: 0a8a0e4b8e6eec7e58f949272b12149483226e28
 SHA256: fa50e9177300c473331662a2e44c422be1b7ce4b190b0db44da03637999e7577
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: qemu
 
-Package: io.nobody.readline
+Package: io.mc.readline
 Version: 8.0.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 560
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/readline_8.0.0-3_iphoneos-arm.deb
 Size: 147724
 MD5sum: a7d9a3dddc11b0a1a036d00f6de85bd9
@@ -2856,16 +2823,15 @@ SHA1: 52f656f09d6e68c50656ecb9d52fa8759ab4eb5a
 SHA256: e6bef6d250fd34906694b4e9ceaabd74dd34f12c7c1ed49a9335ae4df7caedbd
 Section: Utilities
 Description: Library for command-line editing
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: readline
 
-Package: io.nobody.readline
+Package: io.mc.readline
 Version: 8.0.0-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 544
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses
+Depends: io.mc.ncurses
 Filename: ./TR/readline_8.0.0-4_iphoneos-arm.deb
 Size: 147106
 MD5sum: 0afd893ea705f4d5ca31256930d10345
@@ -2873,16 +2839,15 @@ SHA1: bade79ca2cb5e26fd0d497ccbee30af33b5ef876
 SHA256: a6140dbd0034f10826ed30519d4c98c8a70154a760f8a6c8c2d87b44802140d7
 Section: Utilities
 Description: Library for command-line editing
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: readline
 
-Package: io.nobody.s-lang
+Package: io.mc.s-lang
 Version: 2.3.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2904
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpng
+Depends: io.mc.libpng
 Filename: ./TR/s-lang_2.3.2-1_iphoneos-arm.deb
 Size: 457426
 MD5sum: cb723abb29807b558c205951b3e88902
@@ -2890,16 +2855,15 @@ SHA1: d4baf8d0965027d0e250edffac8b33c6d6407678
 SHA256: 3922bcf104039d205e1ff1ba3d62a02d7ed5b3eba75630faf8cf07f83b531d9f
 Section: Utilities
 Description: Library for creating multi-platform software
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: s-lang
 
-Package: io.nobody.snort
+Package: io.mc.snort
 Version: 2.9.14.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4720
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.daq, io.nobody.libdnet, io.nobody.libpcap, io.nobody.nghttp2, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.daq, io.mc.libdnet, io.mc.libpcap, io.mc.nghttp2, io.mc.openssl, io.mc.pcre
 Filename: ./TR/snort_2.9.14.1-2_iphoneos-arm.deb
 Size: 831256
 MD5sum: 764ecbb135de4317124b2eff8a2b2991
@@ -2907,16 +2871,15 @@ SHA1: 71bf2ff1115a2a09717b7e4322fb7fff1323faf8
 SHA256: 580ba97b448bc9978b9902f5f84e26a41efd0187d041673bac37879b4514b6f1
 Section: Utilities
 Description: Flexible Network Intrusion Detection System
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: snort
 
-Package: io.nobody.snort
+Package: io.mc.snort
 Version: 2.9.14.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4704
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.daq, io.nobody.libdnet, io.nobody.libpcap, io.nobody.nghttp2, io.nobody.openssl, io.nobody.pcre
+Depends: io.mc.daq, io.mc.libdnet, io.mc.libpcap, io.mc.nghttp2, io.mc.openssl, io.mc.pcre
 Filename: ./TR/snort_2.9.14.1-3_iphoneos-arm.deb
 Size: 822810
 MD5sum: e8dd71652cfd2cbe149222dee4330917
@@ -2924,16 +2887,15 @@ SHA1: 1a2803251ba81a3fded3770affa382541ba8d247
 SHA256: e304b624de63c5dac7474b437111f8eb3c5b5657325491c2733f45544f053e67
 Section: Utilities
 Description: Flexible Network Intrusion Detection System
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: snort
 
-Package: io.nobody.spice
+Package: io.mc.spice
 Version: 0.14.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1292
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.gdk-pixbuf, io.nobody.glib, io.nobody.jpeg-turbo, io.nobody.openssl, io.nobody.opus, io.nobody.pixman, io.nobody.spice-protocol, io.nobody.usbredir
+Depends: io.mc.gdk-pixbuf, io.mc.glib, io.mc.jpeg-turbo, io.mc.openssl, io.mc.opus, io.mc.pixman, io.mc.spice-protocol, io.mc.usbredir
 Filename: ./TR/spice_0.14.2-1_iphoneos-arm.deb
 Size: 288018
 MD5sum: 79803332b63c9cd2aa6dff21218ea4fc
@@ -2941,10 +2903,9 @@ SHA1: 52c58d8074ac9ed279bff363356e43223dba76e1
 SHA256: 6e3652492ca692cf36704b2ccbf687495311ef9157ba582857f8f894dbe2147c
 Section: Utilities
 Description: Implements the server side of the SPICE protocol
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: spice-server
 
-Package: io.nobody.spice-protocol
+Package: io.mc.spice-protocol
 Version: 0.14.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -2957,16 +2918,15 @@ SHA1: 2dc1d175164fc87ec7f55b6a82093bff13e3091a
 SHA256: 43ffad19e9bafe4eae05f170fbb7fe5623bc282bb716aac26ceb4a8e041b0c88
 Section: Utilities
 Description: Headers for SPICE protocol
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: spice-protocol
 
-Package: io.nobody.sqlite
+Package: io.mc.sqlite
 Version: 3.29.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3980
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/sqlite_3.29.0-2_iphoneos-arm.deb
 Size: 945634
 MD5sum: 1ded25f92286d5b0b7626d076af10add
@@ -2974,16 +2934,15 @@ SHA1: d30bb1c8162abfe1cf36992501bf5ccd54002b93
 SHA256: 95c53dd952cb3e006f30b013773c4c4e0038f581edc61ce2be53e95fb4404f32
 Section: Utilities
 Description: Command-line interface for SQLite
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: sqlite
 
-Package: io.nobody.sqlite
+Package: io.mc.sqlite
 Version: 3.29.0-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3964
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.readline
+Depends: io.mc.readline
 Filename: ./TR/sqlite_3.29.0-3_iphoneos-arm.deb
 Size: 939980
 MD5sum: 78a82192fe1d9ab8a5839817e562a7ce
@@ -2991,10 +2950,9 @@ SHA1: dbd2c8c8af22778aca713dab6c944e6a8ca9ef05
 SHA256: 8dd6e187da86d867070958544830647f6bd6eb4f3d144444a655eff89debffe9
 Section: Utilities
 Description: Command-line interface for SQLite
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: sqlite
 
-Package: io.nobody.sshpass
+Package: io.mc.sshpass
 Version: 1.06-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3009,16 +2967,15 @@ SHA256: b7a7bc832442dc0afd0a59dc6eae480483fbf9ca30560ebb46606e5dcee427b5
 Section: Networking
 Priority: optional
 Description: Non-interactive ssh password authentication
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: sshpass
 
-Package: io.nobody.sstp-client
+Package: io.mc.sstp-client
 Version: 1.0.12-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 184
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libevent, io.nobody.openssl
+Depends: io.mc.libevent, io.mc.openssl
 Filename: ./TR/sstp-client_1.0.12-1_iphoneos-arm.deb
 Size: 31824
 MD5sum: afbdb00a42381e84be45b08ec22b30ce
@@ -3026,16 +2983,15 @@ SHA1: b56951d89492571eebf7619a6c80b931c3b40ac4
 SHA256: 5be93e2bc3da48b3deb4c9d9616ed8d99349438d2421cbcaea859bf7e1587872
 Section: Utilities
 Description: SSTP (Microsofts Remote Access Solution for PPP over SSL) client
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: sstp-client
 
-Package: io.nobody.tcpdump
+Package: io.mc.tcpdump
 Version: 4.9.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1812
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap, io.nobody.openssl
+Depends: io.mc.libpcap, io.mc.openssl
 Filename: ./TR/tcpdump_4.9.2-2_iphoneos-arm.deb
 Size: 283102
 MD5sum: 2abe9dc2693e9af5a54e8e348fce9343
@@ -3043,16 +2999,15 @@ SHA1: e6bf53a2355fa2358f646b8d5291d38fb949b61d
 SHA256: 78af1e2992ab54e96f0f8b8d0533c94e978bcae7e0a46dba1bcd91b9013a155a
 Section: Utilities
 Description: Command-line packet analyzer
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tcpdump
 
-Package: io.nobody.tcpdump
+Package: io.mc.tcpdump
 Version: 4.9.2-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1780
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpcap, io.nobody.openssl
+Depends: io.mc.libpcap, io.mc.openssl
 Filename: ./TR/tcpdump_4.9.2-3_iphoneos-arm.deb
 Size: 280054
 MD5sum: 024ede701225ca4ca1d3ff391c7b56cb
@@ -3060,16 +3015,15 @@ SHA1: 3f23a759d7b20544af422832f8ea26b38ec94a4a
 SHA256: c9098dc55c6fd9bca7fbb6b2ef5dda94a47f8e44b3f300b33fe03c9b8625a673
 Section: Utilities
 Description: Command-line packet analyzer
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tcpdump
 
-Package: io.nobody.tcpflow
+Package: io.mc.tcpflow
 Version: 1.5.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 740
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.boost, io.nobody.libpcap, io.nobody.openssl
+Depends: io.mc.boost, io.mc.libpcap, io.mc.openssl
 Filename: ./TR/tcpflow_1.5.0-1_iphoneos-arm.deb
 Size: 188328
 MD5sum: 158777efffa19dbefbbe91388c80bfd3
@@ -3077,10 +3031,9 @@ SHA1: 244996afe4ed5aa4e5bbbe159877be2524807ef8
 SHA256: 6a8ed1a277351b694a63bb73e6844345f2bfde6c7be900d25001a27fab3fc7a3
 Section: Utilities
 Description: TCP flow recorder
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tcpflow
 
-Package: io.nobody.tcsh
+Package: io.mc.tcsh
 Version: 6.21.00-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3093,16 +3046,15 @@ SHA1: f673dfbada7ccc175ab15041709bd20058f97d1c
 SHA256: 04a3f4eb3a7ff1da09e8dead7ce1631ee2f8eb7fa7888dc8699f829a87585340
 Section: Utilities
 Description: Enhanced, fully compatible version of the Berkeley C shell
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tcsh
 
-Package: io.nobody.tiger-vnc
+Package: io.mc.tiger-vnc
 Version: 1.10.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3800
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.fltk, io.nobody.gettext, io.nobody.gnutls, io.nobody.jpeg-turbo, io.nobody.xorg-server
+Depends: io.mc.XorgFonts, io.mc.fltk, io.mc.gettext, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.xorg-server
 Filename: ./TR/tiger-vnc_1.10.1-1_iphoneos-arm.deb
 Size: 963442
 MD5sum: 717353e33fa598d4a5090a34782a8732
@@ -3110,16 +3062,15 @@ SHA1: 13d2f3b769452aae3b97f1b4ae9fd416fb5b499e
 SHA256: 08cf0b1c55622758f85373fcde9b676e09327e0ba3fa8990327556ca1a2b2965
 Section: Utilities
 Description: High-performance, platform-neutral implementation of VNC
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tiger-vnc
 
-Package: io.nobody.tiger-vnc
+Package: io.mc.tiger-vnc
 Version: 1.10.1-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3768
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.fltk, io.nobody.gettext, io.nobody.gnutls, io.nobody.jpeg-turbo, io.nobody.xorg-server
+Depends: io.mc.XorgFonts, io.mc.fltk, io.mc.gettext, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.xorg-server
 Filename: ./TR/tiger-vnc_1.10.1-2_iphoneos-arm.deb
 Size: 956220
 MD5sum: 6df38cd138446461a1e98a124cb85e78
@@ -3127,16 +3078,15 @@ SHA1: cc6462eb279e2699bf5bb1e7c6942bedb69af2c9
 SHA256: ef690408dabbe93dce704fc54a0c42225e4f5dbe9b368ee489f00513f21a1839
 Section: Utilities
 Description: High-performance, platform-neutral implementation of VNC
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tiger-vnc
 
-Package: io.nobody.tiger-vnc
+Package: io.mc.tiger-vnc
 Version: 1.10.1-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3768
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.fltk, io.nobody.gettext, io.nobody.gnutls, io.nobody.jpeg-turbo, io.nobody.xorg-server
+Depends: io.mc.XorgFonts, io.mc.fltk, io.mc.gettext, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.xorg-server
 Filename: ./TR/tiger-vnc_1.10.1-3_iphoneos-arm.deb
 Size: 957638
 MD5sum: fc7e55c96213e178a47f69b4e1937e11
@@ -3144,16 +3094,15 @@ SHA1: cc567cf36cfa1fde21d1ad95cf19168b355f8b10
 SHA256: a1eb73734f00bc7a2f0349f234f08d6dffb34fc058e93959b40e0e00b5ab44d2
 Section: Utilities
 Description: High-performance, platform-neutral implementation of VNC
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tiger-vnc
 
-Package: io.nobody.tmux
+Package: io.mc.tmux
 Version: 2.9a-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 664
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libevent, io.nobody.ncurses
+Depends: io.mc.libevent, io.mc.ncurses
 Filename: ./TR/tmux_2.9a-1_iphoneos-arm.deb
 Size: 220732
 MD5sum: 4b3b2fdb4e2fa56f7167e4f0fef99931
@@ -3161,16 +3110,15 @@ SHA1: 4925faf96cfe74077a68eae500d0495847f258e3
 SHA256: 7c3d52fcd1ef64f597c615038867fd4d4e17400aea041f7de5f5ae03a2fc8d6a
 Section: Utilities
 Description: Terminal multiplexer
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tmux
 
-Package: io.nobody.tor
+Package: io.mc.tor
 Version: 0.4.1.5-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 11204
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libevent, io.nobody.libscrypt, io.nobody.openssl, io.nobody.xz
+Depends: io.mc.libevent, io.mc.libscrypt, io.mc.openssl, io.mc.xz
 Filename: ./TR/tor_0.4.1.5-3_iphoneos-arm.deb
 Size: 1985844
 MD5sum: ed469b4c3d00199e7c03927c7cd22807
@@ -3178,16 +3126,15 @@ SHA1: c5df59d6d2bddae317a637355c0df03fcc8162de
 SHA256: 951dfd4fba48e2fcf9e28bdd3890a336b79b1d0181c644cc4fcfaa3dc95331a0
 Section: Networking
 Description: Anonymizing overlay network for TCP
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tor
 
-Package: io.nobody.tor
+Package: io.mc.tor
 Version: 0.4.1.5-4
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 11188
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libevent, io.nobody.libscrypt, io.nobody.openssl, io.nobody.xz
+Depends: io.mc.libevent, io.mc.libscrypt, io.mc.openssl, io.mc.xz
 Filename: ./TR/tor_0.4.1.5-4_iphoneos-arm.deb
 Size: 1987302
 MD5sum: d54fe00669d7f89a3cccc6edd4bd26c2
@@ -3195,16 +3142,15 @@ SHA1: 044e79e49ed4d43f9b10da67a8cd6c87ef2e8985
 SHA256: ed5446adc7ebe2b205f2efa99040ced77b34c673a9144b003e05057acf0a16e9
 Section: Networking
 Description: Anonymizing overlay network for TCP
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: tor
 
-Package: io.nobody.transmission-cli
+Package: io.mc.transmission-cli
 Version: 2.94-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4344
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.curl, io.nobody.libevent
+Depends: io.mc.curl, io.mc.libevent
 Filename: ./TR/transmission-cli_2.94-1_iphoneos-arm.deb
 Size: 638186
 MD5sum: 26a1f1c1882d3b6c694750292c274558
@@ -3212,16 +3158,15 @@ SHA1: 9e621204734e8cbc6c567f47f40f628edeae4dee
 SHA256: 438dbd917aa7077cfb5ae1829c15f6fa74a3347c6a8f199fdafaa765af8d9bef
 Section: Utilities
 Description: Lightweight BitTorrent client
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: transmission-cli
 
-Package: io.nobody.twm
+Package: io.mc.twm
 Version: 1.0.10-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 204
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xorg-server
+Depends: io.mc.xorg-server
 Filename: ./TR/twm_1.0.10-1_iphoneos-arm.deb
 Size: 69166
 MD5sum: 1bab399744a1a6b12b037004bf90370f
@@ -3229,16 +3174,15 @@ SHA1: 211a3ec0cd47889481984ee84c11618fac353de2
 SHA256: c91cc66c002dc74c024e36df6600bc846555fbb0a96e825e74cd3478ad31bacb
 Section: Utilities
 Description: very minimal window manager
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: twm
 
-Package: io.nobody.unbound
+Package: io.mc.unbound
 Version: 1.9.2-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libevent, io.nobody.openssl
+Depends: io.mc.libevent, io.mc.openssl
 Filename: ./TR/unbound_1.9.2-2_iphoneos-arm.deb
 Size: 644
 MD5sum: 0e6658bb0f7a8df761daf8427c870637
@@ -3246,16 +3190,15 @@ SHA1: 090c826ac08b44306235b1d31c6568a79cc71551
 SHA256: 9d6d9d42b7c665afe5f29f2013e468aa102e76eafc440973f414e0e57d46b7e6
 Section: Utilities
 Description: Validating, recursive, caching DNS resolver
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: unbound
 
-Package: io.nobody.usbfluxd
+Package: io.mc.usbfluxd
 Version: 1.0-94cb00e-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 164
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libplist
+Depends: io.mc.libplist
 Filename: ./TR/usbfluxd_1.0-94cb00e-1_iphoneos-arm.deb
 Size: 26162
 MD5sum: f63798773a2d9eafb2291091c61375f0
@@ -3263,16 +3206,15 @@ SHA1: 31ce0348a943fb4c1060cdbf5cc2bf16f6d0b30e
 SHA256: 1d5df8b648fe1de971bc9f7251f178169448ab3a5bd43e31bf2f6898076dbc9f
 Section: Utilities
 Description: Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: usbfluxd
 
-Package: io.nobody.usbmuxd
+Package: io.mc.usbmuxd
 Version: 1.0.10-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 112
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libimobiledevice, io.nobody.libplist, io.nobody.libusb, io.nobody.libusbmuxd
+Depends: io.mc.libimobiledevice, io.mc.libplist, io.mc.libusb, io.mc.libusbmuxd
 Filename: ./TR/usbmuxd_1.0.10-2_iphoneos-arm.deb
 Size: 26876
 MD5sum: 3c42c812f058aec7d5263e1ddeabc7d5
@@ -3280,16 +3222,15 @@ SHA1: 7710af788ed21b6f2ed484fd925201d60e9d026f
 SHA256: 321b1b3726b6fd6abcd3d3afe5b992a3b5db738a511a67badb76f70cb3386a0b
 Section: Utilities
 Description: USB multiplexor daemon for iPhone and iPod Touch devices
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: usbmuxd
 
-Package: io.nobody.usbmuxd
+Package: io.mc.usbmuxd
 Version: 1.0.10-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 112
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libimobiledevice, io.nobody.libplist, io.nobody.libusb, io.nobody.libusbmuxd
+Depends: io.mc.libimobiledevice, io.mc.libplist, io.mc.libusb, io.mc.libusbmuxd
 Filename: ./TR/usbmuxd_1.0.10-3_iphoneos-arm.deb
 Size: 26824
 MD5sum: 4071327f14f46d23a6caded46d82eca5
@@ -3297,16 +3238,15 @@ SHA1: a5effbcac44f91640345270f21b5e0f728e718f7
 SHA256: 242448a656d9d501a58942af619e002a900218a3571fde50a2a5e3b17e2c6200
 Section: Utilities
 Description: USB multiplexor daemon for iPhone and iPod Touch devices
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: usbmuxd
 
-Package: io.nobody.usbredir
+Package: io.mc.usbredir
 Version: 0.8.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 252
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libusb
+Depends: io.mc.libusb
 Filename: ./TR/usbredir_0.8.0-1_iphoneos-arm.deb
 Size: 33786
 MD5sum: 750b6ba82b400a9f5fc8d5d4ff88967b
@@ -3314,10 +3254,9 @@ SHA1: d2342261c1a10156fc0a5521f0435742e278ca60
 SHA256: 18f136f85b809bac3eefdcf6dea71761bb4d8594201311fbbf15c4e378157ab0
 Section: Development
 Description: USB traffic redirection library
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: usbredir
 
-Package: io.nobody.util-macros
+Package: io.mc.util-macros
 Version: 1.19.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3330,10 +3269,9 @@ SHA1: 61cc809984bb0145295f764b2408bb0d2ad2f415
 SHA256: abb8701de26435013db419b15a14bb19a808a34582509d67832f0894ab9e12d1
 Section: Utilities
 Description: contains the m4 macros used by all of the Xorg packages
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: util-macros
 
-Package: io.nobody.vde
+Package: io.mc.vde
 Version: 2.3.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3346,16 +3284,15 @@ SHA1: 0c3fb69b3f4ad4c8ed3ba6f5326e77e3a393a811
 SHA256: 64ad65f9bfb3ec63d4a1364e9adab81f6f21095c3cc2e731c7f4298172ca818f
 Section: Networking
 Description: Ethernet compliant virtual network
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: vde
 
-Package: io.nobody.webp
+Package: io.mc.webp
 Version: 1.0.3-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1300
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.jpeg, io.nobody.libpng, io.nobody.libtiff
+Depends: io.mc.jpeg, io.mc.libpng, io.mc.libtiff
 Filename: ./TR/webp_1.0.3-3_iphoneos-arm.deb
 Size: 257582
 MD5sum: bc118dcc72c27274b32b139c2c58c737
@@ -3363,16 +3300,15 @@ SHA1: 7e41ac065d862ae5ae5791ec4db154ebd430df7d
 SHA256: 00c8e9883c835bd6fd81e092cbcf7c2a101661c43bb6ac886ae2c249d1d7817b
 Section: Utilities
 Description: Image format providing lossless and lossy compression for web images
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: webp
 
-Package: io.nobody.wget
+Package: io.mc.wget
 Version: 1.20.3-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 540
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libidn2, io.nobody.openssl
+Depends: io.mc.libidn2, io.mc.openssl
 Filename: ./TR/wget_1.20.3-2_iphoneos-arm.deb
 Size: 201810
 MD5sum: be3e60ceabbb9d26991e05a8b8524261
@@ -3380,16 +3316,15 @@ SHA1: 854ea948291334859a1fe5383e3e6255f06521eb
 SHA256: e39af5043f8f57707be20f7786121e178f08890d4e7fb57cfa71d71a955eb8db
 Section: Utilities
 Description: Internet file retriever
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: wget
 
-Package: io.nobody.wget
+Package: io.mc.wget
 Version: 1.20.3-3
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 540
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libidn2, io.nobody.openssl
+Depends: io.mc.libidn2, io.mc.openssl
 Filename: ./TR/wget_1.20.3-3_iphoneos-arm.deb
 Size: 200036
 MD5sum: d9b86ee2f594707315fe4e6fc7ed31a3
@@ -3397,16 +3332,15 @@ SHA1: 5d25ae24831ffc4c5a58eaaaba290919234d2957
 SHA256: b0c1f221b42510b1857ebbbb5e2f0d88d6a19042f7e3285d8cc8a549c71f9969
 Section: Utilities
 Description: Internet file retriever
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: wget
 
-Package: io.nobody.whois
+Package: io.mc.whois
 Version: 5.5.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 132
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libidn2
+Depends: io.mc.libidn2
 Filename: ./TR/whois_5.5.2-1_iphoneos-arm.deb
 Size: 27486
 MD5sum: 2fd35155d25dc86b13688e7b84785609
@@ -3414,31 +3348,29 @@ SHA1: 3bc75a2d14ccce9fdb64c082c3ea60554b977540
 SHA256: 527cd17cb194626b49f5b0a2548b3efb0fc454ce035019286bdefb7961f101f1
 Section: Utilities
 Description: Lookup tool for domain names and other internet resources
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: whois
 
-Package: io.nobody.wine
+Package: io.mc.wine
 Version: 4.2.0-1
 Architecture: iphoneos-arm
 Installed-Size: 324116
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.freetype, io.nobody.jpeg, io.nobody.libpng
+Depends: io.mc.freetype, io.mc.jpeg, io.mc.libpng
 Filename: ./TR/wine_4.2.0-1_iphoneos-arm.deb
 Size: 25665784
 MD5sum: 2df950230fe9b2c9621bc4b1d1a5da23
 SHA1: 2ab04f6795224b8c6ecfaa757d68852e9c76b0e2
 SHA256: 36002970e6d55a12eabb54f7055c06c1edbd325eb615a2b602341e978852bcc6
 Description: Run Windows applications without a copy of Microsoft Windows
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: wine
 
-Package: io.nobody.wine
+Package: io.mc.wine
 Version: 4.2.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 348932
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.freetype, io.nobody.jpeg, io.nobody.libpng
+Depends: io.mc.freetype, io.mc.jpeg, io.mc.libpng
 Filename: ./TR/wine_4.2.0-2_iphoneos-arm.deb
 Size: 27591754
 MD5sum: 2bd54ec1791b38aa6051856e195e1acd
@@ -3446,10 +3378,9 @@ SHA1: 4f6de4f63c922d05806a7bdc49d0a0b2478504cf
 SHA256: b300f9f45914f73bd1deb5d226eaa7b9ad82045c5ed5d3ea761f31ab345511b8
 Section: Utilities
 Description: Run Windows applications without a copy of Microsoft Windows
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: wine
 
-Package: io.nobody.x264
+Package: io.mc.x264
 Version: r2917-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3462,10 +3393,9 @@ SHA1: 21a7eeb6c544d7f4204ab10115a2feb445f7a237
 SHA256: b70c412372a1f1b1beef43da78904caaa1f9e503f86e0f035b3b3c9dd5615cdd
 Section: Utilities
 Description: H.264/AVC encoder
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: x264
 
-Package: io.nobody.x265
+Package: io.mc.x265
 Version: 3.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3478,16 +3408,15 @@ SHA1: be8ae211e3f564c78747dfcd168bf09a0fd6657f
 SHA256: 04e317e1f2cb9c40da810d1997bb9a946611c189054b9730f059ed0b7183a2e3
 Section: Utilities
 Description: H.265/HEVC encoder
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: x265
 
-Package: io.nobody.xbitmaps
+Package: io.mc.xbitmaps
 Version: 1.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 424
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.util-macros
+Depends: io.mc.util-macros
 Filename: ./TR/xbitmaps_1.1.2-1_iphoneos-arm.deb
 Size: 18426
 MD5sum: 0d5187d0871ae719874992602d04b662
@@ -3495,10 +3424,9 @@ SHA1: 35313f1487ae5ee89ca03be488994a13e90b861b
 SHA256: d67a072a705bda5d37c533f1e8dc5b9f2ee30eca0e7a28394fdfd5d1476b3298
 Section: Utilities
 Description: contains bitmap images used by multiple X applications
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xbitmaps
 
-Package: io.nobody.xcb-proto
+Package: io.mc.xcb-proto
 Version: 1.13-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3511,16 +3439,15 @@ SHA1: 7761c388fea0f0b4bfa3946934d9f103214afe89
 SHA256: 3ae5a17a664d5df7d79f66aba8de95a4e20bb09733c8d72b5a262512a4f2687a
 Section: Utilities
 Description: Provides the XML-XCB protocol descriptions that libxcb uses to generate the majority of its code and API
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-proto
 
-Package: io.nobody.xcb-util
+Package: io.mc.xcb-util
 Version: 0.4.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 100
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libxcb
+Depends: io.mc.libxcb
 Filename: ./TR/xcb-util_0.4.0-1_iphoneos-arm.deb
 Size: 8312
 MD5sum: a8b3c5bca52791cec9ec9750ded205bb
@@ -3528,16 +3455,15 @@ SHA1: db5a8672cd54198ed6f98628df22c7b139a665ed
 SHA256: 7ebb2026add4272fd00d38b5897f63dda0c81d6798a8e2c4a7453a21fbfa7a2e
 Section: Utilities
 Description: Provides additional extensions to the XCB library
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util
 
-Package: io.nobody.xcb-util-cursor
+Package: io.mc.xcb-util-cursor
 Version: 0.1.3-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 76
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xcb-util-image, io.nobody.xcb-util-renderutil, io.nobody.xcb-util
+Depends: io.mc.xcb-util-image, io.mc.xcb-util-renderutil, io.mc.xcb-util
 Filename: ./TR/xcb-util-cursor_0.1.3-1_iphoneos-arm.deb
 Size: 9862
 MD5sum: fbad00649091d3f1b68ddcbee233f751
@@ -3545,16 +3471,15 @@ SHA1: d961b9f0dda16957116b08e5031b1714e35b4e79
 SHA256: e75170e931ab8f7f4fa0b921e1d4caf3018cea4b870c1cb9086b89b3454b70c8
 Section: Utilities
 Description: provides a module that implements the XCB cursor library
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util-cursor
 
-Package: io.nobody.xcb-util-image
+Package: io.mc.xcb-util-image
 Version: 0.4.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 104
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xcb-util
+Depends: io.mc.xcb-util
 Filename: ./TR/xcb-util-image_0.4.0-1_iphoneos-arm.deb
 Size: 14456
 MD5sum: a9f9dcfde8a9f6f8b9efcd5d1ae74603
@@ -3562,16 +3487,15 @@ SHA1: ff8fe5c6fb5d3d796efa5b6fefcb5e6208d0dc35
 SHA256: 485aaa2adda4fa6d2b366dc3aeb0902d5ab878c95ab6780003fbe0ebb5670f2e
 Section: Utilities
 Description: Provides additional extensions to the XCB library
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util-image
 
-Package: io.nobody.xcb-util-keysyms
+Package: io.mc.xcb-util-keysyms
 Version: 0.4.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 68
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libxcb
+Depends: io.mc.libxcb
 Filename: ./TR/xcb-util-keysyms_0.4.0-1_iphoneos-arm.deb
 Size: 4538
 MD5sum: ff68851f3cdd1d5df91b3471aafb08f2
@@ -3579,16 +3503,15 @@ SHA1: 40ba56863d2fcfbdf28bbfcca79277b1078297b9
 SHA256: 0fd4e36844ebbc829836642ad4567235789374671c4fd7a3ff04ba60b6b2ae01
 Section: Utilities
 Description: Contains a library for handling standard X key constants and conversion to/from keycodes
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util-keysyms
 
-Package: io.nobody.xcb-util-renderutil
+Package: io.mc.xcb-util-renderutil
 Version: 0.3.9-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 76
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libxcb
+Depends: io.mc.libxcb
 Filename: ./TR/xcb-util-renderutil_0.3.9-1_iphoneos-arm.deb
 Size: 6272
 MD5sum: e8d110b3f035b016ff1636e09e9a3b26
@@ -3596,16 +3519,15 @@ SHA1: 269086e09f7489c788444815b344d1a3e6c0e588
 SHA256: 17cb7d09b426ddad84b8772eb2c68b2977654e30364b6aa7c68756d263a6acaf
 Section: Utilities
 Description: provides additional extensions to the XCB library
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util-renderutil
 
-Package: io.nobody.xcb-util-wm
+Package: io.mc.xcb-util-wm
 Version: 0.4.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 300
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libxcb
+Depends: io.mc.libxcb
 Filename: ./TR/xcb-util-wm_0.4.1-1_iphoneos-arm.deb
 Size: 27794
 MD5sum: 862ddc3c8e817410624939e8dfd4123e
@@ -3613,16 +3535,15 @@ SHA1: f8ec4881b3a5c307b07e4d220357fb243d645798
 SHA256: f6c43b68505e6ec4489cfca6607d5a290baabfbbaf19856189849f7058cce9ea
 Section: Utilities
 Description: contains libraries which provide client and window-manager helpers for EWMH and ICCCM
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util-wm
 
-Package: io.nobody.xclock
+Package: io.mc.xclock
 Version: 1.0.9-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 88
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.Xorg
+Depends: io.mc.Xorg
 Filename: ./TR/xclock_1.0.9-1_iphoneos-arm.deb
 Size: 19916
 MD5sum: f362e30dfae4985534265c1a5ea3b485
@@ -3630,16 +3551,15 @@ SHA1: a6b5398669e3a986c09f1b6d56842baf9aca1992
 SHA256: 03d7163cb06f270320a67c88e0a5c333dc0cea283991488ee7b243d1c7a1fd3d
 Section: Utilities
 Description: a simple X11 clock application
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xclock
 
-Package: io.nobody.xcursor-themes
+Package: io.mc.xcursor-themes
 Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4048
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgApps
+Depends: io.mc.XorgApps
 Filename: ./TR/xcursor-themes_1.0.6-1_iphoneos-arm.deb
 Size: 311204
 MD5sum: 4b00721f8e0aeddeca014214d9fcea4f
@@ -3647,16 +3567,15 @@ SHA1: 3fff189bd04e074d1c3d7cf273f28b2b60fca343
 SHA256: 89207d7ba9f81fe20990782a89f292f7a9aace11da0b06c0d88cc30aa1751c25
 Section: Utilities
 Description: package contains the redglass and whiteglass animated cursor themes
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcursor-themes
 
-Package: io.nobody.xf86-video-dummy
+Package: io.mc.xf86-video-dummy
 Version: 0.3.8-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 64
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xorg-server
+Depends: io.mc.xorg-server
 Filename: ./TR/xf86-video-dummy_0.3.8-1_iphoneos-arm.deb
 Size: 6492
 MD5sum: 78af63a367432cf45008cc1a0b853f09
@@ -3664,16 +3583,15 @@ SHA1: fa7e4a5434e111dcbfd8bb40983b0568dce6e9a8
 SHA256: b51891dc22d3baebb6caa72d8a5a1953d7e1ca64422152029423b3eebf97bf58
 Section: Utilities
 Description: X server dummy display driver
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg video dummy
 
-Package: io.nobody.xinit
+Package: io.mc.xinit
 Version: 1.4.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 204
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.Xorg, io.nobody.xorg-server
+Depends: io.mc.Xorg, io.mc.xorg-server
 Filename: ./TR/xinit_1.4.1-1_iphoneos-arm.deb
 Size: 18232
 MD5sum: 905969f9fb72afc5c8395b8273ec4062
@@ -3681,16 +3599,15 @@ SHA1: a0ff67d5084f66d02f7f9a6e9896529e7578f405
 SHA256: 167702e05defcb232327a78c5a038af59447ce0cf532b9d7d6a57865e5e97e9a
 Section: Utilities
 Description: script to start Xserver
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xinit
 
-Package: io.nobody.xkeyboard-config
+Package: io.mc.xkeyboard-config
 Version: 2.28-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 3816
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.Xorg
+Depends: io.mc.Xorg
 Filename: ./TR/xkeyboard-config_2.28-1_iphoneos-arm.deb
 Size: 321904
 MD5sum: 04452220af896ee5449054c197fe9315
@@ -3698,16 +3615,15 @@ SHA1: c8bcb39c170e5a9deea1002dcffe90b8bbdf164d
 SHA256: b74bbe0317e03d89f7cf7896c9eb6246d68f724c681b4a820ad985ac8081c30e
 Section: Utilities
 Description: contains the keyboard configuration database for the X Window System
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xkeyboard-config
 
-Package: io.nobody.xorg
+Package: io.mc.xorg
 Version: 1.0-mega-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 8596
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.fontconfig, io.nobody.libxcb
+Depends: io.mc.fontconfig, io.mc.libxcb
 Filename: ./TR/Xorg_1.0-mega-1_iphoneos-arm.deb
 Size: 1456754
 MD5sum: 46f177d2762b51aff8c2bad6437ce5e1
@@ -3715,16 +3631,15 @@ SHA1: 468ba7fb98bcf3c72cc8c81e310f40b07f4f06b2
 SHA256: 934e9b0b02fce75739f18a0ae0d0adb6819f1fd10d01ce1a89076664434dbfed
 Section: Utilities
 Description: Provides library routines that are used within all X Window applications (LFS 2019-12-11)
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg
 
-Package: io.nobody.xorg-server
+Package: io.mc.xorg-server
 Version: 1.20.6-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 7976
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.libepoxy, io.nobody.libpng, io.nobody.openssl-1.1, io.nobody.pixman, io.nobody.xkeyboard-config
+Depends: io.mc.XorgFonts, io.mc.libepoxy, io.mc.libpng, io.mc.openssl-1.1, io.mc.pixman, io.mc.xkeyboard-config
 Filename: ./TR/xorg-server_1.20.6-1_iphoneos-arm.deb
 Size: 1406758
 MD5sum: e32ffa5048aadc4a990e65b106219e8f
@@ -3732,16 +3647,15 @@ SHA1: 202721a03382b8f0b9d7f4b094014c076145928b
 SHA256: c690117d28526bee7c8f040c351ba2ada3e16c78e5b82952ef9d38a57a30ea23
 Section: X_Window
 Description: core of the X Window system
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xorg-server
 
-Package: io.nobody.xorg-server
+Package: io.mc.xorg-server
 Version: 1.20.6-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 7976
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.libepoxy, io.nobody.libpng, io.nobody.openssl-1.1, io.nobody.pixman, io.nobody.xkeyboard-config
+Depends: io.mc.XorgFonts, io.mc.libepoxy, io.mc.libpng, io.mc.openssl-1.1, io.mc.pixman, io.mc.xkeyboard-config
 Filename: ./TR/xorg-server_1.20.6-2_iphoneos-arm.deb
 Size: 1407122
 MD5sum: 3975d3b4c2fb73950b249507a36a2282
@@ -3749,16 +3663,15 @@ SHA1: 6428b61944cd192e0abf69a09c06989b66ee9220
 SHA256: 605d55f6964da3adb30235b51a369c6cab7f7a68250e75b448a3f38ae15445ea
 Section: X_Window
 Description: core of the X Window system
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xorg-server
 
-Package: io.nobody.xorgapps
+Package: io.mc.xorgapps
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2736
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpng, io.nobody.mesa, io.nobody.xbitmaps, io.nobody.xcb-util
+Depends: io.mc.libpng, io.mc.mesa, io.mc.xbitmaps, io.mc.xcb-util
 Filename: ./TR/XorgApps_1.0-1_iphoneos-arm.deb
 Size: 385144
 MD5sum: c2274c454c9c9ec81d097c47171e5720
@@ -3766,16 +3679,15 @@ SHA1: c9433ef753e0d3c36a69c35f73e9736ba7e8ff06
 SHA256: 050564dab7add3bfc44288dfd6836b491d2e48207af4a6ef66ced79fffb4f935
 Section: Utilities
 Description: provids the expected applications available in previous X Window implementations.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Applications
 
-Package: io.nobody.xorgapps
+Package: io.mc.xorgapps
 Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 2736
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.libpng, io.nobody.mesa, io.nobody.xbitmaps, io.nobody.xcb-util
+Depends: io.mc.libpng, io.mc.mesa, io.mc.xbitmaps, io.mc.xcb-util
 Filename: ./TR/XorgApps_1.0-2_iphoneos-arm.deb
 Size: 384876
 MD5sum: de78b7f401dbcfdbf0a8397e7ecffca2
@@ -3783,16 +3695,15 @@ SHA1: 842fd6449cb4476e06d46f8f21db357122c3e203
 SHA256: 4366290a5e8ec223ce14c07fdfbf4bfe4e9133197812bb90099fd496104db138
 Section: Utilities
 Description: provids the expected applications available in previous X Window implementations.
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Applications
 
-Package: io.nobody.xorgfonts
+Package: io.mc.xorgfonts
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4872
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xcursor-themes
+Depends: io.mc.xcursor-themes
 Filename: ./TR/XorgFonts_1.0-1_iphoneos-arm.deb
 Size: 2013142
 MD5sum: ebcd28a72339539da7c8d8416404e59b
@@ -3800,16 +3711,15 @@ SHA1: b9482828a25435153bbb89973236c83128d18ec4
 SHA256: e32bded0edf8213f7107f66fbcfdbe6ca0058a286a34c6fd43dc50cbeefd425d
 Section: Utilities
 Description: provides some scalable fonts and supporting packages for Xorg applications
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Fonts
 
-Package: io.nobody.xorgfonts
+Package: io.mc.xorgfonts
 Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 4872
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.xcursor-themes
+Depends: io.mc.xcursor-themes
 Filename: ./TR/XorgFonts_1.0-2_iphoneos-arm.deb
 Size: 2012810
 MD5sum: fece0ddb84dcb47662a3a7c899ef7785
@@ -3817,16 +3727,15 @@ SHA1: 97adebaa1c9ad1009166578be22e14a76051025e
 SHA256: 6c58d5685659c313f15e7cc7acf940db0342881ebcf5a705b3cee21c3f71aef8
 Section: Utilities
 Description: provides some scalable fonts and supporting packages for Xorg applications
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Fonts
 
-Package: io.nobody.xorglegacy
+Package: io.mc.xorglegacy
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 19428
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.xcursor-themes
+Depends: io.mc.XorgFonts, io.mc.xcursor-themes
 Filename: ./TR/XorgLegacy_1.0-1_iphoneos-arm.deb
 Size: 13503306
 MD5sum: f609ab06135c025927138afab4362a33
@@ -3834,16 +3743,15 @@ SHA1: 63778856a57d3c2f756af4ba43a7cfa84f7c3009
 SHA256: fc66768f8a9f9f521bf993072380c1637048a415503c3f6e061e7e5e23110e1a
 Section: Utilities
 Description: includes deprecated fonts for Xorg
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Legacy Fonts
 
-Package: io.nobody.xorglegacy
+Package: io.mc.xorglegacy
 Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 19428
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgFonts, io.nobody.xcursor-themes
+Depends: io.mc.XorgFonts, io.mc.xcursor-themes
 Filename: ./TR/XorgLegacy_1.0-2_iphoneos-arm.deb
 Size: 13503360
 MD5sum: 8d1d6f9efa7cb2b7b8b523f8e396e5e1
@@ -3851,16 +3759,15 @@ SHA1: c50f4da7e3ad91be6f05ba7408e317f1208985fc
 SHA256: 11de6e673a67f02d1341718a3b7e88acf44d24828896ee56b7743418dbde34a0
 Section: Utilities
 Description: includes deprecated fonts for Xorg
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Legacy Fonts
 
-Package: io.nobody.xorgproto
+Package: io.mc.xorgproto
 Version: 2019.2-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 1692
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.util-macros
+Depends: io.mc.util-macros
 Filename: ./TR/xorgproto_2019.2-1_iphoneos-arm.deb
 Size: 164408
 MD5sum: 91b22595ac27a6fb907f65908c29d6a4
@@ -3868,16 +3775,15 @@ SHA1: 0ec3de98f0bf9da4e696ddb5374387547497ad88
 SHA256: 6cbd5e1ad9a7c13b0a67a24ceb24c4ccd521d16f75bc54e43f5fd1715ed4929d
 Section: Development
 Description: xorgproto package provides the header files required to build the X Window system
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xorgproto
 
-Package: io.nobody.xterm
+Package: io.mc.xterm
 Version: 352-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 852
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.XorgApps, io.nobody.fontconfig, io.nobody.ncurses, io.nobody.pcre2
+Depends: io.mc.XorgApps, io.mc.fontconfig, io.mc.ncurses, io.mc.pcre2
 Filename: ./TR/xterm_352-1_iphoneos-arm.deb
 Size: 237844
 MD5sum: f22fd554b366743d733f9b2d6a209d4e
@@ -3885,10 +3791,9 @@ SHA1: a5555918bbc07a3da00d5ce9d09df4dcf47564bc
 SHA256: 7c7904b4109cc0b241a9f6d449686152ab724c4e449563566e0d36177040f51b
 Section: Utilities
 Description: terminal emulator for the X Window System
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xterm
 
-Package: io.nobody.xvid
+Package: io.mc.xvid
 Version: 1.3.5-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3901,10 +3806,9 @@ SHA1: 43618a9f7b4de092273554324169b22a0577b287
 SHA256: 2c23c965ce7ad6942e36db866e3796dcaebd9d1f12e9f279972e3f285e4f3446
 Section: Development
 Description: High-performance, high-quality MPEG-4 video library
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xvid
 
-Package: io.nobody.xz
+Package: io.mc.xz
 Version: 5.2.4-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
@@ -3917,16 +3821,15 @@ SHA1: 05cf89b2f4102af640ca230b11b422e8d363f4da
 SHA256: 1973309f2403a20a50e6429315e1348d617a67362bf800fa8ec4a327a4c287d8
 Section: Utilities
 Description: General-purpose data compression with high compression ratio
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xz
 
-Package: io.nobody.yara
+Package: io.mc.yara
 Version: 3.10.0-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 676
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.jansson, io.nobody.libmagic, io.nobody.openssl-1.1
+Depends: io.mc.jansson, io.mc.libmagic, io.mc.openssl-1.1
 Filename: ./TR/yara_3.10.0-1_iphoneos-arm.deb
 Size: 144574
 MD5sum: 8a48625185c54580c15ea9535911bca5
@@ -3934,16 +3837,15 @@ SHA1: 9f72de90d6da2bb0b49c3d7973512f6fe588cdb1
 SHA256: 612a4472c6cfb640ef18491f06ee41d50ba794fac6079f90c56ef20a8ada29b6
 Section: Utilities
 Description: Malware identification and classification tool
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: yara
 
-Package: io.nobody.zsh
+Package: io.mc.zsh
 Version: 5.7.1-1
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Installed-Size: 9864
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: io.nobody.ncurses, io.nobody.pcre
+Depends: io.mc.ncurses, io.mc.pcre
 Filename: ./TR/zsh_5.7.1-1_iphoneos-arm.deb
 Size: 1480252
 MD5sum: 71aa032e8824d001179c882d612e7877
@@ -3951,16 +3853,15 @@ SHA1: 368c03a3df27d6fc825c351c11bb06032dd67b18
 SHA256: 45987368565ba8a5a82753b0e3c62ec81459283c60844b2fe81c3d71e5a95ddd
 Section: Utilities
 Description: UNIX shell (command interpreter)
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: zsh
 
-Package: com.nobody.python3
+Package: com.mc.python3
 Version: 3.7.1-8
 Architecture: iphoneos-arm
 Maintainer: Nobody <Nobody@yahoo.com>
 Pre-Depends: dpkg
-Depends: com.nobody.zlib, com.nobody.openssl, com.nobody.sqlite, com.nobody.readline, com.nobody.libffi, com.nobody.ncurses, com.nobody.gettext
-Filename: ./TR/com.nobody.python3_3.7.1-8_iphoneos-arm.deb
+Depends: com.mc.zlib, com.mc.openssl, com.mc.sqlite, com.mc.readline, com.mc.libffi, com.mc.ncurses, com.mc.gettext
+Filename: ./TR/com.mc.python3_3.7.1-8_iphoneos-arm.deb
 Size: 17607444
 MD5sum: 1fe942467b38c42fbc14f25bd181017f
 SHA1: 6b6d3b54019c86c9652db8b50c92f80092b89f5e
@@ -3968,7 +3869,6 @@ SHA256: dd8487cfc905e63d47ca61c204adc945a68b41e8b356f2754bd8d439f6959f4e
 Section: Scripting
 Priority: optional
 Homepage: https://www.python.org/
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Description: TRepoIOS | Compiled for ARM64.
  Interpreted, interactive, object-oriented programming language.
  | Notes:
@@ -3979,223 +3879,3 @@ Description: TRepoIOS | Compiled for ARM64.
 Tag: purpose::console
 Name: Python@3.7
 
-Package: com.nobody.letmeblock
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./TR/com.nobody.letmeblock_0.0.1_iphoneos-arm.deb
-Size: 1982
-MD5sum: 94c19760c8ac9cc1df3ec34bde433083
-SHA1: ac743f1fc7c6cfbeab7b49c8c8d0f1b62b75fad4
-SHA256: 0bcf46aa72f3c91444780bcbfbeabcdf9217e5f718691111fa5927d31857ef40
-Section: Tweaks
-Description: Make mDNSResponder care about /etc/hosts
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Author: PoomSmart
-Name: LetMeBlock
-
-Package: com.nobody.letmeblock
-Version: 0.0.7.1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 200
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./TR/com.nobody.letmeblock_0.0.7.1_iphoneos-arm.deb
-Size: 6108
-MD5sum: 2c117370cb07e6a04dedbf84439de558
-SHA1: f69b8571546438c73731533bc6f17ca87dd31245
-SHA256: 74abf3b109afb089a45522869c822d18eebeccec7b19cdaab781df17a76663f3
-Section: Tweaks
-Description: Make mDNSResponder care more about /etc/hosts
-Author: PoomSmart
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Name: LetMeBlock
-
-Package: com.nobody.untrustedhostsblocker9
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: nobody <repo@nobody.com>
-Installed-Size: 69
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
-Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.hostscleaner, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
-Filename: ./TR/UntrustedHostsBlocker9_1.7.1-1_iphoneos-arm.deb
-Size: 54350
-MD5sum: f5471d1f4abce2545e38acb66e253a28
-SHA1: 1ec7d94a1d3298bd442bbb6e8f5f4c5f481139e7
-SHA256: 5d97113441b4316596a86e4ee84387013bfeb81083335a9ce2ee3a596fcf8199
-Section: Security
-Priority: standard
-Homepage: https://repo.nobody.com
-Description: Mega UHB IPv4 Only - iOS 9/10/11/12
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Name: UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)
-Author: nobody <repo@nobody.com>
-
-Package: com.nobody.untrustedhostsblockermegaipv4
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: nobody <repo@nobody.com>
-Installed-Size: 1830
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.nobody.untrustedhostsblocker9
-Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblockerexperimental, com.nobody.hostscleaner, com.nobody.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
-Filename: ./TR/UntrustedHostsBlockerMegaIPv4_1.1.1-1_iphoneos-arm.deb
-Size: 900888
-MD5sum: 2a474353b24e8998c24bacad36ea846e
-SHA1: 646798e621320df10d1eca3c9298ee64226e41ff
-SHA256: a9897e4e4ddba66971f9c18f43f8e9601e3ab7fe9c52fbbf39f02b45f09e7d73
-Section: Security
-Priority: standard
-Homepage: https://repo.nobody.com
-Description: Mega UHB IPv4 - iOS 9/10/11/12
-Author: nobody <repo@nobody.com>
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Name: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
-
-Package: com.nobody.hostscleaner
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: nobody <repo@nobody.com>
-Installed-Size: 0
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: sed, grep, coreutils
-Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblocker9, com.nobody.untrustedhostsblockerexperimental, com.nobody.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.nobody.untrustedhostsblockermegaipv4, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
-Filename: ./TR/HostsCleaner_1.4.1-1_iphoneos-arm.deb
-Size: 2716
-MD5sum: 3c0cc3e7ccc110fc5ae634b640fe5db4
-SHA1: 1d426e992e8e6095232471cf8ace516ced8e1b03
-SHA256: 2d72ee0a2db180d18183204c28f0a8a41fcfcdbf5248b1544642c69e15fedbe6
-Section: Security
-Priority: standard
-Homepage: https://repo.nobody.com
-Description: Restore your original /etc/hosts file
-Author: nobody <repo@nobody.com>
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Name: Hosts Cleaner
-
-Package: com.jailbreaktr.CeviriAraci
-Version: 3.1
-Architecture: iphoneos-arm
-Maintainer: Yusuf Ã–ZGÃœL <yozgul@icloud.com>
-Depends: firmware (>= 10.0), openssh
-Filename: ./TR/CeviriAraci_3.1.deb
-Size: 18546210
-MD5sum: 68ddda02b73e0b3a1a60d8e3272b8930
-SHA1: 971372230eef52ce26e5a6c54d85ea12fbe30b8d
-SHA256: c105926566871bdea43c7980b9c03531c43d755cd25bdfd1851914ba8331d432
-Section: Utilities
-Description: JailbreakTR TÃ¼rkÃ§e Yama YÃ¼kleyicisi
-Author: Yusuf Ã–zgÃ¼l  <yozgul@icloud.com>
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Name: JailbreakTR Yama UygulayÄ±cÄ±
-Icon: https://apt.jailbreaktr.me/sileoicon/JTR-TR.png
-
-Package: net.angelxwind.appsyncunified
-Name: AppSync Unified
-Version: 70.0
-Architecture: iphoneos-arm
-Description: Crackli uygulamaları yükleme özelliğini etkinleştirir.
-Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute, sileoturkiye.appsyncunified
-Provides: appsync
-Replaces: us.hackulo.appsync50
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Author: Linus Yang
-Section: TR - Sistem
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Icon: http://lifpa.com/repo/depiction/appsyncunified/icon.png
-sha256: c423d0a01c7058ee8bb1224660ff41b5dbc0ffbd8ca948e497d27eef24313f61
-MD5sum: 78ba545ca1abe96be3d35034c8333e2e
-Size: 64030
-Filename: ./TR/appsyncunified.deb
-
-Package: sileoturkiye.dlcrack
-Name: DLEasy Crack
-Version: 1.1
-Architecture: iphoneos-arm
-Description: DLEasy tweaki için crack işlemi yapar.
-Depends: firmware (>= 10.0), mobilesubstrate, curl
-Conflicts: me.pulandresk.dleasy, sileoturkiyee.dleasy
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Author: Önder Azazi <onderazazi@hotmail.com>
-Section: TR - Tweak
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Icon: http://lifpa.com/repo/depiction/dlcrack/icon.png
-sha256: 2d96e012739edc63318724d92517eb3cf76fda820adc700001e4f530539f64a9
-MD5sum: f4d1d8b5003a25996ce81ac73427120d
-Size: 51704
-Filename: ./TR/dlcrack.deb
-
-Package: sileoturkiyee.foxforthack
-Name: Foxfort Hack
-Version: 0.0.3
-Architecture: iphoneos-arm
-Description: Foxfort tweakleri için hack yardımcısı.
-Depends: firmware(>=11.0), mobilesubstrate
-Conflicts: ru.rejail.foxforthack, com.pulandres.foxforthack
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Author: Sileoturkiye
-Section: TR - Tweak
-Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
-Icon: http://lifpa.com/repo/depiction/foxforthack/icon.png
-sha256: 7eff9bafb5ac9ef2fa365d5164f78cdeb1b010f14d254e6ac253b0fe59a81b1a
-MD5Sum: ce98e6896586c3d7a97f625d47f94990
-Size: 69892
-Filename: ./TR/foxforthack.deb
-
-Package: sileoturkiye.foxforttools
-Name: FoxFort Tools
-Version: 1.0.7
-Architecture: iphoneos-arm
-Description: Foxfort tweakleri için yardımcı araç.
-Pre-Depends: sileoturkiyee.foxforthack
-Depends: mobilesubstrate
-Conflicts: com.foxfort.foxforttools
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Author: FoxfortMobile
-Section: TR - Tweak
-Depiction: http://lifpa.com/repo/depiction/foxforttools/index.html
-Icon: http://lifpa.com/repo/depiction/foxforttools/icon.png
-sha256: 7a67f3cdb1edccf48149c657790672376a8a843995e61f47df4cdbb31575b535
-MD5sum: 3f741c2a8f6f772b2d573124bb47cb34
-Size: 233000
-Filename: ./TR/foxforttools.deb
-
-Package: sileoturkiye.libfoxfortutils64
-Name: libfoxfortutils(A7-A11)
-Version: 1.0.9
-Architecture: iphoneos-arm
-Description: Foxfort tweakleri için temel araç.
-Pre-Depends: sileoturkiyee.foxforthack
-Depends: firmware (>= 7.0), mobilesubstrate, sileoturkiye.foxforttools
-Conflicts: com.foxfort.libfoxfortutils, sileoturkiye.libfoxfortutils64e
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Author: FoxfortMobile
-Section: TR - Tweak
-Depiction: http://lifpa.com/repo/depiction/libfoxfortutils64/index.html
-Icon: http://lifpa.com/repo/depiction/libfoxfortutils64/icon.png
-sha256: 0aac0b6ccaae389a16889d43f210d0e6ace54425a17e1520533acf6d0506bd11
-MD5sum: 055c7ee9d1fd03258fc13384fc22e1e9
-Size: 151074
-Filename: ./TR/libfoxfortutils64.deb
-
-Package: sileoturkiye.libfoxfortutils64e
-Name: libfoxfortutils(A12)
-Version: 1.0.9
-Architecture: iphoneos-arm
-Description: Foxfort tweakleri için temel araç.
-Pre-Depends: sileoturkiyee.foxforthack
-Depends: firmware (>= 7.0), mobilesubstrate, sileoturkiye.foxforttools
-Conflicts: com.foxfort.libfoxfortutils, sileoturkiye.libfoxfortutils64
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Author: FoxfortMobile
-Section: TR - Tweak
-Depiction: http://lifpa.com/repo/depiction/libfoxfortutils64/index.html
-Icon: http://lifpa.com/repo/depiction/libfoxfortutils64/icon.png
-sha256: 22096cffd391b77a5cf46e794e08c33696fdde9b5c2c65f1b820645e3fc9df11
-MD5sum: ed06da1466c3d8df5705b046ff86a604
-Size: 143426
-Filename: ./TR/libfoxfortutils64e.deb
