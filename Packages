@@ -3974,18 +3974,19 @@ Description: Restore your original /etc/hosts file
 Author: nobody <repo@nobody.com>
 Name: Hosts Cleaner
 
-Package: com.nobody.jbmepatch
-Version: 1.0.0-3+debug
+Package: com.jailbreaktr.CeviriAraci
+Version: 3.1
 Architecture: iphoneos-arm
-Maintainer: qwertyoruiop
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./TR/com.qwertyoruiop.jbmepatch_1.0.0-3+debug_iphoneos-arm.deb
-Size: 4038
-MD5sum: 87af87db6771028ee60889eef53a7985
-SHA1: e5c57cc7c26efb92ca8aee5800cd10dfd3d2eee1
-SHA256: 8173da7f149d3e2aa3a4229612742e9c79d54d30bec65932fa1046c8c236e006
-Section: Tweaks
-Description: MobileSubstrate patch for the iOS 9.3.3 JailbreakMe
-Author: qwertyoruiop
-Name: jbmepatch
+Maintainer: Yusuf Ã–ZGÃœL <yozgul@icloud.com>
+Depends: firmware (>= 10.0), openssh
+Filename: ./TR/CeviriAraci_3.1.deb
+Size: 18546210
+MD5sum: 68ddda02b73e0b3a1a60d8e3272b8930
+SHA1: 971372230eef52ce26e5a6c54d85ea12fbe30b8d
+SHA256: c105926566871bdea43c7980b9c03531c43d755cd25bdfd1851914ba8331d432
+Section: Utilities
+Description: JailbreakTR TÃ¼rkÃ§e Yama YÃ¼kleyicisi
+Author: Yusuf Ã–zgÃ¼l  <yozgul@icloud.com>
+Depiction: http://jailbreaktr.com/repo/depictions/?p=jbtrYama
+Name: JailbreakTR Yama UygulayÄ±cÄ±
+Icon: https://apt.jailbreaktr.me/sileoicon/JTR-TR.png
