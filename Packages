@@ -3948,7 +3948,7 @@ SHA256: 5d97113441b4316596a86e4ee84387013bfeb81083335a9ce2ee3a596fcf8199
 Section: Security
 Priority: standard
 Homepage: https://repo.nobody.com
-Description: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
+Description: Mega UHB IPv4 Only - iOS 9/10/11/12
 Author: nobody <repo@nobody.com>
 Name: UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)
 Author: nobody <repo@nobody.com>
@@ -3970,6 +3970,26 @@ SHA256: a9897e4e4ddba66971f9c18f43f8e9601e3ab7fe9c52fbbf39f02b45f09e7d73
 Section: Security
 Priority: standard
 Homepage: https://repo.nobody.com
-Description: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
+Description: Mega UHB IPv4 - iOS 9/10/11/12
 Author: nobody <repo@nobody.com>
 Name: Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)
+
+Package: com.nobody.hostscleaner
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: nobody <repo@nobody.com>
+Installed-Size: 0
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils
+Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblocker9, com.nobody.untrustedhostsblockerexperimental, com.nobody.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.nobody.untrustedhostsblockermegaipv4, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Filename: ./Packages_robinbird/HostsCleaner_1.4.1-1_iphoneos-arm.deb
+Size: 2716
+MD5sum: 3c0cc3e7ccc110fc5ae634b640fe5db4
+SHA1: 1d426e992e8e6095232471cf8ace516ced8e1b03
+SHA256: 2d72ee0a2db180d18183204c28f0a8a41fcfcdbf5248b1544642c69e15fedbe6
+Section: Security
+Priority: standard
+Homepage: https://repo.nobody.com
+Description: Restore your original /etc/hosts file
+Author: nobody <repo@nobody.com>
+Name: Hosts Cleaner
