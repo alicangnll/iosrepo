@@ -3973,3 +3973,19 @@ Homepage: https://repo.nobody.com
 Description: Restore your original /etc/hosts file
 Author: nobody <repo@nobody.com>
 Name: Hosts Cleaner
+
+Package: com.nobody.jbmepatch
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: qwertyoruiop
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./TR/com.qwertyoruiop.jbmepatch_1.0.0-3+debug_iphoneos-arm.deb
+Size: 4038
+MD5sum: 87af87db6771028ee60889eef53a7985
+SHA1: e5c57cc7c26efb92ca8aee5800cd10dfd3d2eee1
+SHA256: 8173da7f149d3e2aa3a4229612742e9c79d54d30bec65932fa1046c8c236e006
+Section: Tweaks
+Description: MobileSubstrate patch for the iOS 9.3.3 JailbreakMe
+Author: qwertyoruiop
+Name: jbmepatch
