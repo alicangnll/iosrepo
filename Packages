@@ -3894,3 +3894,21 @@ Section: Tweaks
 Description: Make mDNSResponder care about /etc/hosts
 Author: PoomSmart
 Name: LetMeBlock
+
+Package: com.nobody.letmeblock
+Version: 0.0.7.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.nobody.letmeblock_0.0.7.1_iphoneos-arm.deb
+Size: 6108
+MD5sum: 2c117370cb07e6a04dedbf84439de558
+SHA1: f69b8571546438c73731533bc6f17ca87dd31245
+SHA256: 74abf3b109afb089a45522869c822d18eebeccec7b19cdaab781df17a76663f3
+Section: Tweaks
+Description: Make mDNSResponder care more about /etc/hosts
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+Name: LetMeBlock
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
