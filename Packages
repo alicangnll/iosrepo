@@ -4028,3 +4028,40 @@ sha256: 2d96e012739edc63318724d92517eb3cf76fda820adc700001e4f530539f64a9
 MD5sum: f4d1d8b5003a25996ce81ac73427120d
 Size: 51704
 Filename: ./TR/dlcrack.deb
+
+Package: sileoturkiyee.foxforthack
+Name: Foxfort Hack
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Foxfort tweakleri için hack yardımcısı.
+Depends: firmware(>=11.0), mobilesubstrate
+Conflicts: ru.rejail.foxforthack, com.pulandres.foxforthack
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: Sileoturkiye
+Section: TR - Tweak
+Depiction: http://lifpa.com/repo/depiction/foxforthack/index.html
+Icon: http://lifpa.com/repo/depiction/foxforthack/icon.png
+Sileodepiction: http://lifpa.com/repo/depiction/foxforthack/index.php
+sha256: 7eff9bafb5ac9ef2fa365d5164f78cdeb1b010f14d254e6ac253b0fe59a81b1a
+MD5Sum: ce98e6896586c3d7a97f625d47f94990
+Size: 69892
+Filename: ./TR/foxforthack.deb
+
+Package: sileoturkiye.foxforttools
+Name: FoxFort Tools
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: Foxfort tweakleri için yardımcı araç.
+Pre-Depends: sileoturkiyee.foxforthack
+Depends: mobilesubstrate
+Conflicts: com.foxfort.foxforttools
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: FoxfortMobile
+Section: TR - Tweak
+Depiction: http://lifpa.com/repo/depiction/foxforttools/index.html
+Icon: http://lifpa.com/repo/depiction/foxforttools/icon.png
+Sileodepiction: http://lifpa.com/repo/depiction/foxforttools/index.php
+sha256: 7a67f3cdb1edccf48149c657790672376a8a843995e61f47df4cdbb31575b535
+MD5sum: 3f741c2a8f6f772b2d573124bb47cb34
+Size: 233000
+Filename: ./TR/foxforttools.deb
