@@ -3535,6 +3535,7 @@ SHA1: f8ec4881b3a5c307b07e4d220357fb243d645798
 SHA256: f6c43b68505e6ec4489cfca6607d5a290baabfbbaf19856189849f7058cce9ea
 Section: Utilities
 Description: contains libraries which provide client and window-manager helpers for EWMH and ICCCM
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcb-util-wm
 
 Package: io.mc.xclock
@@ -3551,6 +3552,7 @@ SHA1: a6b5398669e3a986c09f1b6d56842baf9aca1992
 SHA256: 03d7163cb06f270320a67c88e0a5c333dc0cea283991488ee7b243d1c7a1fd3d
 Section: Utilities
 Description: a simple X11 clock application
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xclock
 
 Package: io.mc.xcursor-themes
@@ -3567,6 +3569,7 @@ SHA1: 3fff189bd04e074d1c3d7cf273f28b2b60fca343
 SHA256: 89207d7ba9f81fe20990782a89f292f7a9aace11da0b06c0d88cc30aa1751c25
 Section: Utilities
 Description: package contains the redglass and whiteglass animated cursor themes
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xcursor-themes
 
 Package: io.mc.xf86-video-dummy
@@ -3583,6 +3586,7 @@ SHA1: fa7e4a5434e111dcbfd8bb40983b0568dce6e9a8
 SHA256: b51891dc22d3baebb6caa72d8a5a1953d7e1ca64422152029423b3eebf97bf58
 Section: Utilities
 Description: X server dummy display driver
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg video dummy
 
 Package: io.mc.xinit
@@ -3599,6 +3603,7 @@ SHA1: a0ff67d5084f66d02f7f9a6e9896529e7578f405
 SHA256: 167702e05defcb232327a78c5a038af59447ce0cf532b9d7d6a57865e5e97e9a
 Section: Utilities
 Description: script to start Xserver
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xinit
 
 Package: io.mc.xkeyboard-config
@@ -3615,6 +3620,7 @@ SHA1: c8bcb39c170e5a9deea1002dcffe90b8bbdf164d
 SHA256: b74bbe0317e03d89f7cf7896c9eb6246d68f724c681b4a820ad985ac8081c30e
 Section: Utilities
 Description: contains the keyboard configuration database for the X Window System
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xkeyboard-config
 
 Package: io.mc.xorg
@@ -3631,6 +3637,7 @@ SHA1: 468ba7fb98bcf3c72cc8c81e310f40b07f4f06b2
 SHA256: 934e9b0b02fce75739f18a0ae0d0adb6819f1fd10d01ce1a89076664434dbfed
 Section: Utilities
 Description: Provides library routines that are used within all X Window applications (LFS 2019-12-11)
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg
 
 Package: io.mc.xorg-server
@@ -3647,6 +3654,7 @@ SHA1: 202721a03382b8f0b9d7f4b094014c076145928b
 SHA256: c690117d28526bee7c8f040c351ba2ada3e16c78e5b82952ef9d38a57a30ea23
 Section: X_Window
 Description: core of the X Window system
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xorg-server
 
 Package: io.mc.xorg-server
@@ -3663,6 +3671,7 @@ SHA1: 6428b61944cd192e0abf69a09c06989b66ee9220
 SHA256: 605d55f6964da3adb30235b51a369c6cab7f7a68250e75b448a3f38ae15445ea
 Section: X_Window
 Description: core of the X Window system
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xorg-server
 
 Package: io.mc.xorgapps
@@ -3679,6 +3688,7 @@ SHA1: c9433ef753e0d3c36a69c35f73e9736ba7e8ff06
 SHA256: 050564dab7add3bfc44288dfd6836b491d2e48207af4a6ef66ced79fffb4f935
 Section: Utilities
 Description: provids the expected applications available in previous X Window implementations.
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Applications
 
 Package: io.mc.xorgapps
@@ -3695,6 +3705,7 @@ SHA1: 842fd6449cb4476e06d46f8f21db357122c3e203
 SHA256: 4366290a5e8ec223ce14c07fdfbf4bfe4e9133197812bb90099fd496104db138
 Section: Utilities
 Description: provids the expected applications available in previous X Window implementations.
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Applications
 
 Package: io.mc.xorgfonts
@@ -3711,6 +3722,7 @@ SHA1: b9482828a25435153bbb89973236c83128d18ec4
 SHA256: e32bded0edf8213f7107f66fbcfdbe6ca0058a286a34c6fd43dc50cbeefd425d
 Section: Utilities
 Description: provides some scalable fonts and supporting packages for Xorg applications
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Fonts
 
 Package: io.mc.xorgfonts
@@ -3727,6 +3739,7 @@ SHA1: 97adebaa1c9ad1009166578be22e14a76051025e
 SHA256: 6c58d5685659c313f15e7cc7acf940db0342881ebcf5a705b3cee21c3f71aef8
 Section: Utilities
 Description: provides some scalable fonts and supporting packages for Xorg applications
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Fonts
 
 Package: io.mc.xorglegacy
@@ -3743,6 +3756,7 @@ SHA1: 63778856a57d3c2f756af4ba43a7cfa84f7c3009
 SHA256: fc66768f8a9f9f521bf993072380c1637048a415503c3f6e061e7e5e23110e1a
 Section: Utilities
 Description: includes deprecated fonts for Xorg
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Legacy Fonts
 
 Package: io.mc.xorglegacy
@@ -3759,6 +3773,7 @@ SHA1: c50f4da7e3ad91be6f05ba7408e317f1208985fc
 SHA256: 11de6e673a67f02d1341718a3b7e88acf44d24828896ee56b7743418dbde34a0
 Section: Utilities
 Description: includes deprecated fonts for Xorg
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Xorg Legacy Fonts
 
 Package: io.mc.xorgproto
@@ -3775,6 +3790,7 @@ SHA1: 0ec3de98f0bf9da4e696ddb5374387547497ad88
 SHA256: 6cbd5e1ad9a7c13b0a67a24ceb24c4ccd521d16f75bc54e43f5fd1715ed4929d
 Section: Development
 Description: xorgproto package provides the header files required to build the X Window system
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xorgproto
 
 Package: io.mc.xterm
@@ -3791,6 +3807,7 @@ SHA1: a5555918bbc07a3da00d5ce9d09df4dcf47564bc
 SHA256: 7c7904b4109cc0b241a9f6d449686152ab724c4e449563566e0d36177040f51b
 Section: Utilities
 Description: terminal emulator for the X Window System
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xterm
 
 Package: io.mc.xvid
@@ -3806,6 +3823,7 @@ SHA1: 43618a9f7b4de092273554324169b22a0577b287
 SHA256: 2c23c965ce7ad6942e36db866e3796dcaebd9d1f12e9f279972e3f285e4f3446
 Section: Development
 Description: High-performance, high-quality MPEG-4 video library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: xvid
 
 Package: io.mc.xz
@@ -3820,6 +3838,7 @@ MD5sum: 3be3e58263a4d94d6f18d221eabb1a7e
 SHA1: 05cf89b2f4102af640ca230b11b422e8d363f4da
 SHA256: 1973309f2403a20a50e6429315e1348d617a67362bf800fa8ec4a327a4c287d8
 Section: Utilities
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Description: General-purpose data compression with high compression ratio
 Name: xz
 
@@ -3836,6 +3855,7 @@ MD5sum: 8a48625185c54580c15ea9535911bca5
 SHA1: 9f72de90d6da2bb0b49c3d7973512f6fe588cdb1
 SHA256: 612a4472c6cfb640ef18491f06ee41d50ba794fac6079f90c56ef20a8ada29b6
 Section: Utilities
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Description: Malware identification and classification tool
 Name: yara
 
@@ -3852,6 +3872,7 @@ MD5sum: 71aa032e8824d001179c882d612e7877
 SHA1: 368c03a3df27d6fc825c351c11bb06032dd67b18
 SHA256: 45987368565ba8a5a82753b0e3c62ec81459283c60844b2fe81c3d71e5a95ddd
 Section: Utilities
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Description: UNIX shell (command interpreter)
 Name: zsh
 
@@ -3869,6 +3890,7 @@ SHA256: dd8487cfc905e63d47ca61c204adc945a68b41e8b356f2754bd8d439f6959f4e
 Section: Scripting
 Priority: optional
 Homepage: https://www.python.org/
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Description: TRepoIOS | Compiled for ARM64.
  Interpreted, interactive, object-oriented programming language.
  | Notes:
@@ -3878,4 +3900,3 @@ Description: TRepoIOS | Compiled for ARM64.
  Update: Run `/usr/local/lib/python3.7/install_certificates.command` to install ssl certs.
 Tag: purpose::console
 Name: Python@3.7
-
