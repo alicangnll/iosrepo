@@ -4065,3 +4065,41 @@ sha256: 7a67f3cdb1edccf48149c657790672376a8a843995e61f47df4cdbb31575b535
 MD5sum: 3f741c2a8f6f772b2d573124bb47cb34
 Size: 233000
 Filename: ./TR/foxforttools.deb
+
+Package: sileoturkiye.libfoxfortutils64
+Name: libfoxfortutils(A7-A11)
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: Foxfort tweakleri için temel araç.
+Pre-Depends: sileoturkiyee.foxforthack
+Depends: firmware (>= 7.0), mobilesubstrate, sileoturkiye.foxforttools
+Conflicts: com.foxfort.libfoxfortutils, sileoturkiye.libfoxfortutils64e
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: FoxfortMobile
+Section: TR - Tweak
+Depiction: http://lifpa.com/repo/depiction/libfoxfortutils64/index.html
+Icon: http://lifpa.com/repo/depiction/libfoxfortutils64/icon.png
+Sileodepiction: http://lifpa.com/repo/depiction/libfoxfortutils64/index.php
+sha256: 0aac0b6ccaae389a16889d43f210d0e6ace54425a17e1520533acf6d0506bd11
+MD5sum: 055c7ee9d1fd03258fc13384fc22e1e9
+Size: 151074
+Filename: ./TR/libfoxfortutils64.deb
+
+Package: sileoturkiye.libfoxfortutils64e
+Name: libfoxfortutils(A12)
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: Foxfort tweakleri için temel araç.
+Pre-Depends: sileoturkiyee.foxforthack
+Depends: firmware (>= 7.0), mobilesubstrate, sileoturkiye.foxforttools
+Conflicts: com.foxfort.libfoxfortutils, sileoturkiye.libfoxfortutils64
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: FoxfortMobile
+Section: TR - Tweak
+Depiction: http://lifpa.com/repo/depiction/libfoxfortutils64/index.html
+Icon: http://lifpa.com/repo/depiction/libfoxfortutils64/icon.png
+Sileodepiction: http://lifpa.com/repo/depiction/libfoxfortutils64/index.php
+sha256: 22096cffd391b77a5cf46e794e08c33696fdde9b5c2c65f1b820645e3fc9df11
+MD5sum: ed06da1466c3d8df5705b046ff86a604
+Size: 143426
+Filename: ./TR/libfoxfortutils64e.deb
