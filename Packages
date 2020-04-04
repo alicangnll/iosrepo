@@ -2582,6 +2582,7 @@ SHA1: f1ed17baee5ad21cb21f6d11879c4faac76a8191
 SHA256: 43a1110e0e7cdbc78ed29c17c6a618d8844481d1538df7d5f33d1c96a0950f60
 Section: Utilities
 Description: Protocol buffers (Google's data interchange format)
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: protobuf
 
 Package: io.mc.ptunnel
@@ -2598,6 +2599,7 @@ SHA1: 043066dcfbac1ba2393b018e2790b4aa034202e2
 SHA256: af9d8cfe7ae288f8c701fe3bb4ab560a70660a0ee47078b925f066bf96cb0094
 Section: Utilities
 Description: Tunnel over ICMP
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: ptunnel
 
 Package: io.mc.pyobjc
@@ -2615,6 +2617,7 @@ SHA256: e85d0b0a3bffd2c49736c7ddb40686e28ffc6d3d384d161ea12c7f9f2385de00
 Section: Scripting
 Priority: optional
 Description: Python/Objective-C connection library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: PyObjC
 
 Package: io.mc.python
@@ -2631,6 +2634,7 @@ SHA1: e8de130ba2db78139a7fb4cc73134bf290dec649
 SHA256: b4548550c51c3837b8c7e94e0171254ce0b368728232c1e35c9096dc9a30b059
 Section: Utilities
 Description: Interpreted, interactive, object-oriented programming language
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: python
 
 Package: io.mc.python
@@ -2647,6 +2651,7 @@ SHA1: 87c25f696045263fc6e32f8c0fcab2532ee68c91
 SHA256: 21318e61b01e47c8543365438c3d2d0c697978416cf473dad3eb30f0abb8efa2
 Section: Utilities
 Description: Interpreted, interactive, object-oriented programming language
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: python
 
 Package: io.mc.qemu
@@ -2777,6 +2782,7 @@ Section: Utilities
 Description: Generic and open source machine emulator and virtualizer (debug build).
   Generic and open source machine emulator and virtualizer.
 
+
 Package: io.mc.qemu
 Version: 4.2.0-4
 Architecture: iphoneos-arm
@@ -2791,6 +2797,7 @@ SHA1: 60869e9c2fc29cd844ef7bacd281036f8ba1794c
 SHA256: 53c7d77816da0ada689930a866b87fa138391c2bd204241fdac89e16f6a3c6a7
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer.
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: qemu
 
 Package: io.mc.qemu
@@ -2807,6 +2814,7 @@ SHA1: 0a8a0e4b8e6eec7e58f949272b12149483226e28
 SHA256: fa50e9177300c473331662a2e44c422be1b7ce4b190b0db44da03637999e7577
 Section: Utilities
 Description: Generic and open source machine emulator and virtualizer.
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: qemu
 
 Package: io.mc.readline
@@ -2823,6 +2831,7 @@ SHA1: 52f656f09d6e68c50656ecb9d52fa8759ab4eb5a
 SHA256: e6bef6d250fd34906694b4e9ceaabd74dd34f12c7c1ed49a9335ae4df7caedbd
 Section: Utilities
 Description: Library for command-line editing
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: readline
 
 Package: io.mc.readline
@@ -2839,6 +2848,7 @@ SHA1: bade79ca2cb5e26fd0d497ccbee30af33b5ef876
 SHA256: a6140dbd0034f10826ed30519d4c98c8a70154a760f8a6c8c2d87b44802140d7
 Section: Utilities
 Description: Library for command-line editing
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: readline
 
 Package: io.mc.s-lang
@@ -2855,6 +2865,7 @@ SHA1: d4baf8d0965027d0e250edffac8b33c6d6407678
 SHA256: 3922bcf104039d205e1ff1ba3d62a02d7ed5b3eba75630faf8cf07f83b531d9f
 Section: Utilities
 Description: Library for creating multi-platform software
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: s-lang
 
 Package: io.mc.snort
@@ -2871,6 +2882,7 @@ SHA1: 71bf2ff1115a2a09717b7e4322fb7fff1323faf8
 SHA256: 580ba97b448bc9978b9902f5f84e26a41efd0187d041673bac37879b4514b6f1
 Section: Utilities
 Description: Flexible Network Intrusion Detection System
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: snort
 
 Package: io.mc.snort
@@ -2887,6 +2899,7 @@ SHA1: 1a2803251ba81a3fded3770affa382541ba8d247
 SHA256: e304b624de63c5dac7474b437111f8eb3c5b5657325491c2733f45544f053e67
 Section: Utilities
 Description: Flexible Network Intrusion Detection System
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: snort
 
 Package: io.mc.spice
