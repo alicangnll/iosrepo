@@ -35,6 +35,8 @@
 	}
 
     </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+	<script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
 </head>
 <body>
 
@@ -43,32 +45,28 @@
 <br> <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://repoios.cyberarchive.top">Cydia'ya ekle.</a>
 </p>
 
-<center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<table>
-<tr>
-<td><input type="hidden" name="on0" value="Donation Amount" />Bağış Miktarı</td>
-</tr>
+<center>
+<div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn" data-address="1FZ7Gm3dmgAQmEWarwjGoycb5pJTfvntmq" data-shared="false">
+<div class="blockchain stage-begin">
+<img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+</div>
 
-<tr><td>
-<select class="form-control" name="os0">
-<option value="Donate 5 USD">Donate 5 USD $5.00 USD</option>
-<option value="Donate 10 USD">Donate 10 USD $10.00 USD</option>
-<option value="Donate 15 USD">Donate 15 USD $15.00 USD</option>
-<option value="Donate 20 USD">Donate 20 USD $20.00 USD</option>
-<option value="Donate 50 USD">Donate 50 USD $50.00 USD</option>
-<option value="Donate 100 USD">Donate 100 USD $100.00 USD</option>
-<option value="Donate 200 USD">Donate 200 USD $200.00 USD</option>
-<option value="Donate 300 USD">Donate 300 USD $300.00 USD</option>
-<option value="Donate 500 USD">Donate 500 USD $500.00 USD</option>
-</select>
-</td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="business" value="alicangonullu@yahoo.com">
-<input type="image" src="https://www.paypalobjects.com/tr_TR/TR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal  Bağış">
-<img alt="" border="0" src="https://www.paypalobjects.com/tr_TR/i/scr/pixel.gif" width="1" height="1">
-</form></center>
+<div class="blockchain stage-loading" style="text-align:center">
+<img src="https://blockchain.info/Resources/loading-large.gif"/>
+</div>
+
+<div class="blockchain stage-ready">
+         <p align="center">Please Donate To Bitcoin Address: <b>1FZ7Gm3dmgAQmEWarwjGoycb5pJTfvntmq</b></p>
+         <p align="center" class="qr-code"></p>
+</div>
+<div class="blockchain stage-paid">
+         Donation of <b>1FZ7Gm3dmgAQmEWarwjGoycb5pJTfvntmq BTC</b> Received. Thank You.
+</div>
+<div class="blockchain stage-error">
+        <font color="red">1FZ7Gm3dmgAQmEWarwjGoycb5pJTfvntmq</font>
+</div>
+</div>
+</center>
 
 <p>
     <b>RepoiOS TR</b><br>
