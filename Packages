@@ -3962,7 +3962,7 @@ Installed-Size: 1830
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.nobody.untrustedhostsblocker9
 Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblockerexperimental, com.nobody.hostscleaner, com.nobody.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
-Filename: ./Packages_robinbird/UntrustedHostsBlockerMegaIPv4_1.1.1-1_iphoneos-arm.deb
+Filename: ./TR/UntrustedHostsBlockerMegaIPv4_1.1.1-1_iphoneos-arm.deb
 Size: 900888
 MD5sum: 2a474353b24e8998c24bacad36ea846e
 SHA1: 646798e621320df10d1eca3c9298ee64226e41ff
@@ -3982,7 +3982,7 @@ Installed-Size: 0
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: sed, grep, coreutils
 Conflicts: com.nobody.untrustedhostsblockerlight, com.nobody.untrustedhostsblocker, com.nobody.untrustedhostsblocker9, com.nobody.untrustedhostsblockerexperimental, com.nobody.untrustedhostsblockermega, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.nobody.untrustedhostsblockermegaipv4, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
-Filename: ./Packages_robinbird/HostsCleaner_1.4.1-1_iphoneos-arm.deb
+Filename: ./TR/HostsCleaner_1.4.1-1_iphoneos-arm.deb
 Size: 2716
 MD5sum: 3c0cc3e7ccc110fc5ae634b640fe5db4
 SHA1: 1d426e992e8e6095232471cf8ace516ced8e1b03
@@ -3993,3 +3993,64 @@ Homepage: https://repo.nobody.com
 Description: Restore your original /etc/hosts file
 Author: nobody <repo@nobody.com>
 Name: Hosts Cleaner
+
+
+Package: com.nobody.untrustedhostsblockerexperimental
+Version: 2.9.1
+Architecture: iphoneos-arm
+Maintainer: nobody <repo@nobody.com>
+Installed-Size: 5
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils, com.nobody.untrustedhostsblocker9, shell-cmds
+Conflicts: com.nobody.hostscleaner
+Filename: ./TR/UntrustedHostsBlockerExperimental_2.9.1-1_iphoneos-arm.deb
+Size: 8004
+MD5sum: 830e34bdef5368856541a47e2007a134
+SHA1: fada9411ad3c289689f9422eeea1d3f99913927d
+SHA256: bd5560f18b1cfe9102489cdbc55af080404a28f2e707ef17325e74102954081f
+Section: Security
+Priority: standard
+Homepage: https://repo.nobody.com
+Description: Additional experimental hosts for UHB (Untrusted Hosts Blocker). PLEASE READ THE TWEAK DESCRIPTION PAGE!
+ Blocks a few more hosts!
+ .
+ The purpose of this tweak is to help the developper identify new experimental hosts to be blocked. This tweak adds extra unconfirmed hosts to your /etc/hosts file in addition to your standard Untrusted Hosts Blocker.
+ .
+ If you wish to contribute:
+ .
+ 1. Install this package.
+ 2. If an application is not working with this tweak, uninstall this package.
+ 3. Confirm that the uninstallation of this package has fixed the issue.
+ 4. Report the nature of the issue including the application name to me (click the 'Author' button).
+ .
+ This package will add all blacklisted hosts to your /etc/hosts file. It will NOT overwrite any custom hosts file you may have (if you already have custom entries in your hosts file, they will remain untouched)!
+ .
+ If you are unhappy with this tweak, you can uninstall this package. It will ONLY remove the installed entries by the tweak and leave untouched any other entries you may have added manually to the hosts file. But make sure to wait until the end of the uninstallation process. In case your hosts file is broken (this should never happen), the installation or uninstallation script will repair it.
+ .
+ If you want us to add more entries or delete some, please contact me.
+ .
+ If you are looking for a powerful adblocker, you can combine this tweak with AdBlocker (BigBoss repo) by Yllier. Do not combine this tweak with other hosts blocker tweaks, which may interfere with your customised /etc/hosts file.
+ .
+ UPDATED: v2.5.0 (21/08/2016) - Updated hosts from "Minimal Hosts Blocker" 7.3 made by @ReddestDream + Additonal experimental hosts added from user requests (kixer and maxonclick).
+ UPDATED: v2.5.1 (04/01/2017) - Support for iOS 10 added (fyi the cut command line from coreutils is broken on iOS 10).
+ UPDATED: v2.5.2 (05/01/2017) - Fixed iOS 10 uninstall.
+ UPDATED: v2.6.0 (23/07/2018) - The new install script will try to prevent installations that would lead to a /etc/hosts file size that iOS canâ€™t handle (install will fail if the size limit is reached and will ask the user to clear the hosts file). For reference, this is a known issue that break iOS domain name resolving once the hosts file reaches a certain size.
+ UPDATED: v2.7.0 (16/03/2019) - "Minimal Hosts Blocker" hosts moved to UHB along with a few user requests. New hosts requested by users added.
+ UPDATED: v2.7.1 (16/03/2019) - Fixed compaibility issue with some older Jailbreaks (deb xz compression not being supported on those devices).
+ UPDATED: v2.7.2 (17/03/2019) - app.adjust.com was blocked, which appears to prevent some Spotify links to be opened. This host has been removed.
+ UPDATED: v2.7.3 (17/03/2019) - Added conflict control with "Hosts Cleaner". Minor fix in install script.
+ UPDATED: v2.7.4 (17/03/2019) - Fixed issue for iOS 12 where mDNSResponder wouldn't load the /etc/hosts after installation: killall mDNSResponder implemented.
+ UPDATED: v2.8.0 (23/03/2019) - Improved install/remove log data. IPv6 support attempt (i.e. T-Mobile users). Force kill is now required for both mDNSResponderHelper and mDNSResponder. Minor changes in description. Added a few more hosts requested by users. Added ocsp.apple.com (both IPv6 and IPv4).
+ UPDATED: v2.8.1 (23/03/2019) - Moved IPv6 hosts to EUHB.
+ UPDATED: v2.8.2 (23/03/2019) - Changed IPv6 entries "::/128" for "::".
+ UPDATED: v2.8.3 (23/03/2019) - Removed JB hosts (they are already included in UHB). Fixed missing mDNSResponderHelper killer in installation process.
+ UPDATED: v2.8.4 (23/03/2019) - Fixed typo in logs.
+ UPDATED: v2.8.5 (23/03/2019) - Cleanup.
+ UPDATED: v2.8.6 (23/03/2019) - Fixed initial info log about number of blocked hosts for IPv4+IPv6 in install script.
+ UPDATED: v2.8.7 (23/03/2019) - Fixed issue with number of lines read by installation script to enforce the limit.
+ UPDATED: v2.8.8 (23/03/2019) - Fixed postinst.ori.
+ UPDATED: v2.8.9 (23/03/2019) - Added some new hosts.
+ UPDATED: v2.9.0 (24/03/2019) - Added some hosts from BlackJack8 - iOSAdblockList. Increased hosts line limit to 3550 entries.
+ UPDATED: v2.9.1 (25/03/2019) - New mDNSResponderHelper killing technique, this should fix issues with LetMeBlock not working after install/upgrade. Updated point 37.
+Author: nobody <repo@nobody.com>
+Name: Experimental UHB (Untrusted Hosts Blocker) - EUHB
