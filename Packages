@@ -1664,6 +1664,7 @@ SHA1: 448fffa776f9c8da0a0d82d6ca7d9635941c3481
 SHA256: d23e7098aec04e2cb3924fdd9b8668edc10c1f27973bb6f05dfb13cde516b445
 Section: Utilities
 Description: Library for Apple Binary- and XML-Property Lists
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libplist
 
 Package: io.mc.libpng
@@ -1679,6 +1680,7 @@ SHA1: c8810e863a71f21d13260aeab59d797dbdef0252
 SHA256: 2b5b7485c1c34072dd2dd123eec5b839261d159f0d4be18d08586a9b5f42c465
 Section: Utilities
 Description: Library for manipulating PNG images
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libpng
 
 Package: io.mc.libscrypt
@@ -1694,6 +1696,7 @@ SHA1: 21f8a0f689928d2d955c4fb4debd2e901cea93cb
 SHA256: 660d5c04d5d2faee52f100d9eda058c4b62caf0369158e5fd788f6f04ee61e4b
 Section: Utilities
 Description: Library for scrypt
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libscrypt
 
 Package: io.mc.libssh
@@ -1710,6 +1713,7 @@ SHA1: e93b1b153c78401e6d1f3f9b54262781ece311b1
 SHA256: 3ce1407ae2fc6e09d44896a064ec0d911020ed693990c8350453ec7d2780889d
 Section: Development
 Description: C library SSHv1/SSHv2 client and server protocols
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libssh
 
 Package: io.mc.libssh2
@@ -1726,6 +1730,7 @@ SHA1: 938bc20ea0f437bd2260cd616bbefe6f91cd8cfe
 SHA256: 823e63c4b67fa8c759e21389ae7d79438968ee9c981329ba110208888de9d9fa
 Section: Development
 Description: C library implementing the SSH2 protocol
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libssh2
 
 Package: io.mc.libssh2
@@ -1742,6 +1747,7 @@ SHA1: c8f2db78b8a27089abe23d4933f7a20aea81231b
 SHA256: 2465997e3709aecdddfc0c1245edb6c4a064fa9fba500cc046e533f71812f95c
 Section: Development
 Description: C library implementing the SSH2 protocol
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libssh2
 
 Package: io.mc.libtasn1
@@ -1757,6 +1763,7 @@ SHA1: d9e662fd2e96bfbeb92430bbc50919c449d237a4
 SHA256: 6b0f518d84192a1bee8354c71ba6791ba8be118090eacb7c4b0bdb057dfba040
 Section: Development
 Description: ASN.1 structure parser library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libtasn1
 
 Package: io.mc.libtiff
@@ -1773,6 +1780,7 @@ SHA1: 57450eb09adb874bd13343c673cd76cb83478c09
 SHA256: bd51b273d942e64ffc2d38376eefe6ffd4ca22d9ddec0122e6a914f2ecc43f8b
 Section: Development
 Description: TIFF library and utilities
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libtiff
 
 Package: io.mc.libtool
@@ -1788,6 +1796,7 @@ SHA1: 64220f3dc65c666c82b1aaae062832c15234349f
 SHA256: 2dc3f2f0f57d920f6f872f66f34309c1796d1e478cd5706e5a4816153fb2203a
 Section: Development
 Description: Generic library support script
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libtool
 
 Package: io.mc.libunistring
@@ -1803,6 +1812,7 @@ SHA1: 74febbd8493426eaecd66ec5fdb82d111566186b
 SHA256: 6e05535f39761350b2fd42847f2e57513d855174b24525ea66a2d8fd747c4766
 Section: Development
 Description: C string library for manipulating Unicode strings
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libunistring
 
 Package: io.mc.libusb
@@ -1818,6 +1828,7 @@ SHA1: c5561b7492ec1d499b8ff2366ced69d1eb807c7b
 SHA256: f2c52506f21735c5746afb599b260db38a1039ff8ab078f5e5030a92815af97b
 Section: Utilities
 Description: Library for USB device access
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libusb
 
 Package: io.mc.libusb
@@ -1833,6 +1844,7 @@ SHA1: e540adaed16bcb3b030b8e4a0b526d55bd20d8ce
 SHA256: 5dd97e846f3ce459707c770fc2fb860b605b30908996ca62b9b68179c71ec38c
 Section: Utilities
 Description: Library for USB device access
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libusb
 
 Package: io.mc.libusb
@@ -1848,6 +1860,7 @@ SHA1: c2272044d11d2de9c04464628dec756d10f70f2d
 SHA256: f2cc50f475bb90a2b9df7055b44845a099611bc1de88c90f8c31f73cf1c0a328
 Section: Utilities
 Description: Library for USB device access
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libusb
 
 Package: io.mc.libusbmuxd
@@ -1864,6 +1877,7 @@ SHA1: f9ad821473843b49af74e5959d908c9971976401
 SHA256: 8ab0e4094232b1d2855c6ef629217f14441c65175571f74a25166170257aa2fa
 Section: Utilities
 Description: USB multiplexor daemon for iPhone and iPod Touch devices
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: usbmuxd
 
 Package: io.mc.libusbmuxd
@@ -1880,6 +1894,7 @@ SHA1: 617aca31fc4bf636e4169ff814fa431d191d4fac
 SHA256: a61c9d9e6a507b649a36a7fbd878edd8c0095ce1b6703ad0c6b63e73456a5383
 Section: Development
 Description: Library of the USB multiplexor daemon
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libusbmuxd
 
 Package: io.mc.libuv
@@ -1895,6 +1910,7 @@ SHA1: bc17565734d4932a32bbd362b2c156ce11c338ef
 SHA256: b8c4fdff4dc8dfcc67408e6ae1319c1a9d97e4d5412478351faa5126bd187c38
 Section: Development
 Description: Multi-platform support library with a focus on asynchronous I/O
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libuv
 
 Package: io.mc.libxau
@@ -1911,6 +1927,7 @@ SHA1: 12d6dea8c6fef960d011485e9bfd5023d9ffa9bf
 SHA256: 53103f2ac198ef32945ad6e8e2d573fc0492330ace16506a4b9e1998bc2e58b0
 Section: Utilities
 Description: Implements the X11 Authorization Protocol
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libXau
 
 Package: io.mc.libxcb
@@ -1927,6 +1944,7 @@ SHA1: c29998b4c030daa4745544b8461e7c20df11414e
 SHA256: 6433a4ab5f9606ae5f6a017c5460d9256abe5316b609ca83311123170998abd0
 Section: Utilities
 Description: Provides a interface to the X Window System protocol
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libxcb
 
 Package: io.mc.libxdmcp
@@ -1943,6 +1961,7 @@ SHA1: c025ff305bb35ad7f8cef46536482d4fccb74a37
 SHA256: bf6d55d83a26fde511827567627357c027d02782564cae074f5b5052a4c8ed05
 Section: Utilities
 Description: Implements the X Display Manager Control Protocol
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libXdmcp
 
 Package: io.mc.libxml2
@@ -1958,6 +1977,7 @@ SHA1: ea53bc7461abc224b468a05cc05eb3aad7b7afec
 SHA256: f961f38365921236e63bdecac78e2600ec6d600b314d641eb5369f6e773911c3
 Section: Development
 Description: GNOME XML library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: libxml2
 
 Package: io.mc.lighttpd
@@ -1974,6 +1994,7 @@ SHA1: df842f2cb4102a4cd024a8c7bcde4c6331c3b825
 SHA256: 3904ddd444e26e03b9dd4337721f3596ef823a3fac1341f5aa652ee3aeb24fff
 Section: Utilities
 Description: Small memory footprint, flexible web-server
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: lighttpd
 
 Package: io.mc.lighttpd
@@ -1990,6 +2011,7 @@ SHA1: 2093dcf79fbfcb233539382b924cf4fff15bd7a9
 SHA256: 7135002bde1dcdaab3c3e940c5af69b71ebfa6d5de2a3febb01b30aba4764663
 Section: Utilities
 Description: Small memory footprint, flexible web-server
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: lighttpd
 
 Package: io.mc.lua
@@ -2006,6 +2028,7 @@ SHA1: 0a2b3e586d4f28b030c8b89311ad0f6277715960
 SHA256: 76bdf22db0d1863fb9e3966469008e6a5c3560cb5608bbf44222ac80f4a4ea9a
 Section: Utilities
 Description: Powerful, lightweight programming language
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: lua
 
 Package: io.mc.lua
@@ -2022,6 +2045,7 @@ SHA1: 4b3807389666c2ef5f962a638eac2027a6d8a733
 SHA256: fd0eeff104db991cf3c70d452a7b1603c0a2477bbc2dd37ed18414c80c4f1d44
 Section: Utilities
 Description: Powerful, lightweight programming language
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: lua
 
 Package: io.mc.lzo
@@ -2037,6 +2061,7 @@ SHA1: 01db6867d75e8b2b57b1f85e4244568c036930bb
 SHA256: 6b98d3334f2579cea24fe3d326105582af8a5b587d646ecf12f804bbe32f47cb
 Section: Development
 Description: Real-time data compression library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: lzo
 
 Package: io.mc.m4
@@ -2052,6 +2077,7 @@ SHA1: ca4d24712ac50deaddb1439507db7557d36ce2c9
 SHA256: e2530372a41595a1d1dc6063cb31f032aaee0cddf85ec848c8c53ab639579a2a
 Section: Utilities
 Description: Macro processing language
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: m4
 
 Package: io.mc.make
@@ -2067,6 +2093,7 @@ SHA1: 336817487c4f0ef7f29fe459d6a4abd12f73c79b
 SHA256: 4a8fbac6e36710df0c563f6350f721e9ab4b2270c22c21f65923b32bad68d3c2
 Section: Utilities
 Description: Utility for directing compilation
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: make
 
 Package: io.mc.masscan
@@ -2082,6 +2109,7 @@ SHA1: 96fa65e034f3320400942483c935d6820ac75235
 SHA256: f738803b63608046c8e8628c4ca9e769bf9eb5efcd696f5469fae35b9dc1430f
 Section: Utilities
 Description: TCP port scanner, scans entire Internet in under 5 minutes
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: masscan
 
 Package: io.mc.megatools
@@ -2098,6 +2126,7 @@ SHA1: 5ed2475e8fb49a2dbe98abce69e91d793d2bb946
 SHA256: b1c25ff3087e9867bbd886c04d665331fcea1c8cfb5fc7b4b67483d53a5f36a0
 Section: Utilities
 Description: Command-line client for Mega.co.nz
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: megatools
 
 Package: io.mc.megatools
@@ -2114,6 +2143,7 @@ SHA1: 720ee35eec3381852bbac50555be053d9ed1fcb0
 SHA256: 572adcdda17be0eb776a95a5cd74ada8482c054cf93b95f74f59800fd29202e1
 Section: Utilities
 Description: Command-line client for Mega.co.nz
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: megatools
 
 Package: io.mc.mesa
@@ -2130,6 +2160,7 @@ SHA1: 8b3cf8eb50d0ac245883a3c85c1f27a473de3f7e
 SHA256: e5cc5df5dec9e565df164e821c80206e7855b13f30754a6593f1283e65af3e10
 Section: Utilities
 Description: Graphics Library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: Mesa
 
 Package: io.mc.midnight-commander
@@ -2146,6 +2177,7 @@ SHA1: 6cc7c5cd4cb59e09c33c0903cdf5c4ae940e25cc
 SHA256: f0a895978f6c0764147d78de4326a42e5713c131a53f33c5e267438f846018fa
 Section: Utilities
 Description: Terminal-based visual file manager
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: midnight-commander
 
 Package: io.mc.mosh
@@ -2162,6 +2194,7 @@ SHA1: 0847b08a34b2a5dc57c8bb3e65935c347a87e554
 SHA256: e266fbd0c4a3e64f6daa58e827eb6d05f866bf58e44e85de925090cb1036d2f2
 Section: Utilities
 Description: Remote terminal application
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: mosh
 
 Package: io.mc.ncdu
@@ -2178,6 +2211,7 @@ SHA1: 54a8507121d9d1651509ba0236779df5b901b560
 SHA256: 88a9895deef2ba044e75b6a3816cd2372a540deb04695160ee7c85aded8d8d91
 Section: Utilities
 Description: NCurses Disk Usage
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: ncdu
 
 Package: io.mc.ncdu
@@ -2194,6 +2228,7 @@ SHA1: 65e13b98775a7ff65738bd29782454001fabf174
 SHA256: 20f087c3a155ae46abae094d88aaa65efc8954a2d5f5e66d585a1b37a47005a1
 Section: Utilities
 Description: NCurses Disk Usage
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: ncdu
 
 Package: io.mc.ncurses
@@ -2209,6 +2244,7 @@ SHA1: 277eac6d41ac1fe9e73bc7f041fc5f07f963b88a
 SHA256: 0f0a4c3736fff4dbcc16a42fbe18f9f05a7e55a37a1221631e2f948aa5c56393
 Section: Development
 Description: Text-based UI library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: ncurses
 
 Package: io.mc.ncurses
@@ -2224,6 +2260,7 @@ SHA1: 14bdaebe2fdcff8da8935ebeaff8f891bb1c1235
 SHA256: 61f21487aab74c9e7e1eb43003143dc22a06a05a16d8677d574f828279115c68
 Section: Development
 Description: Text-based UI library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: ncurses
 
 Package: io.mc.nettle
@@ -2240,6 +2277,7 @@ SHA1: 7894d6ac90aa87b6581f4ba9cfddcd1b562c898b
 SHA256: 249fe46a2673d990596a10cba82ea882bde3213d908984d38bc5e6439a1cec38
 Section: Development
 Description: Low-level cryptographic library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: nettle
 
 Package: io.mc.nghttp2
@@ -2256,6 +2294,7 @@ SHA1: a2a59cc7bf383c063261b2500638cedf37cc486e
 SHA256: a4f82bafe626e42622c5120df62d420e9f1f64478cbd81b1992f23b0ae7f0ea8
 Section: Utilities
 Description: HTTP/2 C Library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: nghttp2
 
 Package: io.mc.nghttp2
@@ -2272,6 +2311,7 @@ SHA1: 8e962b3e8958f6878fb5f0162263bdf7a5a9596d
 SHA256: bf2d2bbd4325f8fd59b1fdd1fbe596993b70d15e876a295d887cfbb60913cb76
 Section: Utilities
 Description: HTTP/2 C Library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: nghttp2
 
 Package: io.mc.nmap
@@ -2288,6 +2328,7 @@ SHA1: cf18177ce1ecbc79342d0c91057c67707944efdf
 SHA256: 81702ba36328b158d4ffb58408e6d720e748ece9f3971dfa8a8a9e0500c05222
 Section: Networking
 Description: Port scanning utility for large networks
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: nmap
 
 Package: io.mc.nmap
@@ -2304,6 +2345,7 @@ SHA1: f3713d829ce0cd2860ef1c747f5c11105fe70f19
 SHA256: 3a80b7f614939a50e529421a7aa887bbdedf069c088aebecd9f9327b6a5d144f
 Section: Networking
 Description: Port scanning utility for large networks
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: nmap
 
 Package: io.mc.nnn
@@ -2320,6 +2362,7 @@ SHA1: 3efb7c6ba3321ba217ec297661f9b4dc7bc0fb0f
 SHA256: ad95406005256edea2d9fa80781d5c4c47925f06f99b8ba4feea05d73a223fb7
 Section: Utilities
 Description: Tiny, lightning fast, feature-packed file manager
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: nnn
 
 Package: io.mc.node
@@ -2336,6 +2379,7 @@ SHA1: 3016370ebb04aaf6a17c32fc066a014614939062
 SHA256: 568597ba1e2b02394688000758a03b3aae208ed5c74f944076ef1a228538038b
 Section: Networking
 Description: Platform built on V8 to build network applications
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: node
 
 Package: io.mc.node
@@ -2352,6 +2396,7 @@ SHA1: 3c40256b00c48073f823478e8c5af6caf888832f
 SHA256: 8187fa6f700118bc63ac153e58c733f44ed589c6a1e03369b2f06c6502918ade
 Section: Networking
 Description: Platform built on V8 to build network applications
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: node
 
 Package: io.mc.oniguruma
@@ -2367,6 +2412,7 @@ SHA1: 56422f7df2e83f594d4782afd19b4a59be930b44
 SHA256: 3dc3870f17878df8e57b0d98a059fae0d887ef3a41a8a0bc5d8583a2fe851029
 Section: Development
 Description: Regular expressions library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: oniguruma
 
 Package: io.mc.openjdk
@@ -2383,6 +2429,7 @@ SHA1: 9f7f678c33e481b0af502fa5287717cdab08ef64
 SHA256: a2359d2ca39d0ae07c173bf6f409ad3b1136b14eb7b47c8edb0bf5e914b7d505
 Section: Java
 Description: Free and open-source implementation of the Java Platform.
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: OpenJDK
 
 Package: io.mc.openjdk
@@ -2399,6 +2446,7 @@ SHA1: 1db0eeec752a96585e89a7374375dfade7f1e1da
 SHA256: d0034812f5b67fff2fdd1ad02598db9ae5d415e22564b3b65627dc8b93839e85
 Section: Java
 Description: Free and open-source implementation of the Java Platform.
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: OpenJDK
 
 Package: io.mc.openldap
@@ -2415,6 +2463,7 @@ SHA1: 57f1fde7ae9e7e0dfb73d70bc54c4213d104c364
 SHA256: e99f918601e0102859cd69a8b7e10b794d08c5540b5464a6640894b3f5fc3b3c
 Section: Utilities
 Description: Open source suite of directory software
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: openldap
 
 Package: io.mc.openldap
@@ -2431,6 +2480,7 @@ SHA1: 5e3f4483e97ecbeb583dc6f19b7c6d6f5860d91c
 SHA256: e39aa3e9b3a35bad9b047a155dc7680790dd1835ed959e6e5e7311d0d0e67cae
 Section: Utilities
 Description: Open source suite of directory software
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: openldap
 
 Package: io.mc.openssl
@@ -2446,6 +2496,7 @@ SHA1: 3cc0e72c946d5bc27a0c73f3baadd031e15670f8
 SHA256: 950d65e39472dd3353f1496fb1ed7f1ef8fd9cd0d8473ce2032640c560c8ed6a
 Section: Development
 Description: SSL/TLS cryptography library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: openssl
 
 Package: io.mc.openssl
@@ -2461,6 +2512,7 @@ SHA1: 6e5fed725c701d57fbc6094d4573253d0303a267
 SHA256: 707b26b64a3c3adde63381dfba0a0a7bcb5e1f4c914296e3b1bb6080499d9126
 Section: Development
 Description: SSL/TLS cryptography library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: openssl
 
 Package: io.mc.openssl-1.1
@@ -2476,6 +2528,7 @@ SHA1: 8ec7b2df321744f4891f8560579240e92dfef80a
 SHA256: 6f193edbd4afaf2c99af4c13bf258a2d54cd13fe8953e4fab0b48ec0f815d489
 Section: Utilities
 Description: Cryptography and SSL/TLS Toolkit
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: openssl@1.1
 
 Package: io.mc.openssl-1.1
@@ -2491,6 +2544,7 @@ SHA1: 2b08c39b2bf9e994645b2b6c450eb7f5b451b273
 SHA256: 94610f24fb2a8987544fa066c16b96017ca25cfe5c73c7396ee5a97ebd9de012
 Section: Utilities
 Description: Cryptography and SSL/TLS Toolkit
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: openssl@1.1
 
 Package: io.mc.opus
@@ -2506,6 +2560,7 @@ SHA1: 3706e13cc93c37a097b3358588ba88ee7225914f
 SHA256: 971ba253970798b96cd8a2548684da9f40bb23b22aebac6c643b7fff9c74539b
 Section: Utilities
 Description: Audio codec
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: opus
 
 Package: io.mc.p11-kit
@@ -2522,6 +2577,7 @@ SHA1: 4d1afee7152b27cd7263fff92576f9be0e270d17
 SHA256: 821c9e7640f9ed92837dad96506b193f0030794fb549e406a545773b8d561a9e
 Section: Utilities
 Description: Library to load and enumerate PKCS#11 modules
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: p11-kit
 
 Package: io.mc.pcre
@@ -2537,6 +2593,7 @@ SHA1: 5b580c4f8530476dab3c86daaf8ac968faf1e205
 SHA256: 972d4ed90450cb697835329e3b9f76af6290270ed5e7ef6ae61c7215df6f7003
 Section: Development
 Description: Perl compatible regular expressions library
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: pcre
 
 Package: io.mc.pcre2
@@ -2552,6 +2609,7 @@ SHA1: 8352b0e6c2b44f08afdf7684adfc96c433ec1438
 SHA256: 894552045ee6e9e3c0c307e8d402c847120b09dc493548c9f7d2f4d38e0567fe
 Section: Development
 Description: Perl compatible regular expressions library with a new API
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: pcre2
 
 Package: io.mc.pixman
@@ -2567,6 +2625,7 @@ SHA1: a592088b442b2d1c85a1d0c99952ea6ba16440f2
 SHA256: 8a5412bc313651f4522fb972b3277aadf794360ab36c37675eba1233137d102d
 Section: Development
 Description: Low-level library for pixel manipulation
+Depiction: https://alicangonullu.github.io/iosrepo/uyum.html
 Name: pixman
 
 Package: io.mc.protobuf
