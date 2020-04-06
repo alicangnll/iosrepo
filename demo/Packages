@@ -1,0 +1,2848 @@
+Package: io.mc.a2ps
+Priority: 
+Section: Utilities
+Installed-Size: 3536
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.14-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Any-to-PostScript filter
+Name: a2ps
+Filename: dosyalar/a2ps_4.14-2_iphoneos-arm.deb
+Size: 404316
+MD5sum: 82c062ea4bc7b6d66f37d0904aa0e723
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.a52dec
+Priority: 
+Section: Utilities
+Installed-Size: 216
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.7.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library for decoding ATSC A/52 streams (AKA 'AC-3')
+Name: a52dec
+Filename: dosyalar/a52dec_0.7.4-1_iphoneos-arm.deb
+Size: 29362
+MD5sum: af5b37786da38209939fae79a6c8da53
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aacgain
+Priority: 
+Section: Utilities
+Installed-Size: 920
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.8-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: AAC-supporting version of mp3gain
+Name: aacgain
+Filename: dosyalar/aacgain_1.8-1_iphoneos-arm.deb
+Size: 316746
+MD5sum: 6d978f5c104bb3242e432f99a76427b6
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aalib
+Priority: 
+Section: Development
+Installed-Size: 372
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.4rc5-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses
+Description: Portable ASCII art graphics library
+Name: aalib
+Filename: dosyalar/aalib_1.4rc5-3_iphoneos-arm.deb
+Size: 43226
+MD5sum: e4e1aca0efd6f144f6f5b263203a7d08
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aamath
+Priority: 
+Section: Utilities
+Installed-Size: 200
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.3-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses, io.mc.readline
+Description: Renders mathematical expressions as ASCII art
+Name: aamath
+Filename: dosyalar/aamath_0.3-6_iphoneos-arm.deb
+Size: 40094
+MD5sum: fb1659f83ea4cf4f95cb6470fc565665
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.adb
+Priority: 
+Section: Utilities
+Installed-Size: 876
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 10-5
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libusb, io.mc.openssl
+Description: A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
+Name: Android Debug Bridge
+Filename: dosyalar/adb_10-5_iphoneos-arm.deb
+Size: 202358
+MD5sum: 705f5febcc0bc492eda3e9e7dcc7e5cf
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aircrack-ng
+Priority: 
+Section: Utilities
+Installed-Size: 1652
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.5.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl, io.mc.pcre, io.mc.sqlite
+Description: Next-generation aircrack with lots of new features
+Name: aircrack-ng
+Filename: dosyalar/aircrack-ng_1.5.2-1_iphoneos-arm.deb
+Size: 242718
+MD5sum: 52d270783d11421d34e66a7f9e8fea31
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aom
+Priority: 
+Section: Development
+Installed-Size: 14472
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Codec library for encoding and decoding AV1 video streams
+Name: aom
+Filename: dosyalar/aom_1.0.0-1_iphoneos-arm.deb
+Size: 1485818
+MD5sum: fe57e05e39ff412f65357475aeb59f17
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aria2
+Priority: 
+Section: Utilities
+Installed-Size: 3340
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.34.0-5
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libssh2, io.mc.libxml2, io.mc.openssl
+Description: Download with resuming and segmented downloading
+Name: aria2
+Filename: dosyalar/aria2_1.34.0-5_iphoneos-arm.deb
+Size: 800404
+MD5sum: 337d7edca7cc72853bc034705c619775
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.arp-scan
+Priority: 
+Section: Utilities
+Installed-Size: 908
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.9.5-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpcap
+Description: ARP scanning and fingerprinting tool
+Name: arp-scan
+Filename: dosyalar/arp-scan_1.9.5-2_iphoneos-arm.deb
+Size: 277466
+MD5sum: 3e544d7f0a05457533a6618f282b2367
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.arpoison
+Priority: 
+Section: Utilities
+Installed-Size: 56
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.7-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libnet
+Description: UNIX arp cache update utility
+Name: arpoison
+Filename: dosyalar/arpoison_0.7-1_iphoneos-arm.deb
+Size: 3494
+MD5sum: 16dda214f2ab9257bf61420e895cf3f1
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.aspell
+Priority: 
+Section: Utilities
+Installed-Size: 332400
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.60.7-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Spell checker with better logic than ispell
+Name: aspell
+Filename: dosyalar/aspell_0.60.7-1_iphoneos-arm.deb
+Size: 87643698
+MD5sum: a1991f3a3dac215d45fcbc33356ef209
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.axel
+Priority: 
+Section: Utilities
+Installed-Size: 112
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.17.3-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gettext, io.mc.openssl
+Description: Light UNIX download accelerator
+Name: axel
+Filename: dosyalar/axel_2.17.3-3_iphoneos-arm.deb
+Size: 26296
+MD5sum: 8d09ce829da066921b6df4a1158738a9
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.bcal
+Priority: 
+Section: Utilities
+Installed-Size: 76
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.readline
+Description: Storage conversion and expression calculator
+Name: bcal
+Filename: dosyalar/bcal_2.1-3_iphoneos-arm.deb
+Size: 14518
+MD5sum: 8b08b3721cf2937683257a57a3e9f026
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.bc
+Priority: 
+Section: Utilities
+Installed-Size: 224
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.07.1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.readline
+Description: Arbitrary precision numeric processing language
+Name: bc
+Filename: dosyalar/bc_1.07.1-3_iphoneos-arm.deb
+Size: 50516
+MD5sum: 437489d872626d48c5ae4dd02aca0026
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.bdw-gc
+Priority: 
+Section: Utilities
+Installed-Size: 628
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 8.0.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libatomic_ops
+Description: Garbage collector for C and C++
+Name: bdw-gc
+Filename: dosyalar/bdw-gc_8.0.4-1_iphoneos-arm.deb
+Size: 130086
+MD5sum: 020a95fb5555a35b4694346314212f87
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.bison
+Priority: 
+Section: Utilities
+Installed-Size: 1120
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.4.2-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.m4
+Description: Parser generator
+Name: bison
+Filename: dosyalar/bison_3.4.2-2_iphoneos-arm.deb
+Size: 265274
+MD5sum: 2519ac6fd269d1cf85b428a8d245da8e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.boost
+Priority: 
+Section: Utilities
+Installed-Size: 189136
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.70.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Collection of portable C++ source libraries
+Name: boost
+Filename: dosyalar/boost_1.70.0-1_iphoneos-arm.deb
+Size: 11350158
+MD5sum: e6d6c08e3d20fb845f4be2bd21761bc5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.bsdiff
+Priority: 
+Section: Utilities
+Installed-Size: 108
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.3-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Generate and apply patches to binary files
+Name: bsdiff
+Filename: dosyalar/bsdiff_4.3-1_iphoneos-arm.deb
+Size: 7656
+MD5sum: c45d3230ed938d975655af918cb52706
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.byacc
+Priority: 
+Section: Utilities
+Installed-Size: 136
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 20190617-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: (Arguably) the best yacc variant
+Name: byacc
+Filename: dosyalar/byacc_20190617-1_iphoneos-arm.deb
+Size: 41096
+MD5sum: 644e9bc84c338f1cad4c6b3942ff26b6
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.c-ares
+Priority: 
+Section: Development
+Installed-Size: 152
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.15.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Asynchronous DNS library
+Name: c-ares
+Filename: dosyalar/c-ares_1.15.0-1_iphoneos-arm.deb
+Size: 33326
+MD5sum: ea1f6db7ef3ce90d0d31d3e2fa36723a
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.cairo
+Priority: 
+Section: Development
+Installed-Size: 2196
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.16.0-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.fontconfig, io.mc.freetype, io.mc.glib, io.mc.libpng, io.mc.lzo, io.mc.pixman
+Description: Vector graphics library with cross-device output support
+Name: cairo
+Filename: dosyalar/cairo_1.16.0-3_iphoneos-arm.deb
+Size: 468432
+MD5sum: 12bd2c726b0c12d4f4ac2743db82a455
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.cmake
+Priority: 
+Section: Utilities
+Installed-Size: 38588
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.15.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Cross-platform make
+Name: cmake
+Filename: dosyalar/cmake_3.15.4-1_iphoneos-arm.deb
+Size: 6724942
+MD5sum: 89ada2e36084324ef7d910e1868a560f
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.megadev.coronacounter
+Name: CoronaCount
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Description: Shows Corona cases in statusbar
+Maintainer: MegaDev
+Author: MegaDev
+Section: Tweaks
+Version: 1
+Installed-Size: 348
+Filename: dosyalar/com.megadev.coronacounter_1_iphoneos-arm.deb
+Size: 83698
+MD5sum: fa536925baaf4d37cf1c712e0c38fcac
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.curl
+Priority: 
+Section: Utilities
+Installed-Size: 956
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 7.65.3-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl
+Description: Get a file from an HTTP, HTTPS or FTP server
+Name: curl
+Filename: dosyalar/curl_7.65.3-4_iphoneos-arm.deb
+Size: 318776
+MD5sum: e0470ed3ec3766586ff87015ff987ec4
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.cyrus-sasl
+Priority: 
+Section: Developer
+Installed-Size: 1048
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.1.27-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl
+Description: Authentication abstraction library.
+Name: Cryus-sasl
+Filename: dosyalar/cyrus-sasl_2.1.27-3_iphoneos-arm.deb
+Size: 139020
+MD5sum: faa6ada3bbfc9426a1862f1037c8a03b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.daq
+Priority: 
+Section: Utilities
+Installed-Size: 564
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.0.6-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpcap
+Description: Network intrusion prevention and detection system
+Name: daq
+Filename: dosyalar/daq_2.0.6-2_iphoneos-arm.deb
+Size: 90882
+MD5sum: 295f23e415fb4b8214f4a9d03f282d87
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.dash
+Priority: 
+Section: Utilities
+Installed-Size: 156
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.5.10.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.readline
+Description: POSIX-compliant descendant of NetBSD's ash (the Almquist SHell)
+Name: dash
+Filename: dosyalar/dash_0.5.10.2-1_iphoneos-arm.deb
+Size: 50090
+MD5sum: 2ede642869a2d1cb26a940dbe6c5c9b7
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.diffutils
+Priority: 
+Section: Utilities
+Installed-Size: 488
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.7-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: File comparison utilities
+Name: diffutils
+Filename: dosyalar/diffutils_3.7-1_iphoneos-arm.deb
+Size: 117942
+MD5sum: 5f57f20c15f2ecab1e4592c763de042c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.dropbear
+Priority: 
+Section: Utilities
+Installed-Size: 836
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2019.78-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Small SSH server/client for POSIX-based system
+Name: dropbear
+Filename: dosyalar/dropbear_2019.78-1_iphoneos-arm.deb
+Size: 147066
+MD5sum: 22195b52beede3a8096a3cae1f75004f
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.ettercap
+Priority: 
+Section: Utilities
+Installed-Size: 3848
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.8.3-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.curl, io.mc.geoip, io.mc.libnet, io.mc.libpcap, io.mc.ncurses, io.mc.openssl, io.mc.pcre
+Description: Multipurpose sniffer/interceptor/logger for switched LAN
+Name: ettercap
+Filename: dosyalar/ettercap_0.8.3-6_iphoneos-arm.deb
+Size: 689922
+MD5sum: 47ead7f98a6ad1cc51ea531d67ffed62
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.expat
+Priority: 
+Section: Utilities
+Installed-Size: 308
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.2.7-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: XML 1.0 parser
+Name: expat
+Filename: dosyalar/expat_2.2.7-1_iphoneos-arm.deb
+Size: 66324
+MD5sum: 1806894bf7b7bcdd0d6d914e0b0d7e98
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.ffmpeg
+Priority: 
+Section: Utilities
+Installed-Size: 24880
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.2.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.aom, io.mc.fontconfig, io.mc.freetype, io.mc.frei0r, io.mc.gnutls, io.mc.lame, io.mc.libass, io.mc.libbluray, io.mc.libsoxr, io.mc.libvidstab, io.mc.libvorbis, io.mc.libvpx, io.mc.opencore-amr, io.mc.openjpeg, io.mc.opus, io.mc.rtmpdump, io.mc.rubberband, io.mc.sdl2, io.mc.snappy, io.mc.speex, io.mc.tesseract, io.mc.theora, io.mc.x264, io.mc.x265, io.mc.xvid, io.mc.xz
+Description: Play, record, convert, and stream audio and video
+  Play, record, convert, and stream audio and video
+ 
+  Same version found on homebrew, this is a large download!
+ 
+Name: ffmpeg
+Filename: dosyalar/ffmpeg_4.2.1-1_iphoneos-arm.deb
+Size: 7257938
+MD5sum: 013bc94073190e7f4fa99c5300c6bbcf
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.fish
+Priority: 
+Section: Utilities
+Installed-Size: 11556
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.0.2-8
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses, io.mc.pcre2
+Description: User-friendly command-line shell for UNIX-like operating systems
+Name: fish
+Filename: dosyalar/fish_3.0.2-8_iphoneos-arm.deb
+Size: 1325234
+MD5sum: 3e9ca440d4e9075ed3321165be573b64
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.flac
+Priority: 
+Section: Utilities
+Installed-Size: 1200
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.3.3-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libogg
+Description: Free lossless audio codec
+Name: flac
+Filename: dosyalar/flac_1.3.3-1_iphoneos-arm.deb
+Size: 235608
+MD5sum: 638db481a6d6e295ff4051e37b7c5052
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.fltk
+Priority: 
+Section: Utilities
+Installed-Size: 4644
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.3.5-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.Xorg, io.mc.jpeg, io.mc.libpng
+Description: Cross-platform C++ GUI toolkit
+Name: fltk
+Filename: dosyalar/fltk_1.3.5-1_iphoneos-arm.deb
+Size: 935398
+MD5sum: a1a6de7692e337c82c8cb77940bc2a82
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.fontconfig
+Priority: 
+Section: Utilities
+Installed-Size: 1064
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.13.1-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.expat, io.mc.freetype
+Description: XML-based font configuration API for X Windows
+Name: fontconfig
+Filename: dosyalar/fontconfig_2.13.1-4_iphoneos-arm.deb
+Size: 131550
+MD5sum: 057df35a88427c94e54b3664e9c3f912
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.freetype
+Priority: 
+Section: Development
+Installed-Size: 1604
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.10.1-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpng
+Description: Software library to render fonts
+Name: freetype
+Filename: dosyalar/freetype_2.10.1-2_iphoneos-arm.deb
+Size: 407776
+MD5sum: a4618e44137fca22110d11f2fdbe7971
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.fribidi
+Priority: 
+Section: Utilities
+Installed-Size: 324
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.7-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Implementation of the Unicode BiDi algorithm
+Name: fribidi
+Filename: dosyalar/fribidi_1.0.7-1_iphoneos-arm.deb
+Size: 39576
+MD5sum: 3e0e61d9c882abd6168bf36fc6380d1b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.gdbm
+Priority: 
+Section: Utilities
+Installed-Size: 328
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.18.1-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: GNU database manager
+Name: gdbm
+Filename: dosyalar/gdbm_1.18.1-2_iphoneos-arm.deb
+Size: 62282
+MD5sum: d1ee82c4af31a15604c3e2720c29603b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.gdk-pixbuf
+Priority: 
+Section: Utilities
+Installed-Size: 1384
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.40.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.Xorg, io.mc.glib, io.mc.jpeg-turbo, io.mc.libpng, io.mc.libtiff
+Description: Toolkit for image loading and pixel buffer manipulation
+Name: gdk-pixbuf
+Filename: dosyalar/gdk-pixbuf_2.40.0-1_iphoneos-arm.deb
+Size: 168288
+MD5sum: 811454ae2408987bd833ff8faf2c94cd
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.geoip
+Priority: 
+Section: Development
+Installed-Size: 364
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.6.12-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: This library is for the GeoIP Legacy format (dat)
+Name: geoip
+Filename: dosyalar/geoip_1.6.12-1_iphoneos-arm.deb
+Size: 64246
+MD5sum: 9dc98e800bb435f818493466d4d9729c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.gettext
+Priority: 
+Section: Development
+Installed-Size: 5372
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.20.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: GNU internationalization (i18n) and localization (l10n) library
+Name: gettext
+Filename: dosyalar/gettext_0.20.1-1_iphoneos-arm.deb
+Size: 1396874
+MD5sum: ee7f7402292893241626c7c33dd07864
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.giflib
+Priority: 
+Section: Utilities
+Installed-Size: 528
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.1.4-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library and utilities for processing GIFs
+Name: giflib
+Filename: dosyalar/giflib_5.1.4-2_iphoneos-arm.deb
+Size: 46772
+MD5sum: 1de882dbabde64cf3a822f3be8e1c082
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.glib
+Priority: 
+Section: Development
+Installed-Size: 8120
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.60.6-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gettext, io.mc.libffi, io.mc.pcre
+Description: Core application library for C
+Name: glib
+Filename: dosyalar/glib_2.60.6-4_iphoneos-arm.deb
+Size: 1367096
+MD5sum: 2eee4ea0af672b259a6a435b28892781
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.gmp
+Priority: 
+Section: Development
+Installed-Size: 704
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 6.1.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: GNU multiple precision arithmetic library
+Name: gmp
+Filename: dosyalar/gmp_6.1.2-1_iphoneos-arm.deb
+Size: 209912
+MD5sum: fb3744fc310aef938ce934eafe1e35b0
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.gnutls
+Priority: 
+Section: Utilities
+Installed-Size: 4092
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.6.9-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gmp, io.mc.libidn2, io.mc.libtasn1, io.mc.libunistring, io.mc.nettle, io.mc.p11-kit, io.mc.unbound
+Description: GNU Transport Layer Security (TLS) Library
+Name: gnutls
+Filename: dosyalar/gnutls_3.6.9-1_iphoneos-arm.deb
+Size: 904074
+MD5sum: 24f7b67c1ba45c6bf0b22bc308c6c0ec
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.go
+Priority: 
+Section: Utilities
+Installed-Size: 352776
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.13-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Open source programming language to build simple/reliable/efficient software
+Name: go
+Filename: dosyalar/go_1.13-2_iphoneos-arm.deb
+Size: 64427236
+MD5sum: a6bb56d907bb5be887282ec7e0254554
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.graphite2
+Priority: 
+Section: Utilities
+Installed-Size: 280
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.3.13-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Smart font renderer for non-Roman scripts
+Name: graphite2
+Filename: dosyalar/graphite2_1.3.13-1_iphoneos-arm.deb
+Size: 68730
+MD5sum: 0b4e06eb70ecc2b701e3ee5f04634ba4
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.harfbuzz
+Priority: 
+Section: Utilities
+Installed-Size: 5608
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.5.3-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.cairo, io.mc.freetype, io.mc.glib, io.mc.graphite2, io.mc.icu4c
+Description: OpenType text shaping engine
+Name: harfbuzz
+Filename: dosyalar/harfbuzz_2.5.3-3_iphoneos-arm.deb
+Size: 680518
+MD5sum: a12e9cc3e0ca77248b521b1e069d87dc
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.hping
+Priority: 
+Section: Utilities
+Installed-Size: 200
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.20051105-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpcap
+Description: Command-line oriented TCP/IP packet assembler/analyzer
+Name: hping
+Filename: dosyalar/hping_3.20051105-2_iphoneos-arm.deb
+Size: 56654
+MD5sum: 551fe1e00a4c41cfb0a1a7b2f0f58ad5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.httpry
+Priority: 
+Section: Utilities
+Installed-Size: 80
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.8-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpcap
+Description: Packet sniffer for displaying and logging HTTP traffic
+Name: httpry
+Filename: dosyalar/httpry_0.1.8-2_iphoneos-arm.deb
+Size: 13968
+MD5sum: 2e25e4aba3692f84fdf7eadac4b7940b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.icu4c
+Priority: 
+Section: Utilities
+Installed-Size: 38416
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 64.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: C/C++ and Java libraries for Unicode and globalization
+Name: icu4c
+Filename: dosyalar/icu4c_64.2-1_iphoneos-arm.deb
+Size: 9237702
+MD5sum: 8c371eee97d2023cf392f9ac0af5c40a
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.ike-scan
+Priority: 
+Section: Utilities
+Installed-Size: 4220
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.9.4-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl-1.1
+Description: Discover and fingerprint IKE hosts
+Name: ike-scan
+Filename: dosyalar/ike-scan_1.9.4-3_iphoneos-arm.deb
+Size: 975156
+MD5sum: dfecacdf81ea59742982309ca2d24a79
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.jansson
+Priority: 
+Section: Development
+Installed-Size: 124
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.12-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: C library for encoding, decoding, and manipulating JSON
+Name: jansson
+Filename: dosyalar/jansson_2.12-1_iphoneos-arm.deb
+Size: 23644
+MD5sum: 63bbf85696138769ba2882a020e482e2
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.jemalloc
+Priority: 
+Section: Utilities
+Installed-Size: 740
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.2.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: malloc implementation emphasizing fragmentation avoidance
+Name: jemalloc
+Filename: dosyalar/jemalloc_5.2.1-1_iphoneos-arm.deb
+Size: 170458
+MD5sum: c327b6fed7d471b99dd14587a34177be
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.john-jumbo
+Priority: 
+Section: Utilities
+Installed-Size: 74312
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.9.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gmp, io.mc.openssl
+Description: Enhanced version of john, a UNIX password cracker
+Name: john-jumbo
+Filename: dosyalar/john-jumbo_1.9.0-1_iphoneos-arm.deb
+Size: 29234394
+MD5sum: 0887b492ce092e6abf8b4856cfd8195c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.jpeg-turbo
+Priority: 
+Section: Utilities
+Installed-Size: 2528
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.0.2-5
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: io.mc.jpeg
+Conflicts: io.mc.jpeg
+Provides: io.mc.jpeg
+Description: JPEG image codec that aids compression and decompression
+Name: jpeg-turbo
+Filename: dosyalar/jpeg-turbo_2.0.2-5_iphoneos-arm.deb
+Size: 324838
+MD5sum: 0c86e7f6846d5b10330cec2cccf01c31
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.jpeg
+Priority: 
+Section: Development
+Installed-Size: 684
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 9c-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Image manipulation library
+Name: jpeg
+Filename: dosyalar/jpeg_9c-1_iphoneos-arm.deb
+Size: 142796
+MD5sum: da5a398469f1a588293a71d6d5697d4c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.jq
+Priority: 
+Section: Utilities
+Installed-Size: 400
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.6-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.oniguruma
+Description: Lightweight and flexible command-line JSON processor
+Name: jq
+Filename: dosyalar/jq_1.6-2_iphoneos-arm.deb
+Size: 108380
+MD5sum: 7857895b3b01e7ded740f41953cb2d9b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libdnet
+Priority: 
+Section: Development
+Installed-Size: 252
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.12-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Portable low-level networking library
+Name: libdnet
+Filename: dosyalar/libdnet_1.12-1_iphoneos-arm.deb
+Size: 39588
+MD5sum: eeb92750d61ba5a869bb597a76c81cdd
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libepoxy
+Priority: 
+Section: Utilities
+Installed-Size: 3336
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.5.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library for handling OpenGL function pointer management
+Name: libepoxy
+Filename: dosyalar/libepoxy_1.5.4-1_iphoneos-arm.deb
+Size: 298610
+MD5sum: 3154e54cfa3400cd5141ec9c2a4aea9d
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libevent
+Priority: 
+Section: Development
+Installed-Size: 1304
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.1.11-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl
+Description: Asynchronous event library
+Name: libevent
+Filename: dosyalar/libevent_2.1.11-4_iphoneos-arm.deb
+Size: 210948
+MD5sum: b71d595c46b5ba61429ed416fce1934d
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libev
+Priority: 
+Section: Development
+Installed-Size: 140
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.27-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Asynchronous event library
+Name: libev
+Filename: dosyalar/libev_4.27-1_iphoneos-arm.deb
+Size: 27770
+MD5sum: ca780496377428ea56aef14ff7821651
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libffi
+Priority: 
+Section: Development
+Installed-Size: 112
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.2.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Portable Foreign Function Interface library
+Name: libffi
+Filename: dosyalar/libffi_3.2.1-1_iphoneos-arm.deb
+Size: 17276
+MD5sum: 79006fdf5e3c759ccacd3efcb13cf5ba
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libidn2
+Priority: 
+Section: Development
+Installed-Size: 272
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.2.0-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gettext, io.mc.libunistring
+Description: International domain name library (IDNA2008, Punycode and TR46)
+Name: libidn2
+Filename: dosyalar/libidn2_2.2.0-2_iphoneos-arm.deb
+Size: 60862
+MD5sum: 62b5100957f4ef2f11e1650da6cbccab
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libidn
+Priority: 
+Section: Development
+Installed-Size: 404
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.35-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: International domain name library
+Name: libidn
+Filename: dosyalar/libidn_1.35-1_iphoneos-arm.deb
+Size: 66076
+MD5sum: 8b2bd2a0214f9324d9636e9a1f15b0f8
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libimobiledevice
+Priority: 
+Section: Utilities
+Installed-Size: 1392
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.2.0-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libplist, io.mc.libtasn1, io.mc.libusbmuxd, io.mc.openssl
+Description: Library to communicate with iOS devices natively
+Name: libimobiledevice
+Filename: dosyalar/libimobiledevice_1.2.0-3_iphoneos-arm.deb
+Size: 135572
+MD5sum: e5c5527186d6155988d9d5c805aa7197
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libmagic
+Priority: 
+Section: Utilities
+Installed-Size: 7584
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.37-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Implementation of the file(1) command
+Name: file
+Filename: dosyalar/libmagic_5.37-1_iphoneos-arm.deb
+Size: 509610
+MD5sum: 3874325ef0d4982741a2f57a9fe54493
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libnet
+Priority: 
+Section: Development
+Installed-Size: 324
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.1.6-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: C library for creating IP packets
+Name: libnet
+Filename: dosyalar/libnet_1.1.6-2_iphoneos-arm.deb
+Size: 62716
+MD5sum: a15338c11fe6c042e596b6e66ee463c5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libpcap
+Priority: 
+Section: Development
+Installed-Size: 872
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.9.0-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Portable library for network traffic capture
+Name: libpcap
+Filename: dosyalar/libpcap_1.9.0-2_iphoneos-arm.deb
+Size: 146762
+MD5sum: d114150385d88581e89ef72b9e809069
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libplist
+Priority: 
+Section: Utilities
+Installed-Size: 332
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.0.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library for Apple Binary- and XML-Property Lists
+Name: libplist
+Filename: dosyalar/libplist_2.0.0-1_iphoneos-arm.deb
+Size: 42104
+MD5sum: 5258df61485f918f1e5fabfb3935eb81
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libpng
+Priority: 
+Section: Utilities
+Installed-Size: 576
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.6.37-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library for manipulating PNG images
+Name: libpng
+Filename: dosyalar/libpng_1.6.37-1_iphoneos-arm.deb
+Size: 142018
+MD5sum: e5ab04b20639e82b3b9141689effda57
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libscrypt
+Priority: 
+Section: Utilities
+Installed-Size: 68
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.21-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library for scrypt
+Name: libscrypt
+Filename: dosyalar/libscrypt_1.21-2_iphoneos-arm.deb
+Size: 10678
+MD5sum: 525c2e2815f0dc13db5b2a3f9e669788
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libssh2
+Priority: 
+Section: Development
+Installed-Size: 332
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.9.0-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl
+Description: C library implementing the SSH2 protocol
+Name: libssh2
+Filename: dosyalar/libssh2_1.9.0-3_iphoneos-arm.deb
+Size: 88412
+MD5sum: f3497fddf701cb9700ee40ca9cd6f2b6
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libssh
+Priority: 
+Section: Development
+Installed-Size: 1836
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.9.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openssl
+Description: C library SSHv1/SSHv2 client and server protocols
+Name: libssh
+Filename: dosyalar/libssh_0.9.0-1_iphoneos-arm.deb
+Size: 307722
+MD5sum: 7e7a44f8a99586c4cb7eacecfe8ba727
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libtasn1
+Priority: 
+Section: Development
+Installed-Size: 288
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.14-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: ASN.1 structure parser library
+Name: libtasn1
+Filename: dosyalar/libtasn1_4.14-1_iphoneos-arm.deb
+Size: 39580
+MD5sum: a29d85f7e12ab158b9da0e2565bff0f2
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libtiff
+Priority: 
+Section: Development
+Installed-Size: 1712
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.0.10-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.jpeg
+Description: TIFF library and utilities
+Name: libtiff
+Filename: dosyalar/libtiff_4.0.10-2_iphoneos-arm.deb
+Size: 273272
+MD5sum: c7191ddac89ccaa70bbeeea98561021d
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libtool
+Priority: 
+Section: Development
+Installed-Size: 2264
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.4.6-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Generic library support script
+Name: libtool
+Filename: dosyalar/libtool_2.4.6-1_iphoneos-arm.deb
+Size: 294820
+MD5sum: b67bda88d14780f50cf6307df81389fa
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libunistring
+Priority: 
+Section: Development
+Installed-Size: 1820
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.9.10-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: C string library for manipulating Unicode strings
+Name: libunistring
+Filename: dosyalar/libunistring_0.9.10-1_iphoneos-arm.deb
+Size: 415726
+MD5sum: 5af20b7555f40979d231dd9fbffa54ac
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libusbmuxd
+Priority: 
+Section: Development
+Installed-Size: 148
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.10-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libplist, io.mc.libusb
+Description: Library of the USB multiplexor daemon
+Name: libusbmuxd
+Filename: dosyalar/libusbmuxd_1.0.10-3_iphoneos-arm.deb
+Size: 17214
+MD5sum: 985b90f39b5a9f0f5d8038f1af19c367
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libusb
+Priority: 
+Section: Utilities
+Installed-Size: 224
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.23-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Library for USB device access
+Name: libusb
+Filename: dosyalar/libusb_1.0.23-3_iphoneos-arm.deb
+Size: 49378
+MD5sum: 30f50bd906cc78e1aff68586bbc406d0
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libuv
+Priority: 
+Section: Development
+Installed-Size: 344
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.31.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Multi-platform support library with a focus on asynchronous I/O
+Name: libuv
+Filename: dosyalar/libuv_1.31.0-1_iphoneos-arm.deb
+Size: 76294
+MD5sum: 8ba3667a3ca4af8694100f6996a9d75d
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libxau
+Priority: 
+Section: Utilities
+Installed-Size: 68
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.9-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xorgproto
+Description: Implements the X11 Authorization Protocol
+Name: libXau
+Filename: dosyalar/libXau_1.0.9-1_iphoneos-arm.deb
+Size: 5884
+MD5sum: 8aef1806e7b7db427140991e42d519f5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libxdmcp
+Priority: 
+Section: Utilities
+Installed-Size: 72
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.1.3-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xorgproto
+Description: Implements the X Display Manager Control Protocol
+Name: libXdmcp
+Filename: dosyalar/libXdmcp_1.1.3-1_iphoneos-arm.deb
+Size: 9594
+MD5sum: 3a101efca69c860f38c7f3ff9d69d740
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.libxml2
+Priority: 
+Section: Development
+Installed-Size: 2088
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.9.9-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: GNOME XML library
+Name: libxml2
+Filename: dosyalar/libxml2_2.9.9-1_iphoneos-arm.deb
+Size: 540462
+MD5sum: d3609e1d94c7cbb325d229b0faa05338
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.lighttpd
+Priority: 
+Section: Utilities
+Installed-Size: 2500
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.4.54-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.openldap, io.mc.openssl, io.mc.pcre
+Description: Small memory footprint, flexible web-server
+Name: lighttpd
+Filename: dosyalar/lighttpd_1.4.54-3_iphoneos-arm.deb
+Size: 256382
+MD5sum: b0abd0847b8fdbf614b1c1abb47853a7
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.lua
+Priority: 
+Section: Utilities
+Installed-Size: 456
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.3.5-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.readline
+Description: Powerful, lightweight programming language
+Name: lua
+Filename: dosyalar/lua_5.3.5-4_iphoneos-arm.deb
+Size: 98872
+MD5sum: 3a11c1a64476539342503fbba4906d31
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.lzo
+Priority: 
+Section: Development
+Installed-Size: 392
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.10-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Real-time data compression library
+Name: lzo
+Filename: dosyalar/lzo_2.10-1_iphoneos-arm.deb
+Size: 57900
+MD5sum: 7816b96a5c0839326bc83a1a7317370e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.m4
+Priority: 
+Section: Utilities
+Installed-Size: 280
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.4.18-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Macro processing language
+Name: m4
+Filename: dosyalar/m4_1.4.18-1_iphoneos-arm.deb
+Size: 101112
+MD5sum: c6462bf77ffd3ee2fc749e7640cfc06a
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.make
+Priority: 
+Section: Utilities
+Installed-Size: 236
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.2.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Utility for directing compilation
+Name: make
+Filename: dosyalar/make_4.2.1-1_iphoneos-arm.deb
+Size: 85008
+MD5sum: ee1e5bd04324fdbc7c26f52db65106d5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.masscan
+Priority: 
+Section: Utilities
+Installed-Size: 392
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.5-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: TCP port scanner, scans entire Internet in under 5 minutes
+Name: masscan
+Filename: dosyalar/masscan_1.0.5-1_iphoneos-arm.deb
+Size: 145392
+MD5sum: 808337e8e6ac0f2989ff1659f9a70bff
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.megatools
+Priority: 
+Section: Utilities
+Installed-Size: 1420
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.10.2-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.curl, io.mc.glib, io.mc.openssl
+Description: Command-line client for Mega.co.nz
+Name: megatools
+Filename: dosyalar/megatools_1.10.2-3_iphoneos-arm.deb
+Size: 128714
+MD5sum: 69e3a63eb5fc8a1faaef0a157241fd69
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.mesa
+Priority: 
+Section: Utilities
+Installed-Size: 19092
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 19.1.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.Xorg, io.mc.expat, io.mc.gettext
+Description: Graphics Library
+Name: Mesa
+Filename: dosyalar/mesa_19.1.4-1_iphoneos-arm.deb
+Size: 2587140
+MD5sum: 7bcf698355eecf81a49568025a522f6e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.midnight-commander
+Priority: 
+Section: Utilities
+Installed-Size: 4184
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.8.22-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.glib, io.mc.libssh2, io.mc.openssl, io.mc.s-lang
+Description: Terminal-based visual file manager
+Name: midnight-commander
+Filename: dosyalar/midnight-commander_4.8.22-1_iphoneos-arm.deb
+Size: 792722
+MD5sum: a263af40acf66a36a85c5ff037ac351c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.mosh
+Priority: 
+Section: Utilities
+Installed-Size: 1004
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.3.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses, io.mc.protobuf
+Description: Remote terminal application
+Name: mosh
+Filename: dosyalar/mosh_1.3.2-1_iphoneos-arm.deb
+Size: 206650
+MD5sum: 54d96734c3b7d4835424dd5a69e41636
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.ncdu
+Priority: 
+Section: Utilities
+Installed-Size: 284
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.14.1-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses
+Description: NCurses Disk Usage
+Name: ncdu
+Filename: dosyalar/ncdu_1.14.1-4_iphoneos-arm.deb
+Size: 100028
+MD5sum: 752177f9cd962b925e02b0330658a744
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.ncurses
+Priority: 
+Section: Development
+Installed-Size: 21312
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 6.1-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Text-based UI library
+Name: ncurses
+Filename: dosyalar/ncurses_6.1-6_iphoneos-arm.deb
+Size: 757146
+MD5sum: ae1c9a8f4aed3891504e500932c1f56c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.nettle
+Priority: 
+Section: Development
+Installed-Size: 1244
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.4.1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gmp
+Description: Low-level cryptographic library
+Name: nettle
+Filename: dosyalar/nettle_3.4.1-3_iphoneos-arm.deb
+Size: 282010
+MD5sum: 9cc5e7850c1d92ff44290d16887aaed4
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.nghttp2
+Priority: 
+Section: Utilities
+Installed-Size: 2528
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.39.2-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.c-ares, io.mc.jansson, io.mc.jemalloc, io.mc.libev, io.mc.libevent, io.mc.libxml2, io.mc.openssl
+Description: HTTP/2 C Library
+Name: nghttp2
+Filename: dosyalar/nghttp2_1.39.2-3_iphoneos-arm.deb
+Size: 534038
+MD5sum: cb88834906dacdf2857d948d221c849d
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.nmap
+Priority: 
+Section: Networking
+Installed-Size: 25892
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 7.80-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libdnet, io.mc.libssh2, io.mc.lua, io.mc.openssl, io.mc.pcre
+Description: Port scanning utility for large networks
+Name: nmap
+Filename: dosyalar/nmap_7.80-4_iphoneos-arm.deb
+Size: 4535506
+MD5sum: f29a05c64c617c4f8aafe609b3cc2ebc
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.nnn
+Priority: 
+Section: Utilities
+Installed-Size: 332
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.7-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses, io.mc.readline
+Description: Tiny, lightning fast, feature-packed file manager
+Name: nnn
+Filename: dosyalar/nnn_2.7-1_iphoneos-arm.deb
+Size: 117220
+MD5sum: 0971c6c75ab08e7f2ebe74abf00a17a5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.node
+Priority: 
+Section: Networking
+Installed-Size: 53180
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 12.9.0-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.c-ares, io.mc.nghttp2, io.mc.openssl-1.1
+Description: Platform built on V8 to build network applications
+Name: node
+Filename: dosyalar/node_12.9.0-3_iphoneos-arm.deb
+Size: 8158170
+MD5sum: 551b99d7114372e4ef903448a9a120a0
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.oniguruma
+Priority: 
+Section: Development
+Installed-Size: 632
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 6.9.3-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Regular expressions library
+Name: oniguruma
+Filename: dosyalar/oniguruma_6.9.3-1_iphoneos-arm.deb
+Size: 137548
+MD5sum: c0857b6016417e5c401002a2f75d0ff8
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.openjdk
+Priority: 
+Section: Java
+Installed-Size: 213664
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 11+28-12
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libffi
+Description: Free and open-source implementation of the Java Platform.
+Name: OpenJDK
+Filename: dosyalar/openjdk_11+28-12_iphoneos-arm.deb
+Size: 93832446
+MD5sum: 090b8c36465713f2b4512f6f0b0053b5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.openldap
+Priority: 
+Section: Utilities
+Installed-Size: 3652
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.4.48-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.cyrus-sasl, io.mc.openssl
+Description: Open source suite of directory software
+Name: openldap
+Filename: dosyalar/openldap_2.4.48-3_iphoneos-arm.deb
+Size: 808060
+MD5sum: 653bc85c9030dde1c72ddb741cbcdc70
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.openssl-1.1
+Priority: 
+Section: Utilities
+Installed-Size: 3040
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.1.1c-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Cryptography and SSL/TLS Toolkit
+Name: openssl@1.1
+Filename: dosyalar/openssl@1.1_1.1.1c-2_iphoneos-arm.deb
+Size: 1087238
+MD5sum: 977ad62eae63ea982da904d11fd31f66
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.openssl
+Priority: 
+Section: Development
+Installed-Size: 4908
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.2s-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: SSL/TLS cryptography library
+Name: openssl
+Filename: dosyalar/openssl_1.0.2s-2_iphoneos-arm.deb
+Size: 968552
+MD5sum: 4564f4cfdbfaf31e8772f640c2e0ddf8
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.opus
+Priority: 
+Section: Utilities
+Installed-Size: 568
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.3.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Audio codec
+Name: opus
+Filename: dosyalar/opus_1.3.1-1_iphoneos-arm.deb
+Size: 201958
+MD5sum: 47d1a77d5c7424882ea20d12137d15a3
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.p11-kit
+Priority: 
+Section: Utilities
+Installed-Size: 3356
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.23.16.1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libffi
+Description: Library to load and enumerate PKCS#11 modules
+Name: p11-kit
+Filename: dosyalar/p11-kit_0.23.16.1-3_iphoneos-arm.deb
+Size: 366054
+MD5sum: 70e1a9cff503bf0d6b8b8e1b58588271
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.pcre2
+Priority: 
+Section: Development
+Installed-Size: 2288
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 10.33-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Perl compatible regular expressions library with a new API
+Name: pcre2
+Filename: dosyalar/pcre2_10.33-1_iphoneos-arm.deb
+Size: 412488
+MD5sum: 922ca8273683fd355956663d0163305f
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.pcre
+Priority: 
+Section: Development
+Installed-Size: 2044
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 8.43-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Perl compatible regular expressions library
+Name: pcre
+Filename: dosyalar/pcre_8.43-1_iphoneos-arm.deb
+Size: 367994
+MD5sum: 0a19e9b670a44c38eb5131430b40bec1
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.pixman
+Priority: 
+Section: Development
+Installed-Size: 496
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.38.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Low-level library for pixel manipulation
+Name: pixman
+Filename: dosyalar/pixman_0.38.4-1_iphoneos-arm.deb
+Size: 129688
+MD5sum: f602d229491ccb93c0720896939ebedc
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.protobuf
+Priority: 
+Section: Utilities
+Installed-Size: 8388
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.10.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Protocol buffers (Google's data interchange format)
+Name: protobuf
+Filename: dosyalar/protobuf_3.10.0-1_iphoneos-arm.deb
+Size: 1434352
+MD5sum: b9d4cbd3c65975fe5174091e4346c910
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.ptunnel
+Priority: 
+Section: Utilities
+Installed-Size: 104
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.72-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpcap
+Description: Tunnel over ICMP
+Name: ptunnel
+Filename: dosyalar/ptunnel_0.72-1_iphoneos-arm.deb
+Size: 22092
+MD5sum: e647ccdfb999c011544c0618ac07a065
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.pyobjc
+Priority: optional
+Section: Scripting
+Installed-Size: 1184
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.2-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libffi, io.mc.libxml2, io.mc.python
+Description: Python/Objective-C connection library
+Name: PyObjC
+Filename: dosyalar/pyobjc_5.2-6_iphoneos-arm.deb
+Size: 219274
+MD5sum: d607ecfae5f3a3e5cb4e0792d3a9b0e5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.python
+Priority: 
+Section: Utilities
+Installed-Size: 55104
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.7.4-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.expat, io.mc.gdbm, io.mc.libffi, io.mc.ncurses, io.mc.openssl, io.mc.openssl-1.1, io.mc.readline, io.mc.sqlite, io.mc.xz
+Description: Interpreted, interactive, object-oriented programming language
+Name: python
+Filename: dosyalar/python_3.7.4-4_iphoneos-arm.deb
+Size: 10135482
+MD5sum: 0410e78f75c87bfb802a09a591975f10
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.qemu
+Priority: 
+Section: Utilities
+Installed-Size: 501816
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.1.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.vde
+Description: x86 and PowerPC Emulator
+Name: qemu
+Filename: dosyalar/qemu_4.1.0-1_iphoneos-arm.deb
+Size: 62823524
+MD5sum: 0a1760e03d720ddec2c0d8490772b6f4
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.qemu
+Priority: 
+Section: Utilities
+Installed-Size: 353656
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.2.0-5
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.glib, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.libpng, io.mc.libssh, io.mc.libusb, io.mc.lzo, io.mc.ncurses, io.mc.pixman, io.mc.spice-protocol, io.mc.spice, io.mc.vde
+Description: Generic and open source machine emulator and virtualizer.
+Name: qemu
+Filename: dosyalar/qemu_4.2.0-5_iphoneos-arm.deb
+Size: 37167850
+MD5sum: bc14f26e921a168c8353381687624019
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.readline
+Priority: 
+Section: Utilities
+Installed-Size: 544
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 8.0.0-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses
+Description: Library for command-line editing
+Name: readline
+Filename: dosyalar/readline_8.0.0-4_iphoneos-arm.deb
+Size: 147106
+MD5sum: 0afd893ea705f4d5ca31256930d10345
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.s-lang
+Priority: 
+Section: Utilities
+Installed-Size: 2904
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.3.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpng
+Description: Library for creating multi-platform software
+Name: s-lang
+Filename: dosyalar/s-lang_2.3.2-1_iphoneos-arm.deb
+Size: 457426
+MD5sum: cb723abb29807b558c205951b3e88902
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.snort
+Priority: 
+Section: Utilities
+Installed-Size: 4704
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.9.14.1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.daq, io.mc.libdnet, io.mc.libpcap, io.mc.nghttp2, io.mc.openssl, io.mc.pcre
+Description: Flexible Network Intrusion Detection System
+Name: snort
+Filename: dosyalar/snort_2.9.14.1-3_iphoneos-arm.deb
+Size: 822810
+MD5sum: e8dd71652cfd2cbe149222dee4330917
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.spice-protocol
+Priority: 
+Section: Utilities
+Installed-Size: 136
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.14.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Headers for SPICE protocol
+Name: spice-protocol
+Filename: dosyalar/spice-protocol_0.14.0-1_iphoneos-arm.deb
+Size: 18326
+MD5sum: 383f34df6d413c36662a04951662cc6b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.spice
+Priority: 
+Section: Utilities
+Installed-Size: 1292
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.14.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.gdk-pixbuf, io.mc.glib, io.mc.jpeg-turbo, io.mc.openssl, io.mc.opus, io.mc.pixman, io.mc.spice-protocol, io.mc.usbredir
+Description: Implements the server side of the SPICE protocol
+Name: spice-server
+Filename: dosyalar/spice_0.14.2-1_iphoneos-arm.deb
+Size: 288018
+MD5sum: 79803332b63c9cd2aa6dff21218ea4fc
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.sqlite
+Priority: 
+Section: Utilities
+Installed-Size: 3964
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.29.0-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.readline
+Description: Command-line interface for SQLite
+Name: sqlite
+Filename: dosyalar/sqlite_3.29.0-3_iphoneos-arm.deb
+Size: 939980
+MD5sum: 78a82192fe1d9ab8a5839817e562a7ce
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.sshpass
+Priority: optional
+Section: Networking
+Installed-Size: 56
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.06-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssh
+Description: Non-interactive ssh password authentication
+Name: sshpass
+Filename: dosyalar/sshpass_1.06-1_iphoneos-arm.deb
+Size: 5478
+MD5sum: b3256ba6d860ec74f4cf2fd847fd8653
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.sstp-client
+Priority: 
+Section: Utilities
+Installed-Size: 184
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.12-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libevent, io.mc.openssl
+Description: SSTP (Microsofts Remote Access Solution for PPP over SSL) client
+Name: sstp-client
+Filename: dosyalar/sstp-client_1.0.12-1_iphoneos-arm.deb
+Size: 31824
+MD5sum: afbdb00a42381e84be45b08ec22b30ce
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.tcpdump
+Priority: 
+Section: Utilities
+Installed-Size: 1780
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.9.2-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpcap, io.mc.openssl
+Description: Command-line packet analyzer
+Name: tcpdump
+Filename: dosyalar/tcpdump_4.9.2-3_iphoneos-arm.deb
+Size: 280054
+MD5sum: 024ede701225ca4ca1d3ff391c7b56cb
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.tcpflow
+Priority: 
+Section: Utilities
+Installed-Size: 740
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.5.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.boost, io.mc.libpcap, io.mc.openssl
+Description: TCP flow recorder
+Name: tcpflow
+Filename: dosyalar/tcpflow_1.5.0-1_iphoneos-arm.deb
+Size: 188328
+MD5sum: 158777efffa19dbefbbe91388c80bfd3
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.tcsh
+Priority: 
+Section: Utilities
+Installed-Size: 448
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 6.21.00-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Enhanced, fully compatible version of the Berkeley C shell
+Name: tcsh
+Filename: dosyalar/tcsh_6.21.00-1_iphoneos-arm.deb
+Size: 168692
+MD5sum: 8a74143ee8fe242a3c6a2a9ca5eac545
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.tiger-vnc
+Priority: 
+Section: Utilities
+Installed-Size: 3768
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.10.1-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.XorgFonts, io.mc.fltk, io.mc.gettext, io.mc.gnutls, io.mc.jpeg-turbo, io.mc.xorg-server
+Description: High-performance, platform-neutral implementation of VNC
+Name: tiger-vnc
+Filename: dosyalar/tiger-vnc_1.10.1-3_iphoneos-arm.deb
+Size: 957638
+MD5sum: fc7e55c96213e178a47f69b4e1937e11
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.tmux
+Priority: 
+Section: Utilities
+Installed-Size: 664
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.9a-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libevent, io.mc.ncurses
+Description: Terminal multiplexer
+Name: tmux
+Filename: dosyalar/tmux_2.9a-1_iphoneos-arm.deb
+Size: 220732
+MD5sum: 4b3b2fdb4e2fa56f7167e4f0fef99931
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.tor
+Priority: 
+Section: Networking
+Installed-Size: 11188
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.4.1.5-4
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libevent, io.mc.libscrypt, io.mc.openssl, io.mc.xz
+Description: Anonymizing overlay network for TCP
+Name: tor
+Filename: dosyalar/tor_0.4.1.5-4_iphoneos-arm.deb
+Size: 1987302
+MD5sum: d54fe00669d7f89a3cccc6edd4bd26c2
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.transmission-cli
+Priority: 
+Section: Utilities
+Installed-Size: 4344
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.94-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.curl, io.mc.libevent
+Description: Lightweight BitTorrent client
+Name: transmission-cli
+Filename: dosyalar/transmission-cli_2.94-1_iphoneos-arm.deb
+Size: 638186
+MD5sum: 26a1f1c1882d3b6c694750292c274558
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.twm
+Priority: 
+Section: Utilities
+Installed-Size: 204
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.10-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xorg-server
+Description: very minimal window manager
+Name: twm
+Filename: dosyalar/twm_1.0.10-1_iphoneos-arm.deb
+Size: 69166
+MD5sum: 1bab399744a1a6b12b037004bf90370f
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.unbound
+Priority: 
+Section: Utilities
+Installed-Size: 4
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.9.2-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libevent, io.mc.openssl
+Description: Validating, recursive, caching DNS resolver
+Name: unbound
+Filename: dosyalar/unbound_1.9.2-2_iphoneos-arm.deb
+Size: 644
+MD5sum: 0e6658bb0f7a8df761daf8427c870637
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.usbfluxd
+Priority: 
+Section: Utilities
+Installed-Size: 164
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-94cb00e-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libplist
+Description: Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
+Name: usbfluxd
+Filename: dosyalar/usbfluxd_1.0-94cb00e-1_iphoneos-arm.deb
+Size: 26162
+MD5sum: f63798773a2d9eafb2291091c61375f0
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.usbmuxd
+Priority: 
+Section: Utilities
+Installed-Size: 112
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.10-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libimobiledevice, io.mc.libplist, io.mc.libusb, io.mc.libusbmuxd
+Description: USB multiplexor daemon for iPhone and iPod Touch devices
+Name: usbmuxd
+Filename: dosyalar/usbmuxd_1.0.10-3_iphoneos-arm.deb
+Size: 26824
+MD5sum: 4071327f14f46d23a6caded46d82eca5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.usbredir
+Priority: 
+Section: Development
+Installed-Size: 252
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.8.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libusb
+Description: USB traffic redirection library
+Name: usbredir
+Filename: dosyalar/usbredir_0.8.0-1_iphoneos-arm.deb
+Size: 33786
+MD5sum: 750b6ba82b400a9f5fc8d5d4ff88967b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.util-macros
+Priority: 
+Section: Utilities
+Installed-Size: 100
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.19.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: contains the m4 macros used by all of the Xorg packages
+Name: util-macros
+Filename: dosyalar/util-macros_1.19.2-1_iphoneos-arm.deb
+Size: 21468
+MD5sum: 4c48c1261a0e862f07dfcbb0a2ec979b
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.vde
+Priority: 
+Section: Networking
+Installed-Size: 1372
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.3.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Ethernet compliant virtual network
+Name: vde
+Filename: dosyalar/vde_2.3.2-1_iphoneos-arm.deb
+Size: 137768
+MD5sum: b00e66c4bb55eee8c26f0b2437847665
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.webp
+Priority: 
+Section: Utilities
+Installed-Size: 1300
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.3-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.jpeg, io.mc.libpng, io.mc.libtiff
+Description: Image format providing lossless and lossy compression for web images
+Name: webp
+Filename: dosyalar/webp_1.0.3-3_iphoneos-arm.deb
+Size: 257582
+MD5sum: bc118dcc72c27274b32b139c2c58c737
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.wget
+Priority: 
+Section: Utilities
+Installed-Size: 540
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.20.3-3
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libidn2, io.mc.openssl
+Description: Internet file retriever
+Name: wget
+Filename: dosyalar/wget_1.20.3-3_iphoneos-arm.deb
+Size: 200036
+MD5sum: d9b86ee2f594707315fe4e6fc7ed31a3
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.whois
+Priority: 
+Section: Utilities
+Installed-Size: 132
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.5.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libidn2
+Description: Lookup tool for domain names and other internet resources
+Name: whois
+Filename: dosyalar/whois_5.5.2-1_iphoneos-arm.deb
+Size: 27486
+MD5sum: 2fd35155d25dc86b13688e7b84785609
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.wine
+Priority: 
+Section: Utilities
+Installed-Size: 348932
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 4.2.0-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.freetype, io.mc.jpeg, io.mc.libpng
+Description: Run Windows applications without a copy of Microsoft Windows
+Name: wine
+Filename: dosyalar/wine_4.2.0-2_iphoneos-arm.deb
+Size: 27591754
+MD5sum: 2bd54ec1791b38aa6051856e195e1acd
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.x264
+Priority: 
+Section: Utilities
+Installed-Size: 3304
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: r2917-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: H.264/AVC encoder
+Name: x264
+Filename: dosyalar/x264_r2917-1_iphoneos-arm.deb
+Size: 529664
+MD5sum: 11e61c42569f4ef28c34d7d0ba372039
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.x265
+Priority: 
+Section: Utilities
+Installed-Size: 5020
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.1.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: H.265/HEVC encoder
+Name: x265
+Filename: dosyalar/x265_3.1.2-1_iphoneos-arm.deb
+Size: 723886
+MD5sum: 5238e9caf808963813fad4a57b75d2a8
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xbitmaps
+Priority: 
+Section: Utilities
+Installed-Size: 424
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.1.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.util-macros
+Description: contains bitmap images used by multiple X applications
+Name: xbitmaps
+Filename: dosyalar/xbitmaps_1.1.2-1_iphoneos-arm.deb
+Size: 18426
+MD5sum: 0d5187d0871ae719874992602d04b662
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-proto
+Priority: 
+Section: Utilities
+Installed-Size: 992
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.13-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Provides the XML-XCB protocol descriptions that libxcb uses to generate the majority of its code and API
+Name: xcb-proto
+Filename: dosyalar/xcb-proto_1.13-1_iphoneos-arm.deb
+Size: 102102
+MD5sum: 4ee614167d5d85d35a5db6bbe486b6e6
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-util-cursor
+Priority: 
+Section: Utilities
+Installed-Size: 76
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.3-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xcb-util-image, io.mc.xcb-util-renderutil, io.mc.xcb-util
+Description: provides a module that implements the XCB cursor library
+Name: xcb-util-cursor
+Filename: dosyalar/xcb-util-cursor_0.1.3-1_iphoneos-arm.deb
+Size: 9862
+MD5sum: fbad00649091d3f1b68ddcbee233f751
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-util-image
+Priority: 
+Section: Utilities
+Installed-Size: 104
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.4.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xcb-util
+Description: Provides additional extensions to the XCB library
+Name: xcb-util-image
+Filename: dosyalar/xcb-util-image_0.4.0-1_iphoneos-arm.deb
+Size: 14456
+MD5sum: a9f9dcfde8a9f6f8b9efcd5d1ae74603
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-util-keysyms
+Priority: 
+Section: Utilities
+Installed-Size: 68
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.4.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libxcb
+Description: Contains a library for handling standard X key constants and conversion to/from keycodes
+Name: xcb-util-keysyms
+Filename: dosyalar/xcb-util-keysyms_0.4.0-1_iphoneos-arm.deb
+Size: 4538
+MD5sum: ff68851f3cdd1d5df91b3471aafb08f2
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-util-renderutil
+Priority: 
+Section: Utilities
+Installed-Size: 76
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.3.9-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libxcb
+Description: provides additional extensions to the XCB library
+Name: xcb-util-renderutil
+Filename: dosyalar/xcb-util-renderutil_0.3.9-1_iphoneos-arm.deb
+Size: 6272
+MD5sum: e8d110b3f035b016ff1636e09e9a3b26
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-util-wm
+Priority: 
+Section: Utilities
+Installed-Size: 300
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.4.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libxcb
+Description: contains libraries which provide client and window-manager helpers for EWMH and ICCCM
+Name: xcb-util-wm
+Filename: dosyalar/xcb-util-wm_0.4.1-1_iphoneos-arm.deb
+Size: 27794
+MD5sum: 862ddc3c8e817410624939e8dfd4123e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcb-util
+Priority: 
+Section: Utilities
+Installed-Size: 100
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.4.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libxcb
+Description: Provides additional extensions to the XCB library
+Name: xcb-util
+Filename: dosyalar/xcb-util_0.4.0-1_iphoneos-arm.deb
+Size: 8312
+MD5sum: a8b3c5bca52791cec9ec9750ded205bb
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xclock
+Priority: 
+Section: Utilities
+Installed-Size: 88
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.9-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.Xorg
+Description: a simple X11 clock application
+Name: xclock
+Filename: dosyalar/xclock_1.0.9-1_iphoneos-arm.deb
+Size: 19916
+MD5sum: f362e30dfae4985534265c1a5ea3b485
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xcursor-themes
+Priority: 
+Section: Utilities
+Installed-Size: 4048
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0.6-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.XorgApps
+Description: package contains the redglass and whiteglass animated cursor themes
+Name: xcursor-themes
+Filename: dosyalar/xcursor-themes_1.0.6-1_iphoneos-arm.deb
+Size: 311204
+MD5sum: 4b00721f8e0aeddeca014214d9fcea4f
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xf86-video-dummy
+Priority: 
+Section: Utilities
+Installed-Size: 64
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 0.3.8-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xorg-server
+Description: X server dummy display driver
+Name: Xorg video dummy
+Filename: dosyalar/xf86-video-dummy_0.3.8-1_iphoneos-arm.deb
+Size: 6492
+MD5sum: 78af63a367432cf45008cc1a0b853f09
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xinit
+Priority: 
+Section: Utilities
+Installed-Size: 204
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.4.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.Xorg, io.mc.xorg-server
+Description: script to start Xserver
+Name: xinit
+Filename: dosyalar/xinit_1.4.1-1_iphoneos-arm.deb
+Size: 18232
+MD5sum: 905969f9fb72afc5c8395b8273ec4062
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xkeyboard-config
+Priority: 
+Section: Utilities
+Installed-Size: 3816
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2.28-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.Xorg
+Description:  contains the keyboard configuration database for the X Window System
+Name: xkeyboard-config
+Filename: dosyalar/xkeyboard-config_2.28-1_iphoneos-arm.deb
+Size: 321904
+MD5sum: 04452220af896ee5449054c197fe9315
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xorg-server
+Priority: 
+Section: X_Window
+Installed-Size: 7976
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.20.6-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.XorgFonts, io.mc.libepoxy, io.mc.libpng, io.mc.openssl-1.1, io.mc.pixman, io.mc.xkeyboard-config
+Description: core of the X Window system
+Name: xorg-server
+Filename: dosyalar/xorg-server_1.20.6-2_iphoneos-arm.deb
+Size: 1407122
+MD5sum: 3975d3b4c2fb73950b249507a36a2282
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xorgapps
+Priority: 
+Section: Utilities
+Installed-Size: 2736
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.libpng, io.mc.mesa, io.mc.xbitmaps, io.mc.xcb-util
+Description: provids the expected applications available in previous X Window implementations.
+Name: Xorg Applications
+Filename: dosyalar/XorgApps_1.0-2_iphoneos-arm.deb
+Size: 384876
+MD5sum: de78b7f401dbcfdbf0a8397e7ecffca2
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xorgfonts
+Priority: 
+Section: Utilities
+Installed-Size: 4872
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.xcursor-themes
+Description: provides some scalable fonts and supporting packages for Xorg applications
+Name: Xorg Fonts
+Filename: dosyalar/XorgFonts_1.0-2_iphoneos-arm.deb
+Size: 2012810
+MD5sum: fece0ddb84dcb47662a3a7c899ef7785
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xorglegacy
+Priority: 
+Section: Utilities
+Installed-Size: 19428
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.XorgFonts, io.mc.xcursor-themes
+Description: includes deprecated fonts for Xorg
+Name: Xorg Legacy Fonts
+Filename: dosyalar/XorgLegacy_1.0-2_iphoneos-arm.deb
+Size: 13503360
+MD5sum: 8d1d6f9efa7cb2b7b8b523f8e396e5e1
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xorgproto
+Priority: 
+Section: Development
+Installed-Size: 1692
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 2019.2-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.util-macros
+Description: xorgproto package provides the header files required to build the X Window system
+Name: xorgproto
+Filename: dosyalar/xorgproto_2019.2-1_iphoneos-arm.deb
+Size: 164408
+MD5sum: 91b22595ac27a6fb907f65908c29d6a4
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xorg
+Priority: 
+Section: Utilities
+Installed-Size: 8596
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-mega-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.fontconfig, io.mc.libxcb
+Description: Provides library routines that are used within all X Window applications (LFS 2019-12-11)
+Name: Xorg
+Filename: dosyalar/Xorg_1.0-mega-1_iphoneos-arm.deb
+Size: 1456754
+MD5sum: 46f177d2762b51aff8c2bad6437ce5e1
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xterm
+Priority: 
+Section: Utilities
+Installed-Size: 852
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 352-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.XorgApps, io.mc.fontconfig, io.mc.ncurses, io.mc.pcre2
+Description: terminal emulator for the X Window System
+Name: xterm
+Filename: dosyalar/xterm_352-1_iphoneos-arm.deb
+Size: 237844
+MD5sum: f22fd554b366743d733f9b2d6a209d4e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xvid
+Priority: 
+Section: Development
+Installed-Size: 1108
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 1.3.5-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: High-performance, high-quality MPEG-4 video library
+Name: xvid
+Filename: dosyalar/xvid_1.3.5-1_iphoneos-arm.deb
+Size: 199730
+MD5sum: 77471cea58b5a7abeb431611473c0e88
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.xz
+Priority: 
+Section: Utilities
+Installed-Size: 728
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.2.4-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: General-purpose data compression with high compression ratio
+Name: xz
+Filename: dosyalar/xz_5.2.4-1_iphoneos-arm.deb
+Size: 132574
+MD5sum: 3be3e58263a4d94d6f18d221eabb1a7e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.yara
+Priority: 
+Section: Utilities
+Installed-Size: 676
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 3.10.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.jansson, io.mc.libmagic, io.mc.openssl-1.1
+Description: Malware identification and classification tool
+Name: yara
+Filename: dosyalar/yara_3.10.0-1_iphoneos-arm.deb
+Size: 144574
+MD5sum: 8a48625185c54580c15ea9535911bca5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: io.mc.zsh
+Priority: 
+Section: Utilities
+Installed-Size: 9864
+Maintainer: Mac C. <MCApollo@protonmail.com>
+Architecture: iphoneos-arm
+Version: 5.7.1-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: io.mc.ncurses, io.mc.pcre
+Description: UNIX shell (command interpreter)
+Name: zsh
+Filename: dosyalar/zsh_5.7.1-1_iphoneos-arm.deb
+Size: 1480252
+MD5sum: 71aa032e8824d001179c882d612e7877
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
