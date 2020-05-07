@@ -4028,3 +4028,24 @@ Size: 83698
 MD5sum: fa536925baaf4d37cf1c712e0c38fcac
 SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
 SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: ws.hbang.common
+Name: Cephei
+Depends: com.rpetrich.rocketbootstrap, firmware (>= 13.0) | jp.ashikase.techsupport
+Architecture: iphoneos-arm
+Description: Support library for tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Depiction: https://repo.chariz.com/package/ws.hbang.common/
+Support: https://hashbang.productions/support/
+Tag: role::developer, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+dev: hbang
+Version: 1.15
+Installed-Size: 1928
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.common/depiction.json
+Filename: ./TR/ws.hbang.common_1.15_iphoneos-arm.deb
+SHA256: ee6038aa055bea296b646bb37f474bd6b8b9686db8c9e244d7461bb15c57c573
+MD5sum: 13fd3ebcb19f11832e9ec303e115bbcc
+Size: 223698
