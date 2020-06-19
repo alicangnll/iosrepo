@@ -4070,3 +4070,19 @@ MD5sum: 612e3c55752ee8cfc631e341c5618795
 SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
 SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
 Size: 37192
+
+Package: sileoturkiye.onlinenotify
+Name: OnlineNotify Türkçe
+Version: 3.2.1
+Architecture: iphoneos-arm
+Description: WhatsApp'ta Arkadaşlarınızı takip edin!
+Pre-Depends: sileoturkiye.watusitools
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.f0u4d.onlinenotify
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: Fouad Raheb
+Section: Türkçeleştirilmiş
+sha256: 49a3ced59886abc01872461725a5139190e7ea0854e25ef114e701902502ee9d
+MD5sum: ad1f376910f785c5d692522f66d425cf
+Size: 683492
+Filename: ./TR/onlinenotify.deb
