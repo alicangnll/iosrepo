@@ -4102,3 +4102,18 @@ sha256: 62761dc76ba93ac3b0ea561253c71ede8e53020131d0a1a9b62ed39073bd27e8
 MD5sum: 09122a99132b2e2f7eb84df1991dfc10
 Size: 4021224
 Filename: ./TR/watusi.deb
+
+Package: alicangonullu.watusitools
+Name: WatusiTools Cracked
+Version: 2.1.26
+Architecture: iphoneos-arm
+Description: Watusi ve WhatsApp tweakleri için kütüphane dosyaları.
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), com.pulandres.watools, com.f0u4d.watusitools, org.mr.watusitools, ru.rejail.watusitools, com.hackyouriphone.watools
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Author: Fouad Raheb
+Section: TR - Sistem
+sha256: 800419f6bddd76e77c6e4eb25f6fd933a0dad094d3467a5682846f1c10950472
+MD5sum: d35dd49e230d8cf6228ef24fe2dc58cd
+Size: 13828522
+Filename: ./TR/watusitools.deb
