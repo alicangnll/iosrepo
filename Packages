@@ -4071,12 +4071,12 @@ SHA1: 6c2cb0c69f77b84090f76ebfa909bf64e40b11b9
 SHA256: 1f6aed403c557eec1ac93bdb2fc50fe5e9808f230783480ea488a2f42880642f
 Size: 37192
 
-Package: sileturkiye.onlinenotify
+Package: sileoturkiye.onlinenotify
 Name: OnlineNotify Türkçe
 Version: 3.2.1
 Architecture: iphoneos-arm
 Description: WhatsApp'ta Arkadaşlarınızı takip edin!
-Pre-Depends: sileturkiye.watusitools
+Pre-Depends: sileoturkiye.watusitools
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap
 Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.f0u4d.onlinenotify
 Maintainer: Önder Azazi <onderazazi@hotmail.com>
@@ -4087,12 +4087,12 @@ MD5sum: ad1f376910f785c5d692522f66d425cf
 Size: 683492
 Filename: ./TR/onlinenotify.deb
 
-Package: sileturkiye.watusi
+Package: sileoturkiye.watusi
 Name: Watusi 2 for WhatsApp
 Version: 1.3.6
 Architecture: iphoneos-arm
 Description: WhatsApp Messenger için mükemmel özellikler ekler.
-Pre-Depends: sileturkiye.watusitools
+Pre-Depends: sileoturkiye.watusitools
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist
 Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack, com.fouadraheb.watusi, org.mr.watusi, ru.rejail.watusi
 Maintainer: Önder Azazi <onderazazi@hotmail.com>
@@ -4103,7 +4103,7 @@ MD5sum: 09122a99132b2e2f7eb84df1991dfc10
 Size: 4021224
 Filename: ./TR/watusi.deb
 
-Package: sileturkiye.watusitools
+Package: sileoturkiye.watusitools
 Name: WatusiTools Cracked
 Version: 2.1.26
 Architecture: iphoneos-arm
